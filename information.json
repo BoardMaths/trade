@@ -1,0 +1,1905 @@
+{
+
+  
+  "CommonServicesSection": {
+    "Cadres": [
+      {
+        "Cadre": "Cleaner",
+        "Grades": [
+          {"Cleaner Grade Level 01":  "Details": {
+          "Duties": [
+            "Cleaning Offices, closets and office premises"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of an able-bodied candidate"
+          ],
+          "AdvancementPath": "Promotion to Senior Cleaner "
+        }  },
+
+          {"Senior Cleaner Grade Level 02":  "Details": {
+          "Duties": [
+            "Performing General Cleaning Duties"
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable cleaner who has spent at least two years on
+the grade."
+          ],
+          "AdvancementPath": "Promotion to Head Cleaner "
+        }  },
+          {"Head Cleaner Grade Level 03":  "Details": {
+          "Duties": [
+            "Performing Cleaning Duties",
+            "Supervising a number of cleaners",
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Senior Cleaner who has spent at least two
+years on the grade."
+          ],
+          "AdvancementPath": ""
+        }  },
+
+
+          
+        ],
+       
+      },   
+    
+      {
+        "Cadre": "Watchman",
+        "Grades": [
+          {"Watchman Grade II Grade Level 01":  "Details": {
+          "Duties": [
+            "Watching Office buildings and Government properties",
+            "Opening and locking gates of a Government Institution."
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate who is mentally and physically fit and possesses the ability to read and write.",
+            
+          ],
+          "AdvancementPath": "Promotion to Watchman Grade I"
+        }},
+          {"Watchman Grade I Grade Level 02":  "Details": {
+          "Duties": [
+            "Watching Office buildings and Government properties",
+            "Opening and locking gates of a Government Institution."
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Watchman Grade Ii who has spent at least two years on the grade.",
+            
+          ],
+          "AdvancementPath": "Promotion to Senior Watchman "
+        }},
+          {"Senior Watchman, Grade Level 03":  "Details": {
+          "Duties": [
+            "Supervising the activities of a number of Watchman",
+            "Watching Office buildings and Government properties",
+          ],
+          "EntryRequirements": [
+            "By promotion of a Watchman who has spent at least two years on the grade",
+            
+          ],
+          "AdvancementPath": "Promotion to Head Watchman"
+        }},
+          {"Head Watchman, Grade Level 04":  "Details": {
+          "Duties": [
+            "Co-ordinating the activities of a number of Watchmen",
+            "Watching Office buildings and Government properties",
+          ],
+          "EntryRequirements": [
+            "By promotion of Senior Watchman who has spent at least two years on the grade.",
+            
+          ],
+          "AdvancementPath": ""
+        }},
+          {"Head Watchman, Grade Level 04":  "Details": {
+          "Duties": [
+            "Co-ordinating the activities of a number of Watchmen",
+            "Watching Office buildings and Government properties",
+          ],
+          "EntryRequirements": [
+            "By promotion of Senior Watchman who has spent at least two years on the grade.",
+            
+          ],
+          "AdvancementPath": ""
+        }},
+
+
+        ],
+       
+      },  
+      
+      
+      {
+        "Cadre": "Security Guard",
+        "Grades": [
+          {"Security Guard Grade II Grade Level 03":  "Details": {
+          "Duties": [
+            "Keeping records of movement of persons and vehicles",
+            "Searching vehicles and suspected visitors or employees"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate plus evidence of training in either the Nigerian Police or any of the disciplined services."
+          ],
+          "AdvancementPath": "Promotion to Security Guard Grade I"
+        }},
+          {"Security Guard Grade I Grade Level 04":  "Details": {
+          "Duties": [
+            "Keeping records of movement of persons and vehicles",
+            "Searching vehicles and suspected visitors or employees"
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Security Guard Grade II who has spent at least two years on the grade."
+          ],
+          "AdvancementPath": "Promotion to Senior Security Guard"
+        }},
+          {"Senior Security Guard Grade Level 05":  "Details": {
+          "Duties": [
+            "Keeping records and searching suspected vehicles and employees",
+            "Overseeing the activities of a number of Security Guards"
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Security Guard, Grade II who has spent at least two years on the grade"
+          ],
+          "AdvancementPath": "Promotion to Head Security Guard"
+        }},
+          {"Head Security Guard Grade Level 06":  "Details": {
+          "Duties": [
+            "Advising on security matters",
+            "Co-ordinating the activities of a number of Security Guards"
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Senior Security Guard who has spent at least two years on the grade."
+          ],
+          "AdvancementPath": ""
+        }},
+
+
+          
+          
+          
+        ],
+       
+      }, 
+      
+      
+
+      {
+        "Cadre": "Messenger",
+        "Grades": [
+          {"Messenger Grade Level 02":  "Details": {
+          "Duties": [
+            "Moving files from officers’ tables",
+            "Carrying and delivering letters, articles and message"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate.",
+            "By promotion from a lower post, of any suitable officer possessing the First School Leaving Certificate."
+          ],
+          "AdvancementPath": "Promotion to Senior Messenger"
+        }},
+          {"Senior Messenger Grade Level 03":  "Details": {
+          "Duties": [
+            "Carrying Security boxes",
+            "Directing visitors",
+            "Assisting a Head Messenger in supervising a number of Messengers",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Messenger who has spent at least two years on the grade."
+          ],
+          "AdvancementPath": "Promotion to Head Messenger"
+        }},
+          {"Head Messenger Grade Level 04":  "Details": {
+          "Duties": [
+            "Supervising Junior Messengers, and checking attendance registers.",
+            "Carrying mails to and from the Post Office."
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Senior Messenger who has spent at least two years on the grade."
+          ],
+          "AdvancementPath": ""
+        }},
+          
+        ],
+       
+      },   
+
+      {
+        "Cadre": "Porter",
+        "Grades": [
+         {"Porter Grade Level 03":  "Details": {
+          "Duties": [
+            "Taking charge of entrances to public buildings and controlling the entry of visitors to offices.",
+            "Serving as ushers and guides to visitors to public buildings",
+            "Controlling the entry of visitors into public buildings and other official meeting places.",
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing Junior Secondary School Certificate or S.75."
+          ],
+          "AdvancementPath": "Promotion to Senior Porter"
+        }},
+         {"Senior Porter Grade Level 04":  "Details": {
+          "Duties": [
+            "Supervising a number of porters in a public building",
+            "Preparing duty rosters for vetting by the Head Porter",
+            "Performing the duty of a porter when the latter is unavailable",
+            "Requisitioning stationery items for porters",
+            "Ensuring security of Government inner properties i.e. Typewriters, Fans etc.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Porter who has spent at least two years on the grade."
+          ],
+          "AdvancementPath": "Promotion to Head Porter"
+        }},
+         {"Head Porter Grade Level 05":  "Details": {
+          "Duties": [
+            "Deploying porters",
+            "Completing APER forms for porters",
+            "Completing Indemnity Forms for porters’ salaries before First and Second payments",
+            "Safe-keeping of lost and found items before handing them over to Security Guards or the Police after a specified period",
+            "Reporting cases of missing items for example, door any vehicle keys, etc.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Senior Porter who has spent at least two years on the grade."
+          ],
+          "AdvancementPath": ""
+        }},
+          
+          
+        ],
+       
+      },   
+
+      {
+        "Cadre": "Radio/Telephone Operator",
+        "Grades": [
+          {"Radio/Telephone Operator Grade Level 03":  "Details": {
+          "Duties": [
+            "Operating a Telephone PBX under-supervision.",
+            "Ensuring that the switchboard under his control is efficiently maintained.",
+            "Collecting revenue for private calls."
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate Possessing at least the First SchoolLeaving Certificate plus evidence of framing in telephone operation duties."
+          ],
+          "AdvancementPath": "Promotion to Senior Radio/Telephone Operator"
+        }},
+          {"Senior Radio/Telephone Operator Grade Level 04":  "Details": {
+          "Duties": [
+            "Supervising a number of Ratio/Telephone Operators",
+            "Rendering accounts of the revenue collected for private calls.",
+            "Keeping such records as are required in the operation of a Telephone PBX."
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed suitable Radio/Telephone Opera who has spent at least two years on the grade",
+            "By direct appointment of a candidate possessing the First School Leaving Certificate with a minimum of two years post-qualification cognate experience.",
+          ],
+          "AdvancementPath": "Promotion to Radio/Telephone Supervisor"
+        }},
+          {"Radio/Telephone Supervisor Grade Level 05":  "Details": {
+          "Duties": [
+            "Taking charge of a Telephone Exchange",
+            "Supervising a number of Telephone Operators/Senior Radio Operators.",
+              ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Senior Radio/Telephone Operator who has spent at least two years on the grade",
+            "By direct appointment of a candidate possessing the First School Leaving Certificate with a minimum of four years post-qualification cognate experience.",
+          ],
+          "AdvancementPath": "Promotion to Senior Radio/Telephone Supervisor"
+        }},
+        
+          {"Senior Radio/Telephone Supervisor Grade Level 06":  "Details": {
+          "Duties": [
+            "Assisting in supervising telephone staff in a defined area.",
+            "Assisting in the training of telephone operators.",
+              ],
+          "EntryRequirements": [
+            "By promotion of a confirmed suitable Radio/Telephone Supervisor who has spent at least two years on the grade.",
+          ],
+          "AdvancementPath": "Promotion to Chief Radio/Telephone Supervisor"
+        }},
+        
+          {"Chief Radio/Telephone Supervisor Grade Level 07":  "Details": {
+          "Duties": [
+            "Supervising telephone is a defined area",
+            "Advising the authority on the 5ining and posting of telephone operators.",
+              ],
+          "EntryRequirements": [
+            "By promotion of a suitable Senior Radio/Telephone supervisor who has spent at least two years on the grade.",
+          ],
+          "AdvancementPath": ""
+        }},
+        
+      
+          
+          
+        ],
+       
+      },   
+
+
+      {
+        "Cadre": "Tailor",
+        "Grades": [
+          {"Assistant Tailor Grade Level 03":  "Details": {
+          "Duties": [
+            "Sewing simple dresses",
+            "Mending clothes",
+            "Cleaning sewing machines"
+          ],
+          "EntryRequirements": [
+            "By appointment of a candidate possessing a minimum of First School Leaving Certificate plus a pass in the Federal Ministry of labour Trade Test Class III in Tailoring or a Certificate from a reputable Tailoring Firm."
+          ],
+          "AdvancementPath": "Promotion to Tailor"
+        }},
+        
+          {"Tailor Grade Level 04":  "Details": {
+          "Duties": [
+            "Sewing all types of dresses.",
+            "Cutting simple dresses.",
+            "Making minor repairs of sewing machines."
+          ],
+          "EntryRequirements": [
+            "By advancement of a confirmed and suitable Assistant Tailor who has passed Government Trade Test Class II and spent at least two years on the grade.",
+            "By direct appointment of a candidate possessing at least First School Leaving Certificate plus Government Trade Test Class II in Tailoring and a minimum of two years’ experience in the trade.",
+            "By direct appointment of a candidate possessing the Government Craft Certificate obtained from a Government Trade Center or any approved Institution."
+          ],
+          "AdvancementPath": "Promotion to Senior Tailor Grade II"
+        }},
+          {"Senior Tailor Grade II Grade Level 05":  "Details": {
+          "Duties": [
+            "Supervising the work of a number of junior staff.",
+            "Taking charge of a small Tailoring Unit.",
+            "Cutting and sewing dresses into differentpatterns.",
+            "Undertaking repairs of sewing machines.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Tailor who has demonstrated competent performance, passed Government Trade Test Class I and spent at least two years on the grade.",
+            "By direct appointment of a candidate possessing at least First School Leaving Certificate plus Government Trade Test Class I and at least four years’ experience in the trade."
+          ],
+          "AdvancementPath": "Promotion to Senior Tailor Grade I"
+        }},
+          {"Senior Tailor Grade I Grade Level 06":  "Details": {
+          "Duties": [
+            "Taking charge of a large Tailoring Unit",
+            "Cutting and sewing dresses of complex pattern",
+            "Assisting in organizing for the repair of unserviceable machines",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Senior Tailor Grade 11 who has spentat least two years on the grade."
+          ],
+          "AdvancementPath": "Promotion to Chief Tailor"
+        }},
+          {"Chief Tailor Grade Level 07":  "Details": {
+          "Duties": [
+            "Keeping disposition list of the tailoring staff and sewing machines in the establishment e.g. State Hospitals.",
+            "Coordinating activities in a number of Tailoring Units",
+            "Advising the authority on matters relating to tailoring",
+            "Organizing training programmes for Tailors",
+          ],
+          "EntryRequirements": [
+            "Bypromotion of a suitable Senior Tailor Grade I who has spent at least two years on the grade."
+          ],
+          "AdvancementPath": ""
+        }},
+
+          
+        
+          
+          
+        ],
+       
+      },   
+    
+      {
+        "Cadre": "Motor Driver/Driver Mechanic",
+        "Grades": [
+          {"Motor-Driver Grade Level 02":  "Details": {
+          "Duties": [
+            "Driving with care and caution a motor vehicle (not more than 20 tons) assigned to him.",
+            "Assisting in keeping accurate and up-to-date log book.",
+            "Understanding and ensuring the correct tyre pressures, the weight and the load carrying capacity of vehicles.",
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate plus a valid Class “C” Driving Licence."
+          ],
+          "AdvancementPath": "Promotion to Heavy Lorry Driver"
+        }},
+          {"Heavy Lorry Driver Grade Level 03":  "Details": {
+          "Duties": [
+            "Driving with care and Caution any heavy vehicle (10 tons - 25 tons) assigned to him",
+            "Keeping an accurate and up-to-date log book of the movement of vehicle",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Motor Driver who has spent at least two years on the grade.",
+            "By direct appointment of a candidate possessing the First School Leaving Certificate plus a valid Class “C” Driving Licence. plus at least two years’ satisfactory post-qualification driving experience.",
+          ],
+          "AdvancementPath": "Promotion to Motor Driver-Mechanic"
+        }},
+          {"Motor Driver-Mechanic Grade Level 04":  "Details": {
+          "Duties": [
+            "Driving with care and caution any Vehicle assigned to him.",
+            "Undertaking minor maintenance and repairs of motor vehicles",
+          ],
+          "EntryRequirements": [
+            "By advancement of a suitable Motor Driver who has passed the Class III Trade Test for Motor Mechanic Work.",
+            "By direct appointment of a suitable and experienced candidate possessing the Class UI Trade Test Certificate for Motor Mechanic Work plus First SchoolLeaving Certificate and professional Driver’s Licence.",
+          ],
+          "AdvancementPath": "Promotion to Senior Motor Driver-Mechanic Grade II"
+        }},
+          {"Senior Motor Driver-Mechanic Grade II Grade Level 05":  "Details": {
+          "Duties": [
+            "Driving with care and caution any vehicle assigned to him.",
+            "Maintaining records of fuel and lubrication consumption by vehicles.",
+            "Working out vehicle performance figures and applying knowledge of indentingPurchase procedures",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Motor Driver Mechanic who has spentat least two years on the grade.",
+          ],
+          "AdvancementPath": "Promotion to Senior Motor Driver-Mechanic Grade I"
+        }},
+          {"Senior Motor Driver-Mechanic Grade I Grade Level 06":  "Details": {
+          "Duties": [
+            "Driving with care and caution any Vehicle signed to him.",
+            "Assisting in thesupervision and disposition of the staff and vehicles in the transport unit.",
+            "Assisting chief Motor Driver Mechanic in ensuring the security of vehicles in the establishment",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Senior Motor Driver Mechanic Grade II who has spent at least twoyears on the grade.",
+          ],
+          "AdvancementPath": "Promotion to Chief Motor Driver-Mechanic"
+        }},
+    
+          {"Chief Motor Driver-Mechanic Grade Level 07":  "Details": {
+          "Duties": [
+            "Driving with care and caution any vehicle assigned to him",
+            "Ensuring the security of vehicles.",
+            "Taking prompt action o accident cases",
+            "Supervising Motor Driver Mechanics and Senior Motor Driver Mechanics",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Senior Motor Driver Mechanic Grade I who has spent at least two years on the grade.",
+          ],
+          "AdvancementPath": ""
+        }},
+    
+          
+          
+          
+          
+        ],
+       
+      },   
+    
+      {
+        "Cadre": "Stores Attendant",
+        "Grades": [
+          {"Stores Attendant Grade Level 02":  "Details": {
+          "Duties": [
+            "Performing under supervision, routine and manual stores work"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate."
+          ],
+          "AdvancementPath": ""
+        }},
+        ],
+       
+      },   
+    
+      {
+        "Cadre": "Store Keeper",
+        "Grades": [
+          {"Stores Assistant Grade Level 03":  "Details": {
+          "Duties": [
+            "Assisting in a Departmental/Zonal Store",
+            "Keeping simple stores records under supervision"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of candidate possessing any of the following qualifications:
+Evidence of completion of a full course in a Government approved Secondary School
+Royal Society of Arts School Commercial Certificate
+Junior Secondary School Certificate"
+          ],
+          "AdvancementPath": "Promotion to Storekeeper"
+        }},
+          {"Storekeeper Grade Level 04":  "Details": {
+          "Duties": [
+            "Taking charge, under supervision of a site or small store",
+            "Making local purchase of small items of stores approved by the appropriate authority."
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Storekeeper who has spent at least two years on the grade.",
+            "By direct appointment of a candidate possessing any of the following qualifications:-
+West African School Certificate or Senior Secondary Schools Certificate
+General Certificate of Education (O/L) in four subjects obtained at one sitting or five subject at two sittings",
+          ],
+          "AdvancementPath": "Promotion to Senior Storekeeper"
+        }},
+          {"Senior Storekeeper Grade Level 05":  "Details": {
+          "Duties": [
+            "Taking charge, under supervision of a site or small store",
+            "Making local purchase of small items of stores approved by the appropriate authority."
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Assistant Storekeeper who has spent at least two years on the grade and passed Storekeepers Confirmation/Promotion Test at promotion level (i.e. 50%)",
+            "By direct appointment of a candidate possessing any of the following qualifications:-
+West African School Certificate or Senior Secondary Schools Certificate
+General Certificate of Education (O/L) in four subjects obtained at one sitting or five subject at two sittings plus at least two years’ post-qualification cognate experience.
+ ",
+          ],
+          "AdvancementPath": "Promotion to Assistant Chief Storekeeper"
+        }},
+          {"Assistant Chief Storekeeper Grade Level 06":  "Details": {
+          "Duties": [
+            "Taking charge of a large store",
+            "Supervising a number of small stores within a Department",
+            "Assisting in training junior staff",
+            "Making local purchase of approved materials and equipment"
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Senior Storekeeper who has spent at least two years on the grade.",
+          ],
+          "AdvancementPath": "Promotion to Chief Storekeeper"
+        }},
+          {"Chief Storekeeper Grade Level 07":  "Details": {
+          "Duties": [
+            "Supervising a very big store",
+            "Making local purchase of approved materials and equipment",
+            "Supervising and training junior staff within the Unit",
+            "Checking stock in stores in a large Department"
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Assistant Chief Storekeeper who has spent at least two years on the grade.",
+          ],
+          "AdvancementPath": ""
+        }},
+      
+        ],
+       
+      },   
+
+
+       {
+        "Cadre": "Stores Officer",
+        "Grades": [
+          {"Assistant Stores Officer Grade Level 06":  "Details": {
+          "Duties": [
+            "Taking charge, under supervision, of a Departmental or Specialized Store",
+            "Checking stores and reviewing stock positions in a big store or a number ofsmall Stores",
+            "Planning store bins.",
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate Possessing any of the following qualifications.
+
+General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings.
+Ordinary National Diploma in Business Studies.
+Intermediate Certificate of the Institute of Purchasing and Supply, London
+"
+          ],
+          "AdvancementPath": "Promotion to Stores Officer  "
+        }},
+          {"Stores Officer Grade Level 07":  "Details": {
+          "Duties": [
+            "Taking charge of materials and equipment in a Departmental or Technical Store.",
+            "Training junior Officers in his Unit",
+            "Checking stocks of allocated and unallocated stores.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed aid suitable Assist Stores Officer who has spent at least two years on the grade",
+            "By direct appointment of a candidate possessing any of the following qualifications:
+Higher National Diploma in Business Studies.
+Membership of the institute of Purchasing and Supply, London.
+Intermediate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants
+",
+            "By direct appointment of a candidate Possessing any of the following qualifications.
+
+General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings.
+Ordinary National Diploma in Business Studies.
+Intermediate Certificate of the Institute of Purchasing and Supply, London
+Intermediate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants
+",
+            "By direct appointment of a candidate Possessing any of the following qualifications.
+
+General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings.
+Ordinary National Diploma in Business Studies.
+Intermediate Certificate of the Institute of Purchasing and Supply, London  plus at least two years’ post-qualification cognate experience.
+
+",
+          ],
+          "AdvancementPath": "Promotion to Higher Stores Officer  "
+        }},
+
+          {"Higher Stores Officer Grade Level 08":  "Details": {
+          "Duties": [
+            "Taking charge of a Central Store.",
+            "Allocating Stores to Ministries/Departments or Stores Units.",
+            "Rendering reports to appropriate authorities in respect of sub-stores and stores Units within the jurisdiction.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Stores Officer who has spent at leastthree years on the grade.",
+            "By direct appointment of a candidate Possessing any of the following qualifications.
+
+General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings.
+Ordinary National Diploma in Business Studies.
+Intermediate Certificate of the Institute of Purchasing and Supply, London. plus at least five years’ post- qualificationcognate experience
+or By direct appointment of a candidate possessing any of the following qualifications:
+Higher National Diploma in Business Studies.
+Membership of the institute of Purchasing and Supply, London.
+Intermediate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants plus at least three years’post-qualification cognate experience.
+",          ],
+          "AdvancementPath": "Promotion to Senior Stores Officer  "
+        }},
+          {"Senior Stores Officer Grade Level 09":  "Details": {
+          "Duties": [
+            "Taking charge of a large Central Store.",
+            "Disposing boarded and unwanted vehicles, equipment and other goods.",
+            "Preparing insuranceclaims.",
+            "Assisting in rendering quarterly/annual reports in respect of stores services.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Higher Stores Officer who has spent at least three years ort the grade",
+            "By direct appointment of a candidate Possessing any of the following qualifications.
+
+General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings.
+Ordinary National Diploma in Business Studies.
+Intermediate Certificate of the Institute of Purchasing and Supply, London. plus at least eight years’ post- qualificationcognate experience
+or By direct appointment of a candidate possessing any of the following qualifications:
+Higher National Diploma in Business Studies.
+Membership of the institute of Purchasing and Supply, London.
+Intermediate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants plus at least six years’post-qualification cognate experience.
+",          ],
+          "AdvancementPath": "Promotion to Principal Stores Officer Grade II  "
+        }},
+
+          {"Principal Stores Officer Grade II Grade Level 10":  "Details": {
+          "Duties": [
+            "Taking charge of a large Central Store.",
+            "Disposing boarded and unwanted vehicles, equipment and other goods.",
+            "Preparing insuranceclaims.",
+            "Assisting in rendering quarterly/annual reports in respect of stores services.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Higher Stores Officer who has spent at least three years ort the grade",
+            "By direct appointment of a candidate Possessing any of the following qualifications.
+
+General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings.
+Ordinary National Diploma in Business Studies.
+Intermediate Certificate of the Institute of Purchasing and Supply, London. plus at least eight years’ post- qualificationcognate experience
+or By direct appointment of a candidate possessing any of the following qualifications:
+Higher National Diploma in Business Studies.
+Membership of the institute of Purchasing and Supply, London.
+Intermediate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants plus at least six years’post-qualification cognate experience.
+",          ],
+          "AdvancementPath": "Promotion to Principal Stores Officer Grade I  "
+        }},
+          {"Principal Stores Officer Grade I Grade Level 12":  "Details": {
+          "Duties": [
+            "Taking charge of a large Store Depot.",
+            "Conducting periodic surveys and checking stores under jurisdiction.",
+            "Keeping up-to-data prices of stores and materials.",
+          ],
+          "EntryRequirements": [
+            "
+By promotion of a confirmed and suitable Principal Stores Officer Grade II who has spent at least three years on the grade.",          ],
+          "AdvancementPath": "Promotion to Assistant Chief Stores Office"
+        }},
+          {"Assistant Chief Stores Officer Grade Level 13":  "Details": {
+          "Duties": [
+            "Supervising Stores in a large Ministry/department.",
+            "Undertaking shipping, freight and customs formalities.",
+            "Assisting in organizing training programmes of Stores Staff",
+            "Assisting in the administration of the Section.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Principal Stores Officer Grade I who has spent at least three years on the grade.",          ],
+          "AdvancementPath": "Promotion to Chief Stores Office"
+        }},
+        
+          {"Chief Stores Officer Grade Level 14":  "Details": {
+          "Duties": [
+            "Taking charge of the Stores Section",
+            "Preparingreports in respect of Government Stores.",
+            "Assisting in the review of Stores Regulations.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Assistant Chief Stores Officer who has spent at least three years on the grade.",          ],
+          "AdvancementPath": ""
+        }},
+        
+        
+        
+
+
+
+
+
+        ],
+       
+      }, 
+    
+       {
+        "Cadre": "Stock Verifier",
+        "Grades": [
+          {"Assistant Stock Verifier Grade Level 06":  "Details": {
+          "Duties": [
+            "Responsible for 100% counting, weighing and measuring of stores.",
+            "Reconciling Tally Cards with LedgerCards and tracing of payment vouchers.",
+            "Responsible for comparing stores requisitions with relative Job Cards.",
+            "Preparing Stock Verification Schedules, Stock Survey Forms, Stores Forms2and 9 Treasury Forms 146 and 147.",
+            "Conducting stock surveys of stores procured through Local Purchase Orders or by Contracts.",
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing any of the following qualifications.
+Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or our subjects at two sittings.
+Ordinary National Diploma in Business Studies
+Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification."
+          ],
+          "AdvancementPath": " Promotion to Stock Verifier"
+        }},
+          {"Stock Verifier Grade Level 07":  "Details": {
+          "Duties": [
+            "Taking charge of teams of Examiners and Checkers responsible for a 100% counting, measuring and re-organization of Stores.",
+            "Examining stores and stores accounts records and documents.",
+            "Reconciling Tally Cards with Ledger Cards balances.",
+            "Conducting stock survey of stores procured through Local Purchase Orders or by Contracts.",
+            "Carrying out stock check of Plants, Vehicles and Equipment where-ever located, including verification of plant ledger.",
+            "Compiling stock verification findings showing list of stores found surplus, deficient, obsolete and unserviceable.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Assistant Stock Verifier who has spent at least two years on the grade.",
+            "By direct appointment of a candidate possessing any of the following qualifications:
+Higher National Diploma in Business Studies
+
+Membership Certificate of the Institute of Purchasing and Supply, London.
+Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings plus two (2) years’ cognate experience in StockVerification or Stores duties.",
+          ],
+          "AdvancementPath": " Promotion to Higher Stock Verifier"
+        }},
+
+        
+          {"Higher Stock Verifier Grade Level 08":  "Details": {
+          "Duties": [
+            "Conducting stock-taking in all sub-stores.",
+            "Reconciling Tally Cards entries with Ledger Cards.",
+            "Taking inventory in government offices and residential quarters.",
+            "Maintaining records of unserviceable obsolete stores at condemned stores depot.",
+            "Examining loans, registers and preparing lists of cut-standing loans.",
+            "Rendering interim stock verification reports.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Stock Verifier who has spent at least three years on the grade.",
+            "By direct appointment of a candidate possessing any of the following qualifications.
+Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or our subjects at two sittings.
+Ordinary National Diploma in Business Studies
+Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification.  plus at least five years’ post-qualification cognate experience",
+"By direct appointment of a candidate possessing any of the following qualifications:
+Higher National Diploma in Business Studies
+
+Membership Certificate of the Institute of Purchasing and Supply, London.
+Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings. plus at least three years’ post-qualification cognate experience",
+          ],
+          "AdvancementPath": " Promotion to Senior Stock Verifier"
+        }},
+          {"Senior Stock Verifier Grade Level 09":  "Details": {
+          "Duties": [
+            "Responsible for the stock verification of allocated and/or unallocated stores.",
+            "Responsible for stock survey of stores procured through Local Purchase Orders and or Contracts.",
+            "Responsible for the reconciliation of Tally Cards postings with Stores Ledger entries",
+            "Responsible for the removal of stores found unserviceable and those whichappear to be surplus to requirements to the condemned Stores Deport for boarding and disposal processes",
+            "Vetting and writing stock verification reports on stores checked.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Higher Stock Verifier who has spent at least three years on the grade.",
+            "By direct appointment of a candidate possessing any of the following qualifications.
+Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or our subjects at two sittings.
+Ordinary National Diploma in Business Studies
+Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification.  plus at least eight post-qualification cognate experience",
+"By direct appointment of a candidate possessing any of the following qualifications:
+Higher National Diploma in Business Studies
+
+Membership Certificate of the Institute of Purchasing and Supply, London.
+Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings. plus at least six years’ post-qualification cognate experience",
+          ],
+          "AdvancementPath": " Promotion to Principal Stock Verifier Grade II"
+        }},
+          {"Principal Stock Verifier Grade II Grade Level 10":  "Details": {
+          "Duties": [
+            "Organizing stock verification of allocated and/or unallocated stores.",
+            "Organizingreconciliation of Tally Cardsposting with ledger cards entries.",
+            "Responsible for price analysis and taking charge of stock survey of the Federal Government Plants, Motor Vehicles and Equipment.",
+            "Treating matters relating to Board of Survey and Enquiry.",
+            "Training Stock Verification Personnel.",
+            "Vetting report on store checked.",
+            "Handling Stock Verification Half Yearly reports.",
+          ],
+          "EntryRequirements": [
+            "By promotion ofa confirmed and suitable Senior Stack Verifier who has spent at least three years in the grade.",
+            "By direct appointment of a candidate possessing any of the following qualifications.
+Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or our subjects at two sittings.
+Ordinary National Diploma in Business Studies
+Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification.  plus at least eleven post-qualification cognate experience",
+"By direct appointment of a candidate possessing any of the following qualifications:
+Higher National Diploma in Business Studies
+
+Membership Certificate of the Institute of Purchasing and Supply, London.
+Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings. plus at least nine years’ post-qualification cognate experience",
+          ],
+          "AdvancementPath": " Promotion to Principal Stock Verifier Grade I"
+        }},    
+        
+          {"Principal Stock Verifier Grade I Grade Level 12":  "Details": {
+          "Duties": [
+            "Verifying Tenders Documents, Contracts Agreements and Local Purchase orders for supply of stores.",
+            "Checking and ensuring proper handling of Security Book.",
+            "Writing, reviewing and submitting stock verification reports to the Accounting Officer, and treating outstanding queries related thereto.",
+            "Examining the systems of internal check and handling stores coding and classification.",
+            "Controlling and organizing the training of Stock Verification Personnel",
+            "Coordinating the activities of the Divisional and/or Sectional Heads at the Headquarters or elsewhere.",
+            "Prosecuting surcharge cases and related queries.",
+            "Ensuring thin approved supply proceeds are complied with",
+            "Developing and directing implementation of approved stores handling systems and stores, accounting and contract managements procedures."
+
+          ],
+          
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Principal Stock Verifier Grade II who has spent at least three years on the grade.",
+          ],
+          "AdvancementPath": " Promotion to Assistant Chief Stock Verifier"
+        }},    
+                
+
+        
+        {"Assistant Chief Stock Verifier Grade Level 13":  "Details": {
+        "Duties": [
+          "Assisting in general Stock Verification Administration",
+          "Assisting in general Planning of stock verification activities",
+          "Initiating stock verification programs",
+          "Initiating stock record exercise.",
+          "Recommending changes when deficiencies or abuse are deducted in the stores Systems. ",
+          " Developing Manual of Instruction for guidance of Stock Verifiers."
+
+        ],
+        
+        "EntryRequirements": [
+          "By promotion of a confirmed and suitable. Principal Stock Verifier Grade I whohas spent at least three years on the grade.
+",
+        ],
+        "AdvancementPath": " Promotion to Chief Stock Verifier"
+      }},    
+      
+      
+ 
+        
+        {"Chief Stock Verifier Grade Level 14":  "Details": {
+        "Duties": [
+          "Responsible for general stock Verification Administration",
+          "Responsible for planning stock verification activities. ",
+          " Coordinating the activities of Stock Verification Units under his Section."
+
+        ],
+        
+        "EntryRequirements": [
+          "By promotion of a confirmed and suitable Assistant Chief Stock Verifier who has spent at least four years on the grade.
+",
+        ],
+        "AdvancementPath":""
+      }},    
+      
+    
+      
+
+
+
+
+        ],
+       
+      }, 
+    
+       {
+        "Cadre": "Typist",
+        "Grades": [
+          {"Typist Grade IIII Grade Level 03":  "Details": {
+          "Duties": [
+          "Typist manuscripts and other materials that may be assigned.",
+          "Filing typed scripts/letters and making necessary cross reference.",
+          "Cutting stencils scripts" ,
+          
+          "Cyclostyling stencils on duplicating machines.",
+          
+
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School LeavingCertificate plus any of the following qualifications in typewriting at 25 wordsper minute:
+R.S.A. Certificate
+Certificate issued by any State owned Secretarial Institution.",
+          ],
+          "AdvancementPath": "Promotion to Typist Grade III"
+        }},
+        
+        
+        {"Typist Grade III Grade Level 04":  "Details": {
+        "Duties": [
+        "Performing general typing duties.",
+      "Cyclostyling stencils on duplicating machines.",
+        
+
+        ],
+        "EntryRequirements": [
+          "By direct appointment of a candidate possessing a minimum of S.75 or J.S.S.C plus any of the recognized Certificates in Typewriting at 25 words per minute.",
+        ],
+        "AdvancementPath": "Promotion to Typist Grade II"
+      }},
+        {"Typist Grade II Grade Level 05":  "Details": {
+        "Duties": [
+        "Performing general typing duties.",
+      "Cyclostyling stencils on duplicating machines.",
+        
+
+        ],
+        "EntryRequirements": [
+         " By advancement of a Typist Grade III who acquires a recognized Certificate inTypewriting at a speed of 35 words per minute.",
+        ],
+        "AdvancementPath": "Promotion to Typist Grade I"
+      }},
+        
+        
+        
+        {"Typist Grade I Grade Level 06":  "Details": {
+        "Duties": [
+        "Performing typing duties.",
+      "Assisting in supervising junior staff.",
+        
+
+        ],
+        "EntryRequirements": [
+         " By advancement of a Typist Grade U who has obtained a recognized Certificate in Typewriting at a speed of 50 words per minute.",
+         "By direct appointment of a candidate possessing a minimum of First School Leaving Certificate plus a recognized Certificate in Typewriting at a speed of 50 words per minute."
+        
+        
+        ],
+        "AdvancementPath": "Promotion to Senior Typist Grade II"
+      }},
+        
+        {"Senior Typist Grade II Grade Level 07":  "Details": {
+        "Duties": [
+        "Performing typing duties.",
+      "Assisting in keeping typing materials such as papers, stencils, etc.",
+        
+
+        ],
+        "EntryRequirements": [
+         " Bypromotion of a confirmed and suitable ‘Typist Grade I who has spent at least two years on the grade.",
+        ],
+        "AdvancementPath": "Promotion to Senior Typist Grade I"
+      }},
+        
+       
+        {"Senior Typist Grade I Grade Level 08":  "Details": {
+        "Duties": [
+        "Performing typing duties.", 
+        "Supervising Junior Typists,",
+        "Taking charge of a small Typing Pool.",
+
+        ],
+        "EntryRequirements": [
+         "By promotion of a suitable Senior Typist Grade II who has spent at least three years on the grade",
+        ],
+        "AdvancementPath": "Promotion to Chief Typist"
+      }},
+        
+        {"Chief Typist, Grade Level 09":  "Details": {
+        "Duties": [
+        "Taking charge of a Typing Pool of not less than ten Typist", 
+        "Taking charge of duplicating machines In a Department.",
+        "Coordinating the activities ofjunior staff",
+
+        ],
+        "EntryRequirements": [
+         "By promotion of a suitable Senior Typist Grade I who has spent at least three years on the grade.",
+        ],
+        "AdvancementPath": ""
+      }},
+        
+       
+
+        ],
+       
+      }, 
+    
+       {
+        "Cadre": "Confidential Secretary",
+        "Grades": [
+          {"Confidential Secretary Grade IV Grade Level 05":  "Details": {
+          "Duties": [
+            "Providing secretarial assistance such as taking dictation in shorthand and reproducing them in typed script.",
+            "Receiving visitors, enquires and telephone calls on behalf of the officer to whom he/she is attached.",
+            "Performing office routines associated with the duties enumerated above.",
+            
+
+          ],
+          "EntryRequirements": [
+            
+            "By promotion of a staff in the Clerical or Typist grades who has successfully completed the ten months Confidential Secretary training course at the Federal Training Centre.",
+            "By direct appointment of a candidate possessing any of the following qualifications:
+First School Leaving Certificate plus R.S. A. or Federal/State Training Centre Certificate in Typewriting and Shorthand at the speed of 35 and 80 words per minute respectively plus English Language at R.S.A. Stage II or Confidential Grade IV or WASC/SSSC/GCE (O/L)
+West African School Certificate with a pass in Shorthand and Typewriting
+National Secretarial Certificate with a pass in English Language and in Shorthand and Typewriting at 80 and 35 words per minute respectively.
+Secondary Modern School (Commercial) Certificate including passes in English Language and in Shorthand and Typewriting at 80 and 35 words per minute respectively.
+
+",
+            
+         
+          ],
+          "AdvancementPath": "Promotion to Confidential Secretary Grade III"
+        }},
+          {"Confidential Secretary Grade III Grade Level 06":  "Details": {
+          "Duties": [
+            "Providing secretarial assistance such as taking dictation in shorthand and reproducing them in typed script.
+Receiving visitors, enquires and telephone calls on behalf of the officer to whom he/she is attached.
+Performing office routines associated with the duties enumerated above.
+ for officer on Grade Level 10",
+
+          ],
+          "EntryRequirements": [
+            
+            "By advancement of a confirmed Confidential Secretary Grade IV who successfully completes the in-service training/improver course by attaining the speed of 100 and 50 words per minute in Shorthand and Typewriting respectively and passing tests in Secretarial Practice, English Language, Office Practice and any of the optional subjects, including Social Studies, Civil Service Rules, Economics or Book-keeping.",
+            "By direct appointment of a candidate possessing any of the following qualifications:
+Ordinary National Diploma in Secretarial Studies including passes in Shorthand and Typewriting at 100 and 50 words per minute respectively from a recognized Secretarial/Technical Institution.
+3.2.2.2. West African School Certificate/Senior Secondary School Certificate plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 100 and 50 words per minute respectively, plus a recognized Certificate in English Language, Office Practice, Secretarial Practice and any of the optional subjects, including Social Studies, Civil Service Rules, Economics or Book-keeping.
+",
+               
+          ],
+          "AdvancementPath": "Promotion to Confidential Secretary/Bilingual Secretary Grade II"
+        }},
+          {"Confidential Secretary/Bilingual Secretary Grade II Grade Level 07":  "Details": {
+          "Duties": [
+            "Providing secretarial assistance such as taking dictation in shorthand and reproducing them in typed script.
+Receiving visitors, enquires and telephone calls on behalf of the officer to whom he/she is attached.
+Performing office routines associated with the duties enumerated above.  for an officer on Grade Level 12.
+",
+
+          ],
+          "EntryRequirements": [
+            
+            "By advancement or a Confidential Secretary Grade 111 who has successfully completed an approved in-service training/improver course by passing the shorthand and Typewriting Tests at 120 and 60 words per minute respectively.",
+            "By direct appointment of a candidate possessing any of the following qualifications:
+Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects.
+Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution.",
+            "By direct appointment of a candidate possessing a Certificate in Bilingual Secretaryshipor equivalent qualification from a recognized Institution.",
+               
+          ],
+          "AdvancementPath": "Promotion to Confidential Secretary/Bilingual Secretary Grade I"
+        }},
+          {"Confidential Secretary/Bilingual Secretary Grade I Grade Level 08":  "Details": {
+          "Duties": [
+            "Providing secretarial assistance such as taking dictation in shorthand and reproducing them in typed script.
+Receiving visitors, enquires and telephone calls on behalf of the officer to whom he/she is attached.
+Performing office routines associated with the duties enumerated above.  for an officer on Grade Level 13.
+",
+
+          ],
+          "EntryRequirements": [
+            
+            "By promotion of a confirmed and suitable Confidential Secretary/Bilingual Secretary Grade II who has spent at least three years on the grade.",
+            "By direct appointment of a candidate possessing any of the following qualifications:
+Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects.
+Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution. or By direct appointment of a candidate possessing a Certificate in Bilingual Secretaryshipor equivalent qualification from a recognized Institution. plus at least three years post qualification cognate experience
+",
+               
+          ],
+          "AdvancementPath": "Promotion to Senior Confidential Secretary/Bilingual Secretary"
+        }},
+          {"Senior Confidential Secretary/Bilingual Secretary Grade Level 09":  "Details": {
+          "Duties": [
+            "Providing secretarial assistance such as taking dictation in shorthand and reproducing them in typed script.
+Receiving visitors, enquires and telephone calls on behalf of the officer to whom he/she is attached.
+Performing office routines associated with the duties enumerated above.  for an officer on Grade Level 13.
+",
+"Taking notes of meetings and assisting in producing brief for meeting.",
+
+          ],
+          "EntryRequirements": [
+            
+            "By promotion of a confirmed and suitable Confidential Secretary/Bilingual Secretary Grade I who has spent at least three years on the grade.",
+            "By direct appointment of a candidate possessing any of the following qualifications:
+Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects.
+Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution. or By direct appointment of a candidate possessing a Certificate in Bilingual Secretaryshipor equivalent qualification from a recognized Institution. plus at least six years post qualification cognate experience
+",
+               
+          ],
+          "AdvancementPath": "Promotion to Principal Confidential Secretary/Bilingual Secretary Grade II"
+        }},
+
+      
+          {"Principal Confidential Secretary/Bilingual Secretary Grade II Grade Level 10":  "Details": {
+          "Duties": [
+            "Providing secretarial assistance such as taking dictation in shorthand and reproducing them in typed script.
+Receiving visitors, enquires and telephone calls on behalf of the officer to whom he/she is attached.
+Performing office routines associated with the duties enumerated above.  for an officer on Grade Level 15.
+",
+
+"Organizing the work of the Office.",
+"Supervising subordinates in the Office.",
+"Taking notes of meetings and assisting in producing brief for meeting.",
+
+          ],
+          "EntryRequirements": [
+            
+            " By promotion of a confirmed and suitable Senior Confidential Secretary Bilingual Secretary who has spent at least three years on the grade.",
+            "By direct appointment of a candidate possessing any of the following qualifications:
+Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects.
+Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution. or By direct appointment of a candidate possessing a Certificate in Bilingual Secretaryshipor equivalent qualification from a recognized Institution.  plus at least nine years’ post-qualification experience.",
+               
+          ],
+          "AdvancementPath": "Promotion to Principal Confidential Secretary/Bilingual Secretary Grade I"
+        }},
+        
+          {"Principal Confidential Secretary/Bilingual Secretary Grade I Grade Level 12":  "Details": {
+          "Duties": [
+            "Providing secretarial assistance such as taking dictation in shorthand and reproducing them in typed script.
+Receiving visitors, enquires and telephone calls on behalf of the officer to whom he/she is attached.
+Performing office routines associated with the duties enumerated above.  for an officer on Grade Level 16.
+",
+
+"Organizing the work of the Office.",
+"Supervising subordinates in the Office.",
+"Taking notes of meetings and assisting in producing brief for meeting.",
+
+          ],
+          "EntryRequirements": [
+            
+            " By promotion of a confirmed and suitable Principal Confidential Secretary Bilingual Secretary Grade II who has spent at least three years on the grade.",
+               
+          ],
+          "AdvancementPath": "Promotion to Assistant Chief Confidential Secretary"
+        }},
+        
+          {"Assistant Chief Confidential Secretary Grade Level 13":  "Details": {
+          "Duties": [
+            "Providing secretarial assistance such as taking dictation in shorthand and reproducing them in typed script.
+Receiving visitors, enquires and telephone calls on behalf of the officer to whom he/she is attached.
+Performing office routines associated with the duties enumerated above.  for anofficer on Grade Level 17.
+",
+
+"Organizing the work of the Office.",
+"Supervising subordinates in the Office.",
+"Taking notes of meetings and assisting in producing brief for meeting.",
+
+          ],
+          "EntryRequirements": [
+            
+            " By promotion of a suitable Principal Confidential Secretary Grade I who has spent at least three years on the grade.",
+               
+          ],
+          "AdvancementPath": "Promotion to Chief Confidential Secretary"
+        }},
+        
+          {"Chief Confidential Secretary Grade Level 14":  "Details": {
+          "Duties": [
+            "Providing secretarial assistance such as taking dictation in shorthand and reproducing them in typed script.
+Receiving visitors, enquires and telephone calls on behalf of the officer to whom he/she is attached.
+Performing office routines associated with the duties enumerated above.  for the following office holders:
+President of the Federal Republic of Nigeria,
+Governors of States
+Secretary to the Government of the Federation.
+Secretary to State Governments
+Chief Justice of the Federation
+Any other very Senior Government functionary
+Organizing the activities of the Office.
+Supervising the activities of subordinate staff
+Attending conferences which may involve any of the officials mentioned above.
+Maintaining discipline among subordinates
+Taking notes of meetings and producing briefs for meetings
+",
+
+          ],
+          "EntryRequirements": [
+            
+            " By promotion of a suitable Assistant Chief Confidential Secretary who has spentat least three years on the grade.",
+               
+          ],
+          "AdvancementPath": ""
+        }},
+        
+        
+        
+        ],
+       
+      }, 
+    
+       {
+        "Cadre": "Clerical Staff",
+        "Grades": [
+          {"Clerical Assistant Grade Level 03":  "Details": {
+          "Duties": [
+            "Performing routine clerical duties, under supervision, in an organizational unit such as Correspondence Registry, Transport Pool or Records Registry.",
+            "Assisting a Clerical Officer or other senior staff",
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing any of the following or equivalent qualifications:
+Junior Secondary School Certificate.
+"
+          ],
+          "AdvancementPath": "Promotion to Clerical Officer Grade II"
+        }},
+          {"Clerical Officer Grade II Grade Level 04":  "Details": {
+          "Duties": [
+            "Performing Clerical duties less routine than those assigned to Clerical Assistant in an organizational unit",
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Clerical Assistant who has spent at least two years on the grade and passed the Confirmation/Promotion Test at promotion level i.e.50%",
+            "By direct appointment of a candidate possessing any of the following qualifications:
+Senior Secondary School Certificate/West African School Certificate.
+General Certificate of Education (OIL) with four credits obtained at one sitting or Five credits at two sittings.",
+          ],
+          "AdvancementPath": "Promotion to Clerical Officer Grade I"
+        }},
+          {"Clerical Officer Grade I Grade Level 05":  "Details": {
+          "Duties": [
+            "Assisting in taking charge of a small Registry (Correspondence or Records).",
+            "Assisting in training junior staff",
+            "Performing routine internal audit duties.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Clerical Officer Grade II who has spent at least two years on the grade.",
+          ],
+          "AdvancementPath": "Promotion to Senior Clerical Officer"
+        }},
+          {"Senior Clerical Officer Grade Level 06":  "Details": {
+          "Duties": [
+            "Supervising and training junior staff in the unit",
+            "Performing routine internal audit duties.",
+            "Taking charge of a small Registry (Correspondence or Records).",
+            "Assisting in maintaining discipline among subordinate staff.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Clerical Officer Grade I who has spent at least two years on the grade.",
+          ],
+          "AdvancementPath": "Promotion to Chief Clerical Officer"
+        }},
+        
+        
+          {"Chief Clerical Officer Grade Level 07":  "Details": {
+          "Duties": [
+            "Taking charge of a large Open Registry within a Ministry/Department.",
+            "Rendering routine returns such as returns in respect of staff, staff quarters, Leave etc.",
+            "Maintaining file archives in a Ministry/Department.",
+            "Maintaining discipline among subordinate staff",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Senior Clerical Officer who has spent at least two years on the grade.
+",
+          ],
+          "AdvancementPath": ""
+        }},
+        
+          
+        
+        
+        ],
+       
+      }, 
+    
+       {
+        "Cadre": "Executive Officer(General Duties)",
+        "Grades": [
+          {"Assistant Executive Officer Grade Level 06":  "Details": {
+          "Duties": [
+            "Applying under supervision, the Civil Service Rules, Civil Service Commission, Regulations, Financial Regulations, Circulars, etc in treating specified subject assigned in the field of Personnel Management.",
+            "Heading, under supervision, routine correspondence on subjects within his schedule of duties.",
+            "Making submissions to appropriate senior officers on matters within his schedule of duties.",
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing Ordinary National Diploma in Business Administration/Studies or Public Administration from a recognized Institution."
+          ],
+          "AdvancementPath": "Promotion to Executive Officer"
+        }},
+          {"Executive Officer Grade Level 07":  "Details": {
+          "Duties": [
+            "Taking charge, under supervision, of specified subject/subjects or assignment within a Section or Division of a Ministry/Department and applying the Civil Service Rules, Civil Service Commission Regulations, Circulars etc. in treatment matters in any of the fields of Personnel Management.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Assistant Executive Officer who has spent at least two years on the grade. ",
+            " By direct appointment of a candidate possessing Higher National Diploma (HND) in Business Studies/Administration or Public Administration from a recognized Institution.",
+            "By direct appointment of a candidate possessing Ordinary National Diploma in Business Administration/Studies or Public Administration from a recognized Institution.  plus at least two years’ post-qualification cognate experience. "
+          ],
+          "AdvancementPath": "Promotion to Higher Executive Officer"
+        }},
+          {"Higher Executive Officer Grade Level 08":  "Details": {
+          "Duties": [
+            "Taking charge of specified Subject/subjects within a Unit of a Ministry/Department.",
+            "Supervising the work of a number of Officers in a Unit",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Executive Officer who has spent at least three years on the grade.",
+            " By direct appointment of a candidate possessing Higher National Diploma (HND) in Business Studies/Administration or Public Administration from a recognized Institution. plus at least three years’ post- qualification cognate experience.",
+            "By direct appointment of a candidate possessing Ordinary National Diploma in Business Administration/Studies or Public Administration from a recognized Institution.  plus at least five years’ post-qualification cognate experience. "
+          ],
+          "AdvancementPath": "Promotion to Senior Executive Officer"
+        }},
+          {"Senior Executive Officer Grade Level 09":  "Details": {
+          "Duties": [
+            "Taking charge of specified subject/subjects or assignment requiring little or no supervision within a Unit of a Ministry/Department",
+            "Supervising the work of a number of Officers in a Unit",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Higher Executive Officer who has spent at least three years on the grade.",
+            " By direct appointment of a candidate possessing Higher National Diploma (HND) in Business Studies/Administration or Public Administration from a recognized Institution. plus at least eight years’ post- qualification cognate experience.",
+            "By direct appointment of a candidate possessing Ordinary National Diploma in Business Administration/Studies or Public Administration from a recognized Institution.  plus at least eight years’ post-qualification cognate experience. "
+          ],
+          "AdvancementPath": "Promotion to Principal Executive Officer Grade II"
+        }},
+          {"Principal Executive Officer Grade II Grade Level 10":  "Details": {
+          "Duties": [
+            "Taking charge of specified assignment or subject/subjects ‘Within a Unit in a Ministry/Department.",
+            "Assisting in the estab1jsIient and maintenance of accurate staff information System.",
+            "Assisting the Head a Section in the supervision and deployment of junior staff.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmedand suitable Senior Executive Officer who has spent at least threeyearsonthe grade.",
+            " By direct appointment of a candidate possessing Higher National Diploma (HND) in Business Studies/Administration or Public Administration from a recognized Institution. plus at least nine years’ post- qualification cognate experience.",
+            "By direct appointment of a candidate possessing Ordinary National Diploma in Business Administration/Studies or Public Administration from a recognized Institution.  plus at least eleven years’ post-qualification cognate experience. "
+          ],
+          "AdvancementPath": "Promotion to Principal Executive Officer Grade I"
+        }},
+          {"Principal Executive Officer Grade I Grade Level 12":  "Details": {
+          "Duties": [
+            "Assisting in the supervision of defined functions.",
+            "Assisting in the planning, execution and supervision of specific programmes.",
+            "Assisting in the collection and collation of data for the preparation of manpower budget.",
+            "Assisting in the processing of pension and gratuity papers.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Principal Executive Officer Grade II who has spent at least three years on the grade.",
+          
+          ],
+          "AdvancementPath": "Promotion to Assistant Chief Executive Officer"
+        }},
+          {"Assistant Chief Executive Officer Grade Level 13":  "Details": {
+          "Duties": [
+            "Assisting the head of the Management Information Section.",
+            "Supervising the execution of specific programmes in the Section.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Principal Executive Officer Grade I who has spent at least three years on the grade.",
+          
+          ],
+          "AdvancementPath": "Promotion to Chief Executive Officer"
+        }},
+          {"Chief Executive Officer Grade Level 14":  "Details": {
+          "Duties": [
+            "Supervising arid coordinating the activities of a number ofjunior staff.",
+            "Assisting in the training of staff.",
+            "Taking charge of specific programmes.",
+            "Assisting in the deployment of subordinate staff.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Assistant Chief Executive Officer who has spent at least three years on the grade.",
+          
+          ],
+          "AdvancementPath": ""
+        }},
+
+  
+        
+      ],
+      
+       
+      }, 
+    
+       {
+        "Cadre": "Administrative Officer",
+        "Grades": [
+          {"Administrative Officer Grade II Grade Level 08":  "Details": {
+          "Duties": [
+            "Collecting andinterpreting data for useby senior officers.",
+            "Making submissions and preparing draft letters on specific matters",
+            "Preparing minutes of meetings",
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing a degree in any of the disciplines of Social Science or Humanities."
+          ],
+          "AdvancementPath": "Promotion to Administrative Officer Grade I "
+        }},
+        
+          {"Administrative Officer Grade I Grade Level 09":  "Details": {
+          "Duties": [
+            "Performing specialized functions in the fields of Trade, Investment, Economic Planning, Personnel Management et-cetera.",
+            "Collating and assisting in analyzing data",
+            "Making submissions and preparing draft letters on Specific matters.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Administrative Officer Grade II who has spent at least three years on the grade.",
+            "By direct appointment of a candidate possessing a degree in any of the disciplines of Social Science or Humanities.  plus at least three years’ post- qualification cognate experience.",
+            "By direct appointment of a candidate possessing a Masters’ degree in any of the disciplines of Social Science or Humanities. plus at least one-year post- qualification cognate experience.",
+          ],
+          "AdvancementPath": "Promotion to Senior Administrative Officer"
+        }},
+        
+        
+          {"Senior Administrative Officer Grade Level 10":  "Details": {
+          "Duties": [
+            "Initiating the preparation of draft memorandum and speeches.",
+            "Supervising the work of a number of subordinate officers",
+            "Analyzing and applying data",
+            "Assisting in making reports.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Administrative Officer Grade I who has spent at least three years on the grade.",
+            "By direct appointment of a candidate possessing a degree in any of the disciplines of Social Science or Humanities.  plus at least six years’ post- qualification cognate experience.",
+            "By direct appointment of a candidate possessing a Masters’ degree in any of the disciplines of Social Science or Humanities. plus at least four year post- qualification cognate experience.",
+            "By direct appointment of a candidate possessing a Doctorate degree in any of the disciplines of Social Science or Humanities. plus at least one year post- qualification cognate experience.",
+          ],
+          "AdvancementPath": "Promotion to Principal Administrative Officer"
+        }},
+        
+        
+          {"Principal Administrative Officer Grade Level 12":  "Details": {
+          "Duties": [
+            "Preparing annual estimates of revenue and expenditure",
+            "Performing personnel financial and general administrative duties",
+            "Preparing statutory and periodic reports",
+            "Coordinating the activities of a number ofjunior officers",
+          ],
+          "EntryRequirements": [
+            "By promotion of confirmed and suitable Senior Administrative Officer whohas spent at least three years on the grade.",
+            " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment.",
+          ],
+          "AdvancementPath": "Promotion to Assistant chief Administrative Officer"
+        }},
+        
+          {"Assistant chief Administrative Officer Grade Level 13":  "Details": {
+          "Duties": [
+            "Personnel Management",
+            "Project Analysis",
+            "Investment Management",
+            "Financial Management",
+            "Management Services",
+            "Assisting in the administration of a Section",
+            "Assisting in the formulation, execution and review ofpolicies",
+            "Assisting in training junior staff.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Principal Administrative Officer has spent at least three years on the grade and attended a course in c’ Manpower Budgeting and Staff Inspection, Pension Administrative Management Consulting or Grading.",
+            " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment.",
+          ],
+          "AdvancementPath": "Promotion to chief Administrative Officer"
+        }},
+      
+       
+          {"Chief Administrative Officer Grade Level 14":  "Details": {
+          "Duties": [
+            "Taking charge of a Section",
+            "Taking charge of specific subject/subjects",
+            "Assisting in the formulation, execution and review of policies",
+            
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Assistant Chief Administrative Officer who has spent at least three years on the grade and success - completed a prescribed course.",
+            " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment.",
+          ],
+          "AdvancementPath": "Promotion to Assistant Director"
+        }},
+      
+          {"Assistant Director Grade Level 15":  "Details": {
+          "Duties": [
+            "Taking charge of a Branch",
+            "Taking charge/coordinating activities in specific subject/subjects.",
+            "Coordinating the training programme of staff.",
+            "Assisting in the formulation, execution and review of policies.",
+            "Assisting in the general administration of the Department (States)",
+            
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Chief Administrative Officer who spent at least three years on the grade.",
+            " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment.",
+          ],
+          "AdvancementPath": "Promotion to Deputy Director (Federal)/Director (State)"
+        }},
+      
+          {"Deputy Director (Federal)/Director (State) Grade Level 16":  "Details": {
+          "Duties": [
+            "Taking charge of Division/Department (States)",
+            "Advising on general administrative matters (States).",
+            "Assisting in the general administration of the Department.",
+            "Taking responsibility for administrative development planning.",
+              
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Assistant Director who has spent at least four y on the grade.",
+            " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment.",
+          ],
+          "AdvancementPath": "Promotion to Director "
+        }},
+      
+          {"Director Grade Level 17":  "Details": {
+          "Duties": [
+            "Taking charge of the general administration of a Department",
+            "Advising on general administrative matters",
+              
+          ],
+          "EntryRequirements": [
+            "By promotion of a suitable Assistant Director who has spent at least four y on the grade.",
+            " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment.
+",
+          ],
+          "AdvancementPath": " "
+        }},
+      
+        
+        
+        
+        
+        ],
+       
+      }, 
+    
+       {
+        "Cadre": "Library Officer",
+        "Grades": [
+          {"Assistant Library Officer Grade Level 06":  "Details": {
+          "Duties": [
+            "Performing under supervision, routine and manual stores work"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate."
+          ],
+          "AdvancementPath": ""
+        }},
+
+          {"Assistant Library Officer Grade Level 06":  "Details": {
+          "Duties": [
+            "Performing under supervision, routine and manual stores work"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate."
+          ],
+          "AdvancementPath": ""
+        }},
+
+          {"Assistant Library Officer Grade Level 06":  "Details": {
+          "Duties": [
+            
+            "Giving routine services to readers including simple reference and information Services"
+            "Undertaking routine cataloguing and classifying simple Library materials.",
+            " Maintaining Library records.",
+            
+            "Assisting in setting up Library exhibits.",
+            "Supervising stock.",
+
+
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing any of the following qualification
+General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings.
+A pass in the First Professional Examination of the Library Associations.
+Certificate in Library Studies obtained from a recognized Institution plus at least two years’ post-qualification cognate experience.
+",
+            "By promotion of a confirmed arid outstanding Clerical Officer Grade I who has successfully completed an appropriate one-year course at the Department of Library Studies of a recognized Institution.
+",
+        
+          ],
+          "AdvancementPath": "Promotion to Library Officer "
+        }},
+
+          {"Library Officer Grade Level 07":  "Details": {
+          "Duties": [
+            "Classifying and cataloguing Library books and materials. ",
+            
+            "Taking charge of a small Library.",
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Assistant Library Officer who has spent at least two years on the grade.",
+            "By direct appointment of a candidate possessing arty of the following qualifications
+Part of the Associate Membership of the Library Association.
+Diploma in Library Studies obtained from a recognized institution.",
+            "By direct appointment of a candidate possessing any of the following qualification
+General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings.
+A pass in the First Professional Examination of the Library Associations.
+Certificate in Library Studies obtained from a recognized Institution plus at least two years’ post-qualification cognate experience.
+",
+         
+          ],
+          "AdvancementPath": "Promotion to  Higher Library Officer"
+        }},
+
+          {"Higher Library Officer Grade Level 08":  "Details": {
+          "Duties": [
+            "Coordinating the activities of a nsumber ofjunior officers.",
+            "Acting as readers’ adviser in lending libraries",
+            "Assisting in the training ofjunior staff.",
+
+          ],
+          "EntryRequirements": [
+            "By promotion of a confirmed and suitable Library Officer who has spent at least three years on the grade."
+            "By direct appointment of a candidate possessing arty of the following qualifications
+Part of the Associate Membership of the Library Association.
+Diploma in Library Studies obtained from a recognized institution. plus at least three years post- qualification",
+            "By direct appointment of a candidate possessing any of the following qualification
+General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings.
+A pass in the First Professional Examination of the Library Associations.
+Certificate in Library Studies obtained from a recognized Institution plus at least five years’ post-qualification cognate experience.
+",
+         
+          ],
+          "AdvancementPath": ""
+        }},
+
+
+        
+        
+        "Library Officer Grade Level 07",
+        "Higher Library Officer Grade Level 08",
+        "Senior Library Officer Grade Level 09",
+        "Principal Library Officer Grade Level 10",
+        "Assistant Chief Library Officer Grade Level 12",
+        "Chief Library Officer Grade Level 13",
+      ],
+      
+      }, 
+    
+       {
+        "Cadre": "Stores Attendant",
+        "Grades": [
+          {"Stores Attendant Grade Level 02":  "Details": {
+          "Duties": [
+            "Performing under supervision, routine and manual stores work"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate."
+          ],
+          "AdvancementPath": ""
+        }},
+
+
+
+        
+        "Stores Officer Grade Level 07",
+        ],
+       
+      }, 
+    
+       {
+        "Cadre": "Stores Attendant",
+        "Grades": [
+          {"Stores Attendant Grade Level 02":  "Details": {
+          "Duties": [
+            "Performing under supervision, routine and manual stores work"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate."
+          ],
+          "AdvancementPath": ""
+        }},
+
+
+
+        
+        "Stores Officer Grade Level 07",
+        ],
+       
+      }, 
+    
+       {
+        "Cadre": "Stores Attendant",
+        "Grades": [
+          {"Stores Attendant Grade Level 02":  "Details": {
+          "Duties": [
+            "Performing under supervision, routine and manual stores work"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate."
+          ],
+          "AdvancementPath": ""
+        }},
+
+
+
+        
+        "Stores Officer Grade Level 07",
+        ],
+       
+      }, 
+    
+       {
+        "Cadre": "Stores Attendant",
+        "Grades": [
+          {"Stores Attendant Grade Level 02":  "Details": {
+          "Duties": [
+            "Performing under supervision, routine and manual stores work"
+          ],
+          "EntryRequirements": [
+            "By direct appointment of a candidate possessing the First School Leaving Certificate."
+          ],
+          "AdvancementPath": ""
+        }},
+
+
+
+        
+        "Stores Officer Grade Level 07",
+        ],
+       
+      }, 
+    
+    ],
+    
+    "SectionMetadata": {
+        "TotalCadres": 28,
+        "Categories": ["Media and Communication", "Cultural Heritage", "Archival", "Creative Arts", "Technical Support"],
+        "TypicalGradeLevels": "GL 03 to GL 17 depending on cadre and seniority",
+        "DepartmentFunctions": [
+          "Information dissemination and public communication",
+          "Cultural heritage preservation and management",
+          "Archival records management and preservation",
+          "Media production and creative arts development",
+          "Cultural research and documentation"
+        ],
+        "KeySkills": [
+          "Communication and media relations",
+          "Cultural research and documentation",
+          "Creative arts and production",
+          "Heritage conservation and management",
+          "Information management and dissemination"
+        ],
+        "TechnologyRequirements": [
+          "Media production equipment",
+          "Archival preservation systems",
+          "Digital documentation tools",
+          "Information management software",
+          "Cultural heritage databases"
+        ]
+      }
+    
+  }
+,
+
+ 
+  "InformationSection": {
+    "Cadres": [
+      {
+        "Cadre": "Archaeologist",
+        "Grades": [
+          "Archaeologist Grade II":  "Details": {
+          "Duties": [
+            "Conducting archaeological excavations and field surveys",
+            "Analyzing and interpreting archaeological finds",
+            "Preserving and conserving archaeological artifacts and sites",
+            "Conducting historical and cultural research",
+            "Preparing archaeological reports and publications",
+            "Advising on heritage preservation and management",
+            "Supervising archaeological teams and projects",
+            "Developing archaeological policies and guidelines"
+          ],
+          "EntryRequirements": [
+            "Bachelor's degree in Archaeology, Anthropology, History or related field",
+            "For senior positions: advanced degrees (Masters, PhD) in Archaeology",
+            "Field experience in archaeological excavations",
+            "Training in archaeological methods and conservation"
+          ],
+          "AdvancementPath": "Progression through archaeological hierarchy based on research, publications, and field experience"
+        },
+          "Archaeologist Grade I",
+          "Senior Archaeologist",
+          "Principal Archaeologist",
+          "Assistant Chief Archaeologist",
+          "Chief Archaeologist",
+          "Assistant Director (Archaeology)",
+          "Deputy Director/Director (Archaeology)"
+        ],
+       
+      },   
+    
+    ],
+    
+    "SectionMetadata": {
+        "TotalCadres": 28,
+        "Categories": ["Media and Communication", "Cultural Heritage", "Archival", "Creative Arts", "Technical Support"],
+        "TypicalGradeLevels": "GL 03 to GL 17 depending on cadre and seniority",
+        "DepartmentFunctions": [
+          "Information dissemination and public communication",
+          "Cultural heritage preservation and management",
+          "Archival records management and preservation",
+          "Media production and creative arts development",
+          "Cultural research and documentation"
+        ],
+        "KeySkills": [
+          "Communication and media relations",
+          "Cultural research and documentation",
+          "Creative arts and production",
+          "Heritage conservation and management",
+          "Information management and dissemination"
+        ],
+        "TechnologyRequirements": [
+          "Media production equipment",
+          "Archival preservation systems",
+          "Digital documentation tools",
+          "Information management software",
+          "Cultural heritage databases"
+        ]
+      }
+    
+  }
+,
+
+
+
+
+  
+  "InformationSection": {
+    "Cadres": [
+      {
+        "Cadre": "Archaeologist",
+        "Grades": [
+          "Archaeologist Grade II":  "Details": {
+          "Duties": [
+            "Conducting archaeological excavations and field surveys",
+            "Analyzing and interpreting archaeological finds",
+            "Preserving and conserving archaeological artifacts and sites",
+            "Conducting historical and cultural research",
+            "Preparing archaeological reports and publications",
+            "Advising on heritage preservation and management",
+            "Supervising archaeological teams and projects",
+            "Developing archaeological policies and guidelines"
+          ],
+          "EntryRequirements": [
+            "Bachelor's degree in Archaeology, Anthropology, History or related field",
+            "For senior positions: advanced degrees (Masters, PhD) in Archaeology",
+            "Field experience in archaeological excavations",
+            "Training in archaeological methods and conservation"
+          ],
+          "AdvancementPath": "Progression through archaeological hierarchy based on research, publications, and field experience"
+        },
+          "Archaeologist Grade I",
+          "Senior Archaeologist",
+          "Principal Archaeologist",
+          "Assistant Chief Archaeologist",
+          "Chief Archaeologist",
+          "Assistant Director (Archaeology)",
+          "Deputy Director/Director (Archaeology)"
+        ],
+       
+      },   
+    
+    ],
+    
+"SectionMetadata": {
+      "TotalCadres": 28,
+      "Categories": ["Media and Communication", "Cultural Heritage", "Archival", "Creative Arts", "Technical Support"],
+      "TypicalGradeLevels": "GL 03 to GL 17 depending on cadre and seniority",
+      "DepartmentFunctions": [
+        "Information dissemination and public communication",
+        "Cultural heritage preservation and management",
+        "Archival records management and preservation",
+        "Media production and creative arts development",
+        "Cultural research and documentation"
+      ],
+      "KeySkills": [
+        "Communication and media relations",
+        "Cultural research and documentation",
+        "Creative arts and production",
+        "Heritage conservation and management",
+        "Information management and dissemination"
+      ],
+      "TechnologyRequirements": [
+        "Media production equipment",
+        "Archival preservation systems",
+        "Digital documentation tools",
+        "Information management software",
+        "Cultural heritage databases"
+      ]
+    }
+    
+  }
+,
+
+
+
+
+
+
+
+
+
+
+}
