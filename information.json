@@ -11909,94 +11909,235 @@
 
 
       {
-        "Cadre": "Safety Inspector",
+        "Cadre": "Registrar of Cooperative Societies",
         "Grades": [
           {
-            "Assistant Safety Inspector Grade Level 06": {
+            "Registrar of Cooperative Societies Grade II Grade Level 08": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing General Certificate of Education (Advanced Level) in two related Science subjects obtained at one sitting or three subjects at two sittings.",
-                "By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution."
-             
+                "By direct appointment of a candidate possessing a degree in Arts, Economics, Agriculture, Law, Business Administration or Accountancy from a recognized University."
+                
               ],
-              "AdvancementPath": "Promotion to Safety Inspector "
+              "AdvancementPath": "Promotion to Registrar of Cooperative Societies Grade I"
             }
           },
           {
-            "Safety Inspector Grade Level 07": {
+            "Registrar of Cooperative Societies Grade I Grade Level 09": {
              
               "EntryRequirements": [
-                "By advancement of a suitable Assistant Safety Inspector possessing the qualification Ordinary National Diploma in Engineering from a recognized Institution who has spent twelve months on the grade.",
+                "By promotion of a confirmed and suitable Registrar of Co-operative Societies Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Arts, Economics, Agriculture, Law, Business Administration or Accountancy from a recognized University plus at least three years’ post-qualification cognate experience."
 
-
-                "By promotion of a confirmed and suitable Assistant Safety Inspector who has spent at least two years on the grade.",
-                 "By direct appointment of a candidate possessing General Certificate of Education (Advanced Level) in two related Science subjects obtained at one sitting or three subjects at two sittings plus at least one years’ post- qualification cognate experience or By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution plus at least two years’ post- qualification cognate experience"
-             
+                
               ],
-              "AdvancementPath": "Promotion to Higher Safety inspector"
+              "AdvancementPath": "Promotion to Senior Registrar of Co-operative Societies"
+          
             }
           },
           {
-            "Higher Safety inspector Grade Level 08": {
+            "Senior Registrar of Co-operative Societies Grade Level 10": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Safety Inspector who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Engineering. Higher National Certificate in Engineering.",
-                "By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution plus at least four years’ post-qualification cognate experience."
+              
+             "By promotion of a confirmed and suitable Registrar of Co-operative Societies Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Arts, Economics, Agriculture, Law, Business Administration or Accountancy from a recognized University plus at least six years’ post-qualification cognate experience."
+
+                
               ],
-              "AdvancementPath": "Promotion to Senior Safety Inspector"
+              "AdvancementPath": "Promotion to Principal Registrar of Co-operative Societies"
+          
             }
           },
           {
-            "Senior Safety Inspector Grade Level 09": {
+            "Principal Registrar of Cooperative Societies Grade Level 12": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Safety Inspector who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution plus at least seven years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Engineering. Higher National Certificate in Engineering plus-at least three years’ post-qualification cognate experience"
-             
+              
+                "By promotion of a ‘confirmed and suitable Senior Registrar of Cooperative Societies who has spent at least three years on the grade."
+                
               ],
-              "AdvancementPath": "Promotion to Principal Safety Inspector Grade II"
+              "AdvancementPath": "Promotion to Assistant Chief Registrar of Cooperative Societies Grade Level 13"
+          
+          
             }
           },
           {
-            "Principal Safety Inspector Grade II Grade Level 10": {
+            "Assistant Chief Registrar of Cooperative Societies Grade Level 13": {
               
               "EntryRequirements": [
-"By promotion of a confirmed and suitable Senior Safety Inspector who has spent at least three years on the grade.",
-    "By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution plus at least ten years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Engineering. Higher National Certificate in Engineering plus-at least six years’ post-qualification cognate experience"
-             
 
+
+                  "By promotion of a ‘confirmed and suitable Principal Registrar of Cooperative Societies who has spent at least three years on the grade."
+                
               ],
-              "AdvancementPath": "Promotion to Principal Safety Inspector Grade I"
+              "AdvancementPath": "Promotion to Chief Registrar of Cooperative Societies "
+          
             }
           },
           {
-            "Principal Safety Inspector Grade I Grade Level 12": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Safety Inspector Grade II who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Safety Inspector"
-            }
-          },
-          {
-            "Assistant Chief Safety Inspector Grade Level 13": {
+            "Chief Registrar of Cooperative Societies Grade Level 14": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Safety Inspector Grade I who has spent at least three years on the grade."
+           
+                   "By promotion of a ‘confirmed and suitable Assistant Chief Registrar of Cooperative Societies who has spent at least three years on the grade."
+                
               ],
-              "AdvancementPath": "Promotion to Chief Safety inspector"
+              "AdvancementPath": "Promotion to Assistant Director"
+          
+          
             }
           },
-
-
-
-
           {
-            "Chief Safety inspector Grade Level 14": {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+            
+               "By promotion of a ‘confirmed and suitable  Chief Registrar of Cooperative Societies who has spent at least three years on the grade."
+                
+              ],
+              "AdvancementPath": "Promotion to  Deputy Director/Director (States)"
+                    
+            }
+          },
+          {
+            "Deputy Director/Director (States) Grade Level 16": {
           
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Chief Safety Inspector who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Assistant Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": "Promotion to  Director"
+            }
+          },
+
+
+
+          {
+            "Director  Grade Level 17": {
+          
+              "EntryRequirements": [
+                "By promotion of a confirmed and Deputy Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      }
+
+
+
+
+
+
+
+
+    ],
+
+    "SectionMetadata": {
+      "TotalCadres": 28,
+      "Categories": [
+        "Media and Communication",
+        "Cultural Heritage",
+        "Archival",
+        "Creative Arts",
+        "Technical Support"
+      ],
+      "TypicalGradeLevels": "GL 03 to GL 17 depending on cadre and seniority",
+      "DepartmentFunctions": [
+        "Information dissemination and public communication",
+        "Cultural heritage preservation and management",
+        "Archival records management and preservation",
+        "Media production and creative arts development",
+        "Cultural research and documentation"
+      ],
+      "KeySkills": [
+        "Communication and media relations",
+        "Cultural research and documentation",
+        "Creative arts and production",
+        "Heritage conservation and management",
+        "Information management and dissemination"
+      ],
+      "TechnologyRequirements": [
+        "Media production equipment",
+        "Archival preservation systems",
+        "Digital documentation tools",
+        "Information management software",
+        "Cultural heritage databases"
+      ]
+    }
+  },
+
+
+  "LegislatureSection": {
+    "Cadres": [
+      {
+        "Cadre": "Official Reporter",
+        "Grades": [
+          {
+            "Official Reporter Grade Level 08": {
+              
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications. The West African School Certificate or its equivalent plus Royal Society of Arts or Civil Service Training School Certificate in Shorthand typewriting at 140/60 words per minute respectively. Certificate in Secretarial Studies from a recognized Secretariat/Technical Institute or College of Technology, including a pass at 140/60 words per minute in Shorthand/Typewriting respectively. Official Reporters Certificate obtained after a successful completion of a prescribed course in the Federal Training Centre or any other recognized Institution.",
+                "By promotion of a Confidential Secretary Grade IV, III or II who obtains any of the qualifications stated in their grade level "
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Official Reporter"
+            }
+          },
+          {
+            "Senior Official Reporter Grade Level 09": {
+              
+              "EntryRequirements": [
+              
+                "By promotion of a confirmed and suitable Official Reporter who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications. The West African School Certificate or its equivalent plus Royal Society of Arts or Civil Service Training School Certificate in Shorthand typewriting at 140/60 words per minute respectively. Certificate in Secretarial Studies from a recognized Secretariat/Technical Institute or College of Technology, including a pass at 140/60 words per minute in Shorthand/Typewriting respectively. Official Reporters Certificate obtained after a successful completion of a prescribed course in the Federal Training Centre or any other recognized Institution plus at least three years’ post- qualification cognate experience."
+             
+              ],
+              "AdvancementPath": "Promotion to Principal Official Reporter Grade II"
+          
+          
+            }
+          },
+          {
+            "Principal Official Reporter Grade II Grade Level 10": {
+              
+              "EntryRequirements": [
+                
+               "By promotion of a confirmed end suitable Senior Official Reporter who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications. The West African School Certificate or its equivalent plus Royal Society of Arts or Civil Service Training School Certificate in Shorthand typewriting at 140/60 words per minute respectively. Certificate in Secretarial Studies from a recognized Secretariat/Technical Institute or College of Technology, including a pass at 140/60 words per minute in Shorthand/Typewriting respectively. Official Reporters Certificate obtained after a successful completion of a prescribed course in the Federal Training Centre or any other recognized Institution plus at least six years’ post- qualification cognate experience."
+             
+              ],
+              "AdvancementPath": "Promotion to Principal Official Reporter Grade I"
+          
+          
+            }
+          },
+          {
+            "Principal Official Reporter Grade I Grade Level 12": {
+              
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Official Reporter Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Deputy Editor"
+            }
+          },
+          {
+            "Deputy Editor Grade Level 13": {
+              
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Official Reporter Grade I who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Editor"
+            }
+          },
+
+
+
+          {
+            "Editor Grade Level 14": {
+              
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Deputy Editor who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -12004,101 +12145,107 @@
         ]
       },
 
-
-
       {
-        "Cadre": "Safety Inspector",
+        "Cadre": "Legislative Officer/Clerk",
         "Grades": [
           {
-            "Assistant Safety Inspector Grade Level 06": {
+            "Legislative Officer Grade II Grade Level 08": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing General Certificate of Education (Advanced Level) in two related Science subjects obtained at one sitting or three subjects at two sittings.",
-                "By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution."
-             
+                "By direct appointment of a candidate possessing a degree in Arts, Law or Social Sciences from a recognized University."  
+                 
               ],
-              "AdvancementPath": "Promotion to Safety Inspector "
+              "AdvancementPath": "Promotion to Legislative Officer Grade I "
             }
           },
-          {
-            "Safety Inspector Grade Level 07": {
-             
-              "EntryRequirements": [
-                "By advancement of a suitable Assistant Safety Inspector possessing the qualification Ordinary National Diploma in Engineering from a recognized Institution who has spent twelve months on the grade.",
-
-
-                "By promotion of a confirmed and suitable Assistant Safety Inspector who has spent at least two years on the grade.",
-                 "By direct appointment of a candidate possessing General Certificate of Education (Advanced Level) in two related Science subjects obtained at one sitting or three subjects at two sittings plus at least one years’ post- qualification cognate experience or By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution plus at least two years’ post- qualification cognate experience"
-             
-              ],
-              "AdvancementPath": "Promotion to Higher Safety inspector"
-            }
-          },
-          {
-            "Higher Safety inspector Grade Level 08": {
-           
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Safety Inspector who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Engineering. Higher National Certificate in Engineering.",
-                "By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution plus at least four years’ post-qualification cognate experience."
-              ],
-              "AdvancementPath": "Promotion to Senior Safety Inspector"
-            }
-          },
-          {
-            "Senior Safety Inspector Grade Level 09": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Safety Inspector who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution plus at least seven years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Engineering. Higher National Certificate in Engineering plus-at least three years’ post-qualification cognate experience"
-             
-              ],
-              "AdvancementPath": "Promotion to Principal Safety Inspector Grade II"
-            }
-          },
-          {
-            "Principal Safety Inspector Grade II Grade Level 10": {
-              
-              "EntryRequirements": [
-"By promotion of a confirmed and suitable Senior Safety Inspector who has spent at least three years on the grade.",
-    "By direct appointment of a candidate possessing Ordinary National Diploma in Engineering from a recognized Institution plus at least ten years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Engineering. Higher National Certificate in Engineering plus-at least six years’ post-qualification cognate experience"
-             
-
-              ],
-              "AdvancementPath": "Promotion to Principal Safety Inspector Grade I"
-            }
-          },
-          {
-            "Principal Safety Inspector Grade I Grade Level 12": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Safety Inspector Grade II who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Safety Inspector"
-            }
-          },
-          {
-            "Assistant Chief Safety Inspector Grade Level 13": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Safety Inspector Grade I who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Safety inspector"
-            }
-          },
-
-
-
-
-          {
-            "Chief Safety inspector Grade Level 14": {
           
+          {
+            "Legislative Officer Grade I Grade Level 09": {
+             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Chief Safety Inspector who has spent at least three years on the grade."
+               
+                "By promotion of a confirmed and suitable Legislative Officer, Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Arts, Law or Social Sciences from a recognized University plus at least three years’ post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing a Masters’ degree in Arts, Law or Social Sciences from a recognized University plus at least one-year post- qualification cognate experience."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Senior Legislative Officer"
+            
+            }
+          },
+          {
+            "Senior Legislative Officer Grade Level 10": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Legislative Officer, Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Arts, Law or Social Sciences from a recognized University plus at least six years’ post-qualification cognate experience or By direct appointment of a candidate possessing a Masters’ degree in Arts, Law or Social Sciences from a recognized University plus at least four-year post- qualification cognate experience."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Principal Legislative Officer"
+            
+            }
+          },
+          {
+            "Principal Legislative Officer Grade Level 12": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Legislative Officer who has spent at least three years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Legislative Officer"
+            }
+          },
+          {
+            "Assistant Chief Legislative Officer Grade Level 13": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Legislative Officer who has spent at least three years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Chief Legislative Officer"
+            }
+          },
+          {
+            "Chief Legislative Officer Grade Level 14": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Chief Legislative Officer who has spent at least three years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Chief Legislative Officer who has spent at least three years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Deputy Director"
+            }
+          },
+          {
+            "Deputy Director/Deputy Clerk (States) Grade Level 16": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Director who has spent at least four years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Director/Deputy Clerk"
+            }
+          },
+          {
+            "Director/Deputy Clerk Grade Level 17": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Deputy Director who has spent at least four years on the grade."  
+                 
               ],
               "AdvancementPath": ""
             }
           }
+
         ]
       }
 
@@ -12147,25 +12294,34 @@
   },
 
 
-  "InternalAffairsSection": {
+  "SolidMineralsDevelopmentSection": {
     "Cadres": [
       {
-        "Cadre": "Dog Kennel Attendant",
+        "Cadre": "Cartographic Attendant",
         "Grades": [
           {
-            "Dog Kennel Attendant Grade Level 03": {
+            "Cartographic Attendant Grade Level 02": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate plus evidence of relevant experience Secondary Modern School Certificate or evidence of completion of Class II in an approved Grammar/Commercial School."
+                "By direct appointment of a candidate possessing the First School Leaving Certificate or transfer of a suitable officer possessing the First School Leaving Certificate."
               ],
-              "AdvancementPath": "Promotion to Head Dog Kennel Attendant"
+              "AdvancementPath": "Promotion to Senior Cartographic Attendant"
             }
           },
           {
-            "Head Dog Kennel Attendant Grade Level 04": {
+            "Senior Cartographic Attendant Grade Level 03": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Dog Kennel Attendant who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Cartographic Attendant who has spent at least two years on the grade"
+              ],
+              "AdvancementPath": "Promotion to Head Cartographic Attendant"
+            }
+          },
+          {
+            "Head Cartographic Attendant Grade Level 04": {
+              
+              "EntryRequirements": [
+                "By promotion of a suitable Senior Cartographic Attendant who has spent at least two years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -12174,25 +12330,57 @@
       },
 
       {
-        "Cadre": "Hangman",
+        "Cadre": "Cartographic Draughtsman",
         "Grades": [
           {
-            "Hangman Grade Level 04": {
+            "Cartographic Assistant Grade Level 03": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate or Evidence of completion of Class II in an approved Grammar/Commercial School."  
+                "By direct appointment of a candidate possessing any of the following qualifications: Evidence of completion of a full course in a Government approved Secondary School or S. 75 or Junior Secondary School Certificate. General Certificate of Education, (Ordinary Level) with three credits passed at one sitting or four credits at two sittings."  
                  
               ],
-              "AdvancementPath": "Promotion to Head Hangman"
+              "AdvancementPath": "Promotion to Cartographic Draughtsman"
             }
           },
           {
-            "Head Hangman Grade Level 05": {
+            "Cartographic Draughtsman Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Cartographic Assistant who has passed the Confirmation/Promotion Test at promotion level (i.e. 50 per cent) and has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:- General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings. West African School Certificate or Senior Secondary School Certificate."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Senior Cartographic Draughtsman Grade II"
+            }
+          },
+          {
+            "Senior Cartographic Draughtsman Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Cartographic Draughtsman who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:- General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings. West African School Certificate or Senior Secondary School Certificate plus at least two years’ post-qualification cognate experience."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Senior Cartographic Draughtsman Grade I"
+            }
+          },
+          {
+            "Senior Cartographic Draughtsman Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Cartographic Draughtsman Grade II who has spent at least two years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Chief Cartographic Draughtsman"
+            }
+          },
+          {
+            "Chief Cartographic Draughtsman Grade Level 07": {
            
               "EntryRequirements": [
 
 
-                "By promotion of a Confirmed and suitable Hangman who has spent at least two years on the grade."
+                "By promotion of a confirmed sad suitable Senior Cartographic Draughtsman Grade I, who has spent at least two years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -12202,92 +12390,96 @@
       },
 
       {
-        "Cadre": "Executive Officer(Civic Registration)",
+        "Cadre": "Technical Officer(Cartography)",
         "Grades": [
           {
-            "Assistant Executive Officer Grade Level 06": {
+            "Assistant Technical Officer Grade Level 06": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution."
+                "By direct appointment of a candidate possessing arty of the following qualifications:- Ordinary National Diploma in relevant subject obtained from recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in a relevant subject.",
+                "By direct appointment of a candidate possessing any of the following qualifications: General of Education (Advanced Level) in two subjects obtained at a sitting or three subjects at two sittings, preferably including Mathematics, Geography or Fine Art. Final Certificate of the City and Guilds of London Institute in the relevant subjects plus at least two years’ post-qualification cognate experience.",
+                "By promotion of a confirmed and outstanding Survey Draughtsman who scored70 per cent in the Departmental Confirmation/Promotion Test and has successfully completed a year’s training course in Cartography or Lateral transfer of a confirmed and outstanding Assistant Chief Survey Draughtsman who spent at least two years on the grade"
 
               ],
-              "AdvancementPath": "Promotion to Executive Officer"
+              "AdvancementPath": "Promotion to Technical Officer"
             }
           },
 
           {
-            "Executive Officer Grade Level 07": {
+            "Technical Officer Grade Level 07": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Executive Officer (Civic Registration) who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least two years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution."
-
+                "By advancement of an Assistant Technical Officer possessing the qua1ification; Ordinary National Diploma in relevant subject obtained from recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in a relevant subject who has spent one year on the grade.",
+                "By promotion of a confirmed and suitable Assistant Technical Officer who spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing arty of the following qualifications:- Ordinary National Diploma in relevant subject obtained from recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in a relevant subject at least one year post-qualification cognate experience.",
+                "By lateral transfer of a suitable Chief Survey Draughtsman who has spent at least two years on the grade."
+                
               ],
-              "AdvancementPath": "Promotion to Higher Executive Officer"
+              "AdvancementPath": "Promotion to Higher Technical Officer"
             }
           },
           {
-            "Higher Executive Officer Grade Level 08": {
+            "Higher Technical Officer Grade Level 08": {
              
               "EntryRequirements": [
-
-                "By promotion of a confirmed and suitable Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least three years’ post-qualification cognate experience."
-              
+                "By promotion of a confirmed and suitable Technical Officer who has spent, least three years on the grade.",
+               "By direct appointment of a candidate possessing Higher National Diploma relevant engineering subject from a recognized Institution.",
+                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in relevant subject obtained from recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in a relevant subject at least four year post-qualification cognate experience."
               ],
-              "AdvancementPath": "Promotion to Senior Executive Officer"
+              "AdvancementPath": "Promotion to Senior Technical Officer"
             }
           },
           {
-            "Senior Executive Officer Grade Level 09": {
+            "Senior Technical Officer Grade Level 09": {
               
               "EntryRequirements": [
-                 "By promotion of a confirmed and suitable Higher Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least six years’ post-qualification cognate experience."
+              
+                "By promotion of a confirmed and suitable Higher Technical Officer who, spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in relevant subject obtained from recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in a relevant subject at least seven year post-qualification cognate experience or By direct appointment of a candidate possessing Higher National Diploma relevant engineering subject from a recognized Institution plus at least three years’ post- qualifications cognate experience"
               
               ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade II "
+              "AdvancementPath": "Promotion to Principal Technical Officer Grade II "
           
             }
           },
           {
-            "Principal Executive Officer Grade II Grade Level 10": {
+            "Principal Technical Officer Grade II Grade Level 10": {
               
               "EntryRequirements": [
-                 "By promotion of a confirmed and suitable Senior Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least eleven years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least nine years’ post-qualification cognate experience."
+              
+                 "By promotion of a confirmed and suitable Senior Technical Officer who, spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in relevant subject obtained from recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in a relevant subject at least ten year post-qualification cognate experience or By direct appointment of a candidate possessing Higher National Diploma relevant engineering subject from a recognized Institution plus at least six years’ post- qualifications cognate experience"
               
               ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade I"
+              "AdvancementPath": "Promotion to Principal Technical Officer Grade I "
           
            
             }
           },
           {
-            "Principal Executive Officer Grade I Grade Level 12": {
+            "Principal Technical Officer Grade I Grade Level 12": {
           
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Executive Officer Grade II (Civic Registration) who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years on the grade."
               ],
-              "AdvancementPath": "Promotion to Assistant Chief Executive Officer"
+              "AdvancementPath": "Promotion to Assistant Chief Technical Officer"
             }
           },
           {
-            "Assistant Chief Executive Officer Grade Level 13": {
+            "Assistant Chief Technical Officer Grade Level 13": {
               
               "EntryRequirements": [
-                "By promotion of a suitable Principal Executive Officer Grade I (Civic Registration) who has spent at least three years on the grade."
+                "By promotion of a suitable Principal Technical Officer Grade I who has spent at least three years on the grade."
               ],
-              "AdvancementPath": "Promotion to Chief Executive Officer"
+              "AdvancementPath": "Promotion to Chief Technical Officer"
             }
           },
 
           {
-            "Chief Executive Officer Grade Level 14": {
+            "Chief Technical Officer Grade Level 14": {
             
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Executive Officer (Civic Registration) who has spent at least three years on the grade."
+                "By promotion of a suitable Assistant Chief Technical Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -12296,64 +12488,991 @@
       },
 
       {
-        "Cadre": "Civic Registration Officer",
+        "Cadre": "Driller",
         "Grades": [
           {
-            "Civic Registration Officer Grade II Grade Level 08": {
+            "Assistant Driller Grade Level 06": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline."
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Drilling or Civil Engineering from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject.",
+                "By direct appointment of a candidate possessing the General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings preferably including, Chemistry, Physics or Mathematics."
+              
               ],
-              "AdvancementPath": "Promotion to Civic Registration Officer Grade I "
+              "AdvancementPath": "Promotion to Driller"
             }
           },
           {
-            "Civic Registration Officer Grade I Grade Level 09": {
+            "Driller Grade Level 07": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Civic Registration Officer Grade II who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline plus at least three years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least one year post-qualification cognate experience."
-
-
+                "By advancement of a suitable Assistant Driller possessing the qualification; Ordinary National Diploma in Drilling or Civil Engineering from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject who has spent one year on the grade.",
+                "By promotion of a confirmed and suitable Assistant Driller who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Drilling or Civil Engineering from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject plus at least one year post-qualification cognate experience."
               ],
-              "AdvancementPath": "Promotion to Senior Civic Registration Officer"
+              "AdvancementPath": "Promotion to Higher Driller"
             }
           },
           {
-            "Senior Civic Registration Officer Grade Level 10": {
+            "Higher Driller Grade Level 08": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Civic Registration Officer Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline plus at least six years’ post-qualification cognate experience or By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least four year post-qualification cognate experience."
-
+                "By promotion of a confirmed and suitable Driller who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing the Higher National Diploma in Drilling or Civil Engineering from a recognized Institution.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Drilling or Civil Engineering from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject plus at least four year post-qualification cognate experience."
               ],
-              "AdvancementPath": "Promotion to Principal Civic Registration Officer"
+              "AdvancementPath": "Promotion to Senior Driller"
             }
           },
           {
-            "Principal Civic Registration Officer Grade Level 12": {
+            "Senior Driller Grade Level 09": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Civic Registration Officer who has spent at least three years on the grade."
+             
+                "By promotion of a confirmed and suitable Higher Driller at three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Drilling or Civil Engineering from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject plus at least seven year post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Drilling or Civil Engineering from a recognized Institution plus at least three years’ post-qualification cognate experience."
               ],
-              "AdvancementPath": "Promotion to Assistant Chief Civic Registration Officer"
+              "AdvancementPath": "Promotion to Principal Driller Grade II"
+           
             }
           },
           {
-            "Assistant Chief Civic Registration Officer Grade Level 13": {
+            "Principal Driller Grade II Grade Level 10": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Civic Registration Officer who has spent at least three years on the grade."
+             
+              "By promotion of a confirmed and suitable Senior Driller at three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Drilling or Civil Engineering from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject plus at least ten year post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Drilling or Civil Engineering from a recognized Institution plus at least six years’ post-qualification cognate experience."
               ],
-              "AdvancementPath": "Promotion to Chief Civic Registration Officer"
+              "AdvancementPath": "Promotion to Principal Driller Grade I"
+           
             }
           },
           {
-            "Chief Civic Registration Officer Grade Level 14": {
+            "Principal Driller Grade I Grade Level 12": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Civic Registration Officer who has spent at least three years on the grade."
+              
+                "By promotion of a confirmed and suitable Principal Driller Grade II who has spent at least three years on the grade."
+              ],
+            
+              "AdvancementPath": "Promotion to Assistant Chief Driller"
+            
+            }
+          },
+          {
+            "Assistant Chief Driller Grade Level 13": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Driller Grade I who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Driller"
+            }
+          },
+
+
+
+
+          {
+            "Chief Driller Grade Level 14": {
+          
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Driller whey has spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+      {
+        "Cadre": "Laboratory Technologist(Mining)",
+        "Grades": [
+          {
+            "Laboratory Technologist Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing the Associate Membership (Certificate) of the Institute of Science and Technology (AIST)."
+              
+              ],
+              "AdvancementPath": "Promotion to Laboratory Technologist Grade I"
+            }
+          },
+          {
+            "Laboratory Technologist Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Laboratory Technologist Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing the Associate Membership (Certificate) of the Institute of Science and Technology (AIST) plus at least three years post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Senior Laboratory Technologist"
+            
+            }
+          },
+          {
+            "Senior Laboratory Technologist Grade Level 10": {
+           
+              "EntryRequirements": [
+                     "By promotion of a confirmed and suitable Laboratory Technologist Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing the Associate Membership (Certificate) of the Institute of Science and Technology (AIST) plus at least six years post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Principal Laboratory Technologist"
+           
+            }
+          },
+          {
+            "Principal Laboratory Technologist Grade Level 12": {
+             
+              "EntryRequirements": [
+             
+
+                "By promotion of a confirmed and suitable Senior Laboratory Technologist who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Laboratory Technologist"
+           
+            }
+          },
+          {
+            "Assistant Chief Laboratory Technologist Grade Level 13": {
+              
+              "EntryRequirements": [
+             
+
+                "By promotion of a suitable Principal Laboratory Technologist who has spent least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Laboratory Technologist"
+           
+            }
+          },
+          {
+            "Chief Laboratory Technologist Grade Level 14": {
+             
+              "EntryRequirements": [
+              
+                "By promotion of a suitable Assistant Chief Laboratory Technologist who has spent at least three years on the grade."
+              ],
+            
+              "AdvancementPath": ""
+            
+            }
+          }
+        ]
+      },
+      {
+        "Cadre": "Field Attendant",
+        "Grades": [
+          {
+            "Field Attendant Grade III Grade Level 01": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate who is mentally and physically fit."
+              
+              ],
+              "AdvancementPath": "Promotion to Field Attendant Grade II"
+            }
+          },
+          {
+            "Field Attendant Grade II Grade Level 02": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed and suitable Field Attendant Grade III who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Field Attendant Grade I"
+            }
+          },
+          {
+            "Field Attendant Grade I Grade Level 03": {
+           
+              "EntryRequirements": [
+                "By promotion of a suitable Field Attendant Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+      {
+        "Cadre": "Geological Assistant",
+        "Grades": [
+          {
+            "Field Assistant Grade Level 04": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings, preferably including Mathematics, Physics or Chemistry. West African School Certificate or Senior Secondary School Certificate preferably including a pass in Mathematics, Physics or Chemistry."
+              
+              ],
+              "AdvancementPath": "Promotion to Geological Assistant"
+            }
+          },
+          {
+            "Geological Assistant Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Field Assistant who has passed the Departmental Confirmation/Promotion Test at promotional level (i.e. 50 percent) and spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings, preferably including Mathematics, Physics or Chemistry. West African School Certificate or Senior Secondary School Certificate preferably including a pass in Mathematics, Physics or Chemistry plus at least two years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Senior Geological Assistant "
+            }
+          },
+          {
+            "Senior Geological Assistant Grade Level 06": {
+           
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Geological Assistant who has spent at least two years on the grade."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Geological Assistant"
+            }
+          },
+          {
+            "Chief Geological Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+             
+                "By promotion of a suitable Senior Geological Assistant who has spent at least two years on the grade."
+
+              ],
+              "AdvancementPath": ""
+           
+            }
+          }
+        ]
+      },
+      {
+        "Cadre": "Technical Officer(Exploration)",
+        "Grades": [
+          {
+            "Assistant Technical Officer Grade Level 06": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing Ordinary National Diploma in Geology, Mining Engineering, Surveying or Geophysics from a recognized Institution.",
+                "By direct appointment of a candidate possessing the General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics, Physics or Geography.",
+                "By promotion/transfer of a confirmed and suitable Geological Assistant who has successfully completed the training programmes for Assistant Technical Officer (Exploration)."
+              
+              ],
+              "AdvancementPath": "Promotion to Technical Officer"
+            }
+          },
+          {
+            "Technical Officer Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By advancement of a suitable Assistant Technical Officer possessing the qualification; Ordinary National Diploma in  Geology, Mining Engineering, Surveying or Geophysics from a recognized Institution who has spent one year on the grade.",
+                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing Ordinary National Diploma in Geology, Mining Engineering, Surveying or Geophysics from a recognized Institution plus at least one-year post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Higher Technical Officer"
+            }
+          },
+          {
+            "Higher Technical Officer Grade Level 08": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing Ordinary National Diploma in Geology, Mining Engineering, Surveying or Geophysics from a recognized Institution plus at least four-year post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing the Higher National Diploma in Geology, Mining Engineering, Surveying or Geophysics from a recognized institution."
+          
+              ],
+              "AdvancementPath": "Promotion to Senior Technical Officer"
+            }
+          },
+          {
+            "Senior Technical Officer Grade Level 09": {
+             
+              "EntryRequirements": [
+             
+                "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
+   "By direct appointment of a candidate possessing Ordinary National Diploma in Geology, Mining Engineering, Surveying or Geophysics from a recognized Institution plus at least seven-year post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Geology, Mining Engineering, Surveying or Geophysics from a recognized institution plus at least three years’ post- qualification cognate experience "
+          
+              ],
+              "AdvancementPath": "Promotion to Principal technical Officer Grade II"
+           
+            }
+          },
+          {
+            "Principal technical Officer Grade II Grade Level 10": {
+              
+              "EntryRequirements": [
+             
+               "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
+   "By direct appointment of a candidate possessing Ordinary National Diploma in Geology, Mining Engineering, Surveying or Geophysics from a recognized Institution plus at least ten-year post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Geology, Mining Engineering, Surveying or Geophysics from a recognized institution plus at least six years’ post- qualification cognate experience "
+          
+              ],
+              "AdvancementPath": "Promotion to Principal technical Officer Grade I"
+           
+            }
+          },
+          {
+            "Principal Technical Officer Grade I Grade Level 12": {
+             
+              "EntryRequirements": [
+              
+                "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years on the grade."
+              ],
+            
+              "AdvancementPath": "Promotion to Assistant Chief technical Officer"
+            
+            }
+          },
+          {
+            "Assistant Chief technical Officer Grade Level 13": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable principal Technical Officer Grade I who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Technical Officer"
+            }
+          },
+
+
+
+
+          {
+            "Chief Technical Officer Grade Level 14": {
+          
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Technical Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+      {
+        "Cadre": "Geologist",
+        "Grades": [
+          {
+            "Geologist Grade Level 09": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Geology, Mm or Exploratory Geology or Geology with Elementary Topographical Surveying as a subsidiary subject from a recognized University. A degree and post-graduate diploma in Geochemistry or geology with specialization in Geochemistry from a recognized University."
+              ],
+              "AdvancementPath": "Promotion to Senior Geologist"
+            }
+          },
+          {
+            "Senior Geologist Grade Level 10": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Geologist who baa spent at least three years on the grade",
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Geology, Mm or Exploratory Geology or Geology with Elementary Topographical Surveying as a subsidiary subject from a recognized University. A degree and post-graduate diploma in Geochemistry or geology with specialization in Geochemistry from a recognized University plus at least three years’ post-qualification cognate experience."
+
+
+              ],
+              "AdvancementPath": "Promotion to Principal Geologist"
+            }
+          },
+          {
+            "Principal Geologist Grade Level 12": {
+           
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Geologist who has spent at least three years on the grade."
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Geologist"
+            }
+          },
+          {
+            "Assistant Chief Geologist Grade Level 13": {
+             
+              "EntryRequirements": [
+             
+                "By promotion of a suitable Principal Geologist who has spent at least three years on the grade."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Geologist"
+           
+            }
+          },
+          {
+            "Chief Geologist Grade Level 14.": {
+              
+              "EntryRequirements": [
+             
+              "By promotion of a suitable Assistant Chief Geologist who has spent at least three years on the grade."
+
+            ],
+              "AdvancementPath": "Promotion to Assistant Director"
+           
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+              
+                "By promotion of a suitable Chief Geologist who has spent at least free years on the grade."
+              ],
+            
+              "AdvancementPath": "Promotion to Deputy Director"
+            
+            }
+          },
+          {
+            "Deputy Director Grade Level 16": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Director "
+            }
+          },
+
+
+
+
+          {
+            "Director Grade Level 17": {
+          
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+      {
+        "Cadre": "Sub-Inspector of Mines",
+        "Grades": [
+          {
+            "Mines Ranger Grade Level 03": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing any of the following qualifications: Evidence of completion of a full course in a Government approved Secondary School or S.75 of JSSC with a bias in Science. General Certificate of Education (Ordinary Level) in three subjects obtained at one sitting or four subjects at two sittings, preferably including Mathematics or Physics."
+              
+              ],
+              "AdvancementPath": "Promotion to Assistant Sub-Inspector of Mines"
+            }
+          },
+          {
+            "Assistant Sub-Inspector of Mines Grade Level 04": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Mines Ranger who obtained at least 50 percent in the Department Confirmation/promotion Test and has spent a least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Ordinary Level) in four subjects passed at one sitting or five subjects at two sittings preferably including Physics or Mathematics. West African School Certificate or Senior Secondary School Certificate preferably including a pass in Physics or Mathematics."
+              ],
+              "AdvancementPath": "Promotion to Sub-Inspector of Mines"
+            }
+          },
+          {
+            "Sub-Inspector of Mines Grade Level 05": {
+           
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Assistant Sub-Inspector of Mines who has successfully completed the approved training programme.",
+                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Ordinary Level) in four subjects passed at one sitting or five subjects at two sittings preferably including Physics or Mathematics. West African School Certificate or Senior Secondary School Certificate preferably including a pass in Physics or Mathematics plus at least two years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Senior Sub-Inspector of Mines"
+            }
+          },
+          {
+            "Senior Sub-Inspector of Mines Grade Level 06": {
+             
+              "EntryRequirements": [
+             
+
+                "By promotion of a confirmed and suitable sub-Inspector of Mines who has spent at least two years’ on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Sub-Inspector of Mines"
+           
+            }
+          },
+          {
+            "Chief Sub-Inspector of Mines Grade Level 07": {
+              
+              "EntryRequirements": [
+             
+
+                "By promotion of a suitable Senior Sub-Inspector of Mines who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Technical Officer(Mining)",
+        "Grades": [
+          {
+            "Assistant Technical Officer Grade Level 06": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Mining or Civil Engineering from a recognized Institution.Diploma in Mining from the Mines School, Jos. General Certificate of Education (Advance Level) in two subjects obtained at one sitting or three subjects obtained at two sittings, preferably including Chemistry, Physics, Geography or Mathematics.",
+                "By promotion of a confirmed and suitable Sub-Inspector of Mines who scored at least 70% in the Departmental Confirmation/Promotion Test and has successfully completed an appropriate in-service training course."
+
+
+              
+              ],
+              "AdvancementPath": "Promotion to Technical Officer"
+            }
+          },
+          {
+            "Technical Officer Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
+                "By advancement of an Assistant Technical Officer possessing the qualification Ordinary National Diploma in Mining or Civil Engineering from a recognized Institution. or Diploma in Mining from the Mines School, Jos who has spent one year on the grade.",
+                "By direct appointment of a candidate possessing  General Certificate of Education (Advance Level) in two subjects obtained at one sitting or three subjects obtained at two sittings, preferably including Chemistry, Physics, Geography or Mathematics. plus at least two years’ pest-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Higher Technical Officer"
+            }
+          },
+          {
+            "Higher Technical Officer Grade Level 08": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
+
+                "By direct appointment of a candidate possessing the Higher National Diploma in Mining of Civil Engineering from a recognized Institution",
+
+                "By direct appointment of a candidate possessing any of the following qualifications:Ordinary National Diploma in Mining or Civil Engineering from a recognized Institution. or Diploma in Mining from the Mines School, Jos who has spent one year on the grade plus at least four years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Senior Technical Officer"
+            }
+          },
+          {
+            "Senior Technical Officer Grade Level 09": {
+             
+              "EntryRequirements": [
+             
+                "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Ordinary National Diploma in Mining or Civil Engineering from a recognized Institution. or Diploma in Mining from the Mines School, Jos who has spent one year on the grade plus at least seven years’ post-qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Mining of Civil Engineering from a recognized Institution plus at least three years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Principal Technical Officer Grade II"
+           
+            }
+          },
+          {
+            "Principal Technical Officer Grade II Grade Level 10": {
+              
+              "EntryRequirements": [
+             
+                "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Ordinary National Diploma in Mining or Civil Engineering from a recognized Institution. or Diploma in Mining from the Mines School, Jos who has spent one year on the grade plus at least ten years’ post-qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Mining of Civil Engineering from a recognized Institution plus at least six years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Principal Technical Officer Grade I"
+           
+            }
+          },
+          {
+            "Principal Technical Officer Grade I Grade Level 12": {
+             
+              "EntryRequirements": [
+              
+                "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years’ on the grade."
+              ],
+            
+              "AdvancementPath": "Promotion to Assistant Chief Technical Officer"
+            
+            }
+          },
+          {
+            "Assistant Chief Technical Officer Grade Level 13": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Technical Officer Grade I who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Technical Officer"
+            }
+          },
+
+
+
+
+          {
+            "Chief Technical Officer Grade Level 14": {
+          
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Technical Officer whey has spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+      {
+        "Cadre": "Inspector of Mines",
+        "Grades": [
+          {
+            "Inspector of Mines Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing a degree or Diploma in Mining Engineering from a recognized University or Mining Institution respectively."
+
+
+              
+              ],
+              "AdvancementPath": "Promotion to Inspector of Mines Grade I"
+            }
+          },
+          {
+            "Inspector of Mines Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+              
+                "By advancement of a suitable Inspector of Mines Grade II who has successfully completed the two year pupilage programme.",
+               
+
+                "By direct appointment of a candidate possessing a degree or Diploma in Mining Engineering from a recognized University or Mining Institution respectively plus at least two years post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Senior inspector of Mines"
+
+            }
+          },
+          {
+            "Senior inspector of Mines Grade Level 10": {
+           
+              "EntryRequirements": [
+                   "By advancement of a suitable Inspector of Mines Grade I who has successfully completed the two year pupilage programme.",
+               
+
+                "By direct appointment of a candidate possessing a degree or Diploma in Mining Engineering from a recognized University or Mining Institution respectively plus at least five years post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Principal Inspector of Mines"
+
+          
+            }
+          },
+          {
+            "Principal Inspector of Mines Grade Level 12": {
+             
+              "EntryRequirements": [
+             
+
+                "By promotion of a confirmed and suitable Senior Inspector of Mines who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Inspector of Mine"
+           
+            }
+          },
+          {
+            "Assistant Chief Inspector of Mine Grade Level 13": {
+              
+              "EntryRequirements": [
+             
+
+                "By promotion of a confirmed and suitable Principal Inspector of Mines who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Inspector of Mines"
+           
+            }
+          },
+          {
+            "Chief Inspector of Mines Grade Level 14": {
+             
+              "EntryRequirements": [
+              
+                "By promotion of a suitable Assistant Chief Inspector of Mines who has spent at least three years on the grade."
+              ],
+            
+              "AdvancementPath": "Promotion to Assistant Director"
+            
+            }
+          },
+          {
+            "Assistant Director, Grade Level 15": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Chief Inspector of Mines who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Deputy Director"
+            }
+          },
+          {
+            "Deputy Director Grade Level 16": {
+          
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": "Promotion to  Director"
+            }
+          },
+          {
+            "Director Grade Level 17": {
+          
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+      {
+        "Cadre": "Scientific Officer(Mining)",
+        "Grades": [
+          {
+            "Scientific Officer Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing a degree from a recognized University in any of the following disciplines: Geology. Geology with Mineralogy, Chemistry, Physics or Biology as subsidiary. Mining Geology with Statistics or Mathematics as subsidiary. Analytical Chemistry. Metallurgy. Ore Dressing Geophysics."
+
+
+              
+              ],
+              "AdvancementPath": "Promotion to Scientific Officer Grade I"
+            }
+          },
+          {
+            "Scientific Officer Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a suitable Scientific Officer Grade II who has successfully completed a two-year pupilage programme.",
+                "By direct appointment of a candidate possessing a degree from a recognized University in any of the following disciplines: Geology. Geology with Mineralogy, Chemistry, Physics or Biology as subsidiary. Mining Geology with Statistics or Mathematics as subsidiary. Analytical Chemistry. Metallurgy. Ore Dressing Geophysics plus at least two years’ post-qualifications cognate experience."
+
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Scientific Officer"
+           
+            }
+          },
+          {
+            "Senior Scientific Officer Grade Level 10": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Scientific Officer Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree from a recognized University in any of the following disciplines: Geology. Geology with Mineralogy, Chemistry, Physics or Biology as subsidiary. Mining Geology with Statistics or Mathematics as subsidiary. Analytical Chemistry. Metallurgy. Ore Dressing Geophysics plus at least five years’ post-qualifications cognate experience."
+
+              
+              ],
+              "AdvancementPath": "Promotion to Principal Scientific Officer"
+           
+            }
+          },
+          {
+            "Principal Scientific Officer Grade Level 12": {
+           
+              "EntryRequirements": [
+               
+                
+                "By promotion of a confirmed and suitable Senior Scientific Officer spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Scientific Officer"
+            }
+          },
+          {
+            "Assistant Chief Scientific Officer Grade Level 13": {
+             
+              "EntryRequirements": [
+             
+                "By promotion of a suitable Principal Scientific Officer who has spent at least three years on the grade."              ],
+              "AdvancementPath": "Promotion to Chief Scientific Officer"
+           
+            }
+          },
+          {
+            "Chief Scientific Officer Grade Level 14": {
+              
+              "EntryRequirements": [
+             
+
+                "By promotion of a suitable Assistant Chief Scientific Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+           
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+              
+                "By promotion of a suitable Chief Scientific Officer who has spent at least three years on the grade."
+              ],
+            
+              "AdvancementPath": "Promotion to Deputy Director Grade"
+            
+            }
+          },
+          {
+            "Deputy Director Grade Level 16": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Director"
+            }
+          },
+
+          {
+            "Director Grade Level 17": {
+          
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      }
+
+
+
+
+
+
+
+    ],
+
+    "SectionMetadata": {
+      "TotalCadres": 28,
+      "Categories": [
+        "Media and Communication",
+        "Cultural Heritage",
+        "Archival",
+        "Creative Arts",
+        "Technical Support"
+      ],
+      "TypicalGradeLevels": "GL 03 to GL 17 depending on cadre and seniority",
+      "DepartmentFunctions": [
+        "Information dissemination and public communication",
+        "Cultural heritage preservation and management",
+        "Archival records management and preservation",
+        "Media production and creative arts development",
+        "Cultural research and documentation"
+      ],
+      "KeySkills": [
+        "Communication and media relations",
+        "Cultural research and documentation",
+        "Creative arts and production",
+        "Heritage conservation and management",
+        "Information management and dissemination"
+      ],
+      "TechnologyRequirements": [
+        "Media production equipment",
+        "Archival preservation systems",
+        "Digital documentation tools",
+        "Information management software",
+        "Cultural heritage databases"
+      ]
+    }
+  },
+
+
+  "WomenAffairsAndSocialDevelopmentSection": {
+    "Cadres": [
+      {
+        "Cadre": "Community Development Assistant",
+        "Grades": [
+          {
+            "Community Development Assistant Grade Level 04": {
+              
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary School Certificate or West African School Certificate General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings."
+              ],
+              "AdvancementPath": "Promotion to Senior Community Development Assistant Grade II"
+            }
+          },
+          {
+            "Senior Community Development Assistant Grade II Grade Level 05": {
+              
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Community Development Assistant who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary School Certificate or West African School Certificate General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings. plus at least two years post- qualifications cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Senior Community Development Assistant Grade I"
+            }
+          },
+          {
+            "Senior Community Development Assistant Grade I Grade Level 06": {
+              
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Community Development Assistant Grade II who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Community Development Assistant"
+            }
+          },
+          {
+            "Chief Community Development Assistant Grade Level 07": {
+              
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Community Development Assistant Grade I who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Community Development Officer",
+        "Grades": [
+          {
+            "Community Development Officer Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing a degree in Social Work, Home Economics or in any of the Social Sciences or related subjects from a recognized University."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Community Development Officer Grade I"
+            }
+          },
+          {
+            "Community Development Officer Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Community Development Officer Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Social Work, Home Economics or in any of the Social Sciences or related subjects from a recognized University plus at least three years’ post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least one-year post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Senior Community Development Officer"
+            }
+          },
+          {
+            "Senior Community Development Officer Grade Level 10": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Community Development Officer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least six-year post-qualification cognate experience. or By promotion of a confirmed and suitable Community Development Officer Grade II who has spent at least four years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Principal Community Development Officer"
+            }
+          },
+          {
+            "Principal Community Development Officer Grade Level 12": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Community Developing Officer who has spent at least three years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Community Development Officer"
+            }
+          },
+          {
+            "Assistant Chief Community Development Officer Grade Level 13": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Community Developing Officer who has spent at least three years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Chief Community Development Officer"
+            }
+          },
+          {
+            "Chief Community Development Officer Grade Level 14": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Chief Community Development Officer who has spent at least three years on the grade."  
+                 
               ],
               "AdvancementPath": "Promotion to Assistant Director"
             }
@@ -12362,7 +13481,157 @@
             "Assistant Director Grade Level 15": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Chief Civic Registration Officer who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Chief Community Developing Officer who has spent at least three years on the grade and successfully completed a relevant Advanced Management Training Course in a recognized Institution."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
+            }
+          },
+          {
+            "Deputy Director/Director (States) Grade Level 16": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Director who has spent at least four years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Director"
+            }
+          },
+          {
+            "Director Grade Level 17": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Deputy Director who has spent at least four years on the grade."  
+                 
+              ],
+              "AdvancementPath": ""
+            }
+          }
+
+        ]
+      },
+
+      {
+        "Cadre": "Social Welfare Assistant",
+        "Grades": [
+          {
+            "Social Welfare Assistant Grade Level 04": {
+              
+              "EntryRequirements": [
+                "By direct appointment of g cap4idte possessing any of the following qualifications:West African School Certificate or Senior Secondary School Certificate. General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings."
+
+              ],
+              "AdvancementPath": "Promotion to Senior Social Welfare Assistant Grade II"
+            }
+          },
+
+          {
+            "Senior Social Welfare Assistant Grade II Grade Level 05": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Social Welfare Assistant who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing the Teacher Grade II Certificates."
+
+              ],
+              "AdvancementPath": "Promotion to Senior Social Welfare Assistant Grade I"
+            }
+          },
+          {
+            "Senior Social Welfare Assistant Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed and suitable Senior Social Welfare Assistant Grade II who has spent at least two years on the grade."
+              
+              ],
+              "AdvancementPath": "Promotion to Chief Social Welfare Assistant"
+            }
+          },
+          {
+            "Chief Social Welfare Assistant Grade Level 07": {
+              
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Social Welfare Assistant Grade I who has spent at least two years on the grade."
+              
+              ],
+              "AdvancementPath": " "
+          
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Social Welfare Officer",
+        "Grades": [
+          {
+            "Social Welfare Officer Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing a degree in Social Work or any of the relevant Social Sciences or Physical and Health Education obtained front recognized University."
+              ],
+              "AdvancementPath": "Promotion to Social Welfare Officer Grade I"
+            }
+          },
+          {
+            "Social Welfare Officer Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Social Welfare Officer Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Social Work or any of the relevant Social Sciences or Physical and Health Education obtained front recognized University.plus at least three years post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing a Master’s  degree in Social Work or any of the relevant Social Sciences or Physical and Health Education obtained front recognized University. plus at least one-year post- qualification cognate experience."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Social Welfare Officer"
+            }
+          },
+          {
+            "Senior Social Welfare Officer Grade Level 10": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Social Welfare Officer Grade I who has spent at least three years on the grade.",
+       "By direct appointment of a candidate possessing a degree in Social Work or any of the relevant Social Sciences or Physical and Health Education obtained front recognized University.plus at least six years post-qualification cognate experience. or By direct appointment of a candidate possessing a Master’s  degree in Social Work or any of the relevant Social Sciences or Physical and Health Education obtained front recognized University. plus at least four-year post- qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Principal Social Welfare Officer"
+            }
+          },
+          {
+            "Principal Social Welfare Officer Grade Level 12": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Social Welfare Officer has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Social Welfare Officer"
+            }
+          },
+          {
+            "Assistant Chief Social Welfare Officer Grade Level 13": {
+              
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Social Welfare Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Social Welfare Officer"
+            }
+          },
+          {
+            "Chief Social Welfare Officer Grade Level 14": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Chief Social Welfare Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Chief Social Welfare Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Deputy Director"
             }
@@ -12371,6 +13640,104 @@
 
 
 
+          {
+            "Deputy Director/Director (States) Grade Level 16 ": {
+          
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Director"
+            }
+          },
+          {
+            "Director Grade Level 17.": {
+              
+              "EntryRequirements": [
+                "Bypromotion of a confirmed and suitable Senior Steward who has spent at two years on the grade."
+              ],
+              "AdvancementPath": "By promotion of a confirmed and suitable Deputy Director who has spent at least four years on the grade."
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Inspector(National Youth Service Scheme)",
+        "Grades": [
+          {
+            "Inspector Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing a degree from a recognized University."
+              ],
+              "AdvancementPath": "Promotion to Inspector Grade I"
+            }
+          },
+          {
+            "Inspector Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Inspector Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree from a recognized University. plus at least three years’ post-qualification experience."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Inspector"
+           
+            }
+          },
+          {
+            "Senior Inspector Grade Level 10": {
+           
+              "EntryRequirements": [
+            
+                "By promotion of a confirmed and suitable Inspector Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree from a recognized University. plus at least six years’ post-qualification experience."
+
+
+              ],
+              "AdvancementPath": "Promotion to Principal Inspector"
+           
+            }
+          },
+          {
+            "Principal Inspector Grade Level 12": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Inspector who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Inspector"
+            }
+          },
+          {
+            "Assistant Chief Inspector Grade Level 13": {
+              
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Inspector who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Inspector"
+            }
+          },
+          {
+            "Chief Inspector Grade Level 14": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Inspector who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Chief Inspector who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Deputy Director"
+            }
+          },
           {
             "Deputy Director Grade Level 16 ": {
           
@@ -12391,7 +13758,6 @@
           }
         ]
       }
-
 
 
 
@@ -12437,25 +13803,34 @@
   },
 
 
-  "InternalAffairsSection": {
+  "TransportSection": {
     "Cadres": [
       {
-        "Cadre": "Dog Kennel Attendant",
+        "Cadre": "Freightman",
         "Grades": [
           {
-            "Dog Kennel Attendant Grade Level 03": {
+            "Freightman Grade Level 01": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate plus evidence of relevant experience Secondary Modern School Certificate or evidence of completion of Class II in an approved Grammar/Commercial School."
+                "By direct appointment of a candidate who is mentally an1 physically fit and adjudged suitable for the job."
               ],
-              "AdvancementPath": "Promotion to Head Dog Kennel Attendant"
+              "AdvancementPath": "Promotion to Senior Freightman"
             }
           },
           {
-            "Head Dog Kennel Attendant Grade Level 04": {
+            "Senior Freightman Grade Level 02": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Dog Kennel Attendant who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Freightman who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Head Freightman"
+            }
+          },
+          {
+            "Head Freightman Grade Level 03": {
+              
+              "EntryRequirements": [
+                "By promotion of a suitable Senior Freightman who has spent at least two years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -12464,25 +13839,56 @@
       },
 
       {
-        "Cadre": "Hangman",
+        "Cadre": "Coastal Assistant",
         "Grades": [
           {
-            "Hangman Grade Level 04": {
+            "Coastal Assistant Grade II Grade Level 03": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate or Evidence of completion of Class II in an approved Grammar/Commercial School."  
+                "By direct appointment of a candidate possessing any of the following qualifications: Evidence of completion of a full course in a Government approved Secondary School or S.75 or Junior Secondary School Certificate. General Certificate of Education (Ordinary Level) in three subjects obtained at one sitting or four subjects at two sittings."  
                  
               ],
-              "AdvancementPath": "Promotion to Head Hangman"
+              "AdvancementPath": "Promotion to Coastal Assistant Grade I"
             }
           },
           {
-            "Head Hangman Grade Level 05": {
+            "Coastal Assistant Grade I Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Coastal Assistant Grade II who has passed the Coastal Assistant Confirmation/Promotion Test at promotion level (i.e. 50 percent) and spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate. General Certificate of Education (Ordinary Level) in four subjects obtained at one sitting or in five subjects at two sittings."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Senior Coastal Assistant Grade II "
+            }
+          },
+          {
+            "Senior Coastal Assistant Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Coastal Assistant Grade I who has spent at least two years on the grade." ,
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate. General Certificate of Education (Ordinary Level) in four subjects obtained at one sitting or in five subjects at two sittings. plus at least two years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Senior Coastal Assistant Grade I"
+            }
+          },
+          {
+            "Senior Coastal Assistant Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Coastal Assistant Grade II who has spent at least two years on the grade."  
+                 
+              ],
+              "AdvancementPath": "Promotion to Chief Coastal Assistant"
+            }
+          },
+          {
+            "Chief Coastal Assistant Grade Level 07": {
            
               "EntryRequirements": [
 
 
-                "By promotion of a Confirmed and suitable Hangman who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Senior Coastal Assistant Grade I who has spent at least two years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -12492,92 +13898,97 @@
       },
 
       {
-        "Cadre": "Executive Officer(Civic Registration)",
+        "Cadre": "Freight Officer",
         "Grades": [
           {
-            "Assistant Executive Officer Grade Level 06": {
+            "Assistant Freight Officer Grade Level 06": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution."
+                "By direct appointment of a candidate possessing any of the qualifications: Ordinary National Diploma in Business Studies from an Institution. Intermediate Certificate of the Institute of Chartered Secretaries Administrators. Royal Society of Arts Stage III (Advanced) in Accounts. General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings."
 
               ],
-              "AdvancementPath": "Promotion to Executive Officer"
+              "AdvancementPath": "Promotion to Freight Officer"
             }
           },
 
           {
-            "Executive Officer Grade Level 07": {
+            "Freight Officer Grade Level 07": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Executive Officer (Civic Registration) who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least two years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution."
+                "By promotion of a confirmed and suitable Assistant Freight Officer who has spent at least two years on the grade.",
+
+                "By direct appointment of a candidate possessing any of the qualifications: Ordinary National Diploma in Business Studies from an Institution. Intermediate Certificate of the Institute of Chartered Secretaries Administrators. Royal Society of Arts Stage III (Advanced) in Accounts. General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings. plus at least two years’ post-qualifications cognate experience.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Certificate of Associateship of the London Institute of Freight Forwarders. London Chamber of Commerce Higher Group Diploma in Shipping. Higher National Diploma in Business Studies from a recognized Institution."
 
               ],
-              "AdvancementPath": "Promotion to Higher Executive Officer"
+              "AdvancementPath": "Promotion to Higher Freight Officer"
             }
           },
           {
-            "Higher Executive Officer Grade Level 08": {
+            "Higher Freight Officer Grade Level 08": {
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least three years’ post-qualification cognate experience."
-              
-              ],
-              "AdvancementPath": "Promotion to Senior Executive Officer"
+                "By promotion of a confirmed and suitable Freight Officer who has spent at least three years on the grade.",
+ "By direct appointment of a candidate possessing any of the qualifications: Ordinary National Diploma in Business Studies from an Institution. Intermediate Certificate of the Institute of Chartered Secretaries Administrators. Royal Society of Arts Stage III (Advanced) in Accounts. General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings. plus at least five years’ post-qualifications cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Certificate of Associateship of the London Institute of Freight Forwarders. London Chamber of Commerce Higher Group Diploma in Shipping. Higher National Diploma in Business Studies from a recognized Institution. plus at least three years’ post-qualification cognate experience ",
+ "By direct appointment of a candidate possessing any of the following qualifications: Associate Membership of the Institute of Transport. Associate Membership of the Institute of Export."
+           
+
+],
+              "AdvancementPath": "Promotion to Senior Freight Officer"
             }
           },
           {
-            "Senior Executive Officer Grade Level 09": {
+            "Senior Freight Officer Grade Level 09": {
               
               "EntryRequirements": [
-                 "By promotion of a confirmed and suitable Higher Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least six years’ post-qualification cognate experience."
-              
+                 "By promotion of a confirmed and suitable Higher Freight Officer who has spent at least three years on the grade.",
+"By direct appointment of a candidate possessing any of the qualifications: Ordinary National Diploma in Business Studies from an Institution. Intermediate Certificate of the Institute of Chartered Secretaries Administrators. Royal Society of Arts Stage III (Advanced) in Accounts. General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings. plus at least eight years’ post-qualifications cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Certificate of Associateship of the London Institute of Freight Forwarders. London Chamber of Commerce Higher Group Diploma in Shipping. Higher National Diploma in Business Studies from a recognized Institution. plus at least six years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Associate Membership of the Institute of Transport. Associate Membership of the Institute of Export  plus at least three years’ post-qualification cognate experience"
+       
+
+                 
               ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade II "
+              "AdvancementPath": "Promotion to Principal Freight Officer Grade II "
           
             }
           },
           {
-            "Principal Executive Officer Grade II Grade Level 10": {
+            "Principal Freight Officer Grade II Grade Level 10": {
               
               "EntryRequirements": [
-                 "By promotion of a confirmed and suitable Senior Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least eleven years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least nine years’ post-qualification cognate experience."
+                 "By promotion of a confirmed and suitable Senior Freight Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the qualifications: Ordinary National Diploma in Business Studies from an Institution. Intermediate Certificate of the Institute of Chartered Secretaries Administrators. Royal Society of Arts Stage III (Advanced) in Accounts. General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings. plus at least eleven years’ post-qualifications cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Certificate of Associateship of the London Institute of Freight Forwarders. London Chamber of Commerce Higher Group Diploma in Shipping. Higher National Diploma in Business Studies from a recognized Institution. plus at least nine years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Associate Membership of the Institute of Transport. Associate Membership of the Institute of Export  plus at least six years’ post-qualification cognate experience"
               
               ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade I"
+              "AdvancementPath": "Promotion to Principal Freight Officer Grade I"
           
            
             }
           },
           {
-            "Principal Executive Officer Grade I Grade Level 12": {
+            "Principal Freight Officer Grade I Grade Level 12": {
           
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Executive Officer Grade II (Civic Registration) who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Principal Freight Officer Grade II who has spent at least three years on the grade."
               ],
-              "AdvancementPath": "Promotion to Assistant Chief Executive Officer"
+              "AdvancementPath": "Promotion to Assistant Chief Freight Officer"
             }
           },
           {
-            "Assistant Chief Executive Officer Grade Level 13": {
+            "Assistant Chief Freight Officer Grade Level 13": {
               
               "EntryRequirements": [
-                "By promotion of a suitable Principal Executive Officer Grade I (Civic Registration) who has spent at least three years on the grade."
+                "By promotion of a suitable Principal Freight Officer Grade I who has spent at least three years on the grade."
               ],
-              "AdvancementPath": "Promotion to Chief Executive Officer"
+              "AdvancementPath": "Promotion to Chief Freight Officer"
             }
           },
 
           {
-            "Chief Executive Officer Grade Level 14": {
+            "Chief Freight Officer Grade Level 14": {
             
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Executive Officer (Civic Registration) who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Assistant Chief Freight Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -12586,64 +13997,113 @@
       },
 
       {
-        "Cadre": "Civic Registration Officer",
+        "Cadre": "Marine Engineering Assistant",
         "Grades": [
           {
-            "Civic Registration Officer Grade II Grade Level 08": {
+            "Marine Engineering Assistant Grade II Grade Level 04": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline."
+                "By direct appointment of a candidate possessing Class II Trade Test Certificate in a relevant grade from an approved trade Institution."
               ],
-              "AdvancementPath": "Promotion to Civic Registration Officer Grade I "
+              "AdvancementPath": "Promotion to Marine Engineering Assistant Grade I"
             }
           },
           {
-            "Civic Registration Officer Grade I Grade Level 09": {
+            "Marine Engineering Assistant Grade I Grade Level 05": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Civic Registration Officer Grade II who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline plus at least three years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least one year post-qualification cognate experience."
+
+                "By advancement of a Marine Engineering Assistant Grade II who has successfully completed a two-year on-the-job training programme and obtained Trade Test Class I Certificate.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution."
 
 
               ],
-              "AdvancementPath": "Promotion to Senior Civic Registration Officer"
+              "AdvancementPath": "Promotion to Senior Marine Engineering Assistant"
             }
           },
           {
-            "Senior Civic Registration Officer Grade Level 10": {
+            "Senior Marine Engineering Assistant Grade Level 06": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Civic Registration Officer Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline plus at least six years’ post-qualification cognate experience or By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least four year post-qualification cognate experience."
+                "By promotion of a confirmed and suitable Marine Engineering Assistant Grade I who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution. plus at least two years post-qualification cognate experience."
 
               ],
-              "AdvancementPath": "Promotion to Principal Civic Registration Officer"
+              "AdvancementPath": "Promotion to Chief Marine Engineering Assistant"
             }
           },
           {
-            "Principal Civic Registration Officer Grade Level 12": {
+            "Chief Marine Engineering Assistant Grade Level 07": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Civic Registration Officer who has spent at least three years on the grade."
+                "By promotion of a suitable Senior Marine Engineering Assistant who has spent at least two years on the grade."
               ],
-              "AdvancementPath": "Promotion to Assistant Chief Civic Registration Officer"
+              "AdvancementPath": ""
             }
-          },
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Marine Engineer/Marine Officer",
+        "Grades": [
           {
-            "Assistant Chief Civic Registration Officer Grade Level 13": {
-              
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Civic Registration Officer who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Civic Registration Officer"
-            }
-          },
-          {
-            "Chief Civic Registration Officer Grade Level 14": {
+            "Marine Engineer/Officer Grade II Grade Level 08": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Civic Registration Officer who has spent at least three years on the grade."
+                "By direct appointment of a candidate possessing any of the following or equivalent qualifications registrable with the Council for the Regulation of Engineering in Nigeria (COREN): British B.O.T. Certificate of Competency as 1st Mate. British B.O.T. Certificate of Competency, 2nd Class (Steam or Motor). A degree in Marine Engineering or related subject from a recognized University."
+              ],
+              "AdvancementPath": "Promotion to Marine Engineer/Officer Grade I"
+            }
+          },
+          {
+            "Marine Engineer/Officer Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a suitable Marine Engineer/Officer Grade II who has completed a two-year pupilage programme.",
+                "By direct appointment of a candidate possessing any of the following or equivalent qualifications registrable with the Council for the Regulation of Engineering in Nigeria (COREN): British B.O.T. Certificate of Competency as 1st Mate. British B.O.T. Certificate of Competency, 2nd Class (Steam or Motor). A degree in Marine Engineering or related subject from a recognized University. plus at least two years’ post-qualification co experience."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Marine Engineer/Officer"
+            }
+          },
+          {
+            "Senior Marine Engineer/Officer Grade Level 10": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Marine Engineer/Officer Grade who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following or equivalent qualifications registrable with the Council for the Regulation of Engineering in Nigeria (COREN): British B.O.T. Certificate of Competency as 1st Mate. British B.O.T. Certificate of Competency, 2nd Class (Steam or Motor). A degree in Marine Engineering or related subject from a recognized University. plus at least five years’ post-qualification co experience."
+
+              ],
+              "AdvancementPath": "Promotion to Principal Marine Engineer/Officer "
+            }
+          },
+          {
+            "Principal Marine Engineer/Officer Grade Level 12": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Marine Engineer/Officer who has spent at least three years on the grade and obtained the registration of COREN."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Marine Engineer/Officer"
+            }
+          },
+          {
+            "Assistant Chief Marine Engineer/Officer Grade Level 13": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Marine who has spent at least three years on the grade and registered with COREN"
+              ],
+              "AdvancementPath": "Promotion to Chief Marine Engineer/Officer"
+            }
+          },
+          {
+            "Chief Marine/Engineering Officer Grade Level 14": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Marine Engineer/Officer who has spent at least three years on the grade and registered with COREN."
               ],
               "AdvancementPath": "Promotion to Assistant Director"
             }
@@ -12652,617 +14112,375 @@
             "Assistant Director Grade Level 15": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Chief Civic Registration Officer who has spent at least three years on the grade."
+                "By promotion of the suitable Chief Marine Engineer/Officer who has spent at least three years on the grade."
               ],
-              "AdvancementPath": "Promotion to Deputy Director"
-            }
-          },
-
-
-
-
-          {
-            "Deputy Director Grade Level 16 ": {
-          
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Director"
+              "AdvancementPath": "Promotion to  Deputy Director/Director (States)"
             }
           },
           {
-            "Director Grade Level 17.": {
-              
+            "Deputy Director/Director (States) Grade Level 16": {
+             
               "EntryRequirements": [
-                "Bypromotion of a confirmed and suitable Senior Steward who has spent at two years on the grade."
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade"
               ],
-              "AdvancementPath": "By promotion of a confirmed and suitable Deputy Director who has spent at least four years on the grade."
+              "AdvancementPath": "Promotion to  Director"
+            }
+          },
+          {
+            "Director Grade Level 17": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+
+        ]
+      },
+
+
+      {
+        "Cadre": "Marine Engineering Assistant",
+        "Grades": [
+          {
+            "Marine Engineering Assistant Grade II Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing Class II Trade Test Certificate in a relevant grade from an approved trade Institution."
+              ],
+              "AdvancementPath": "Promotion to Marine Engineering Assistant Grade I"
+            }
+          },
+          {
+            "Marine Engineering Assistant Grade I Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a Marine Engineering Assistant Grade II who has successfully completed a two-year on-the-job training programme and obtained Trade Test Class I Certificate.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Marine Engineering Assistant"
+            }
+          },
+          {
+            "Senior Marine Engineering Assistant Grade Level 06": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Marine Engineering Assistant Grade I who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution. plus at least two years post-qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Marine Engineering Assistant"
+            }
+          },
+          {
+            "Chief Marine Engineering Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Senior Marine Engineering Assistant who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Marine Engineering Assistant",
+        "Grades": [
+          {
+            "Marine Engineering Assistant Grade II Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing Class II Trade Test Certificate in a relevant grade from an approved trade Institution."
+              ],
+              "AdvancementPath": "Promotion to Marine Engineering Assistant Grade I"
+            }
+          },
+          {
+            "Marine Engineering Assistant Grade I Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a Marine Engineering Assistant Grade II who has successfully completed a two-year on-the-job training programme and obtained Trade Test Class I Certificate.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Marine Engineering Assistant"
+            }
+          },
+          {
+            "Senior Marine Engineering Assistant Grade Level 06": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Marine Engineering Assistant Grade I who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution. plus at least two years post-qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Marine Engineering Assistant"
+            }
+          },
+          {
+            "Chief Marine Engineering Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Senior Marine Engineering Assistant who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Marine Engineering Assistant",
+        "Grades": [
+          {
+            "Marine Engineering Assistant Grade II Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing Class II Trade Test Certificate in a relevant grade from an approved trade Institution."
+              ],
+              "AdvancementPath": "Promotion to Marine Engineering Assistant Grade I"
+            }
+          },
+          {
+            "Marine Engineering Assistant Grade I Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a Marine Engineering Assistant Grade II who has successfully completed a two-year on-the-job training programme and obtained Trade Test Class I Certificate.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Marine Engineering Assistant"
+            }
+          },
+          {
+            "Senior Marine Engineering Assistant Grade Level 06": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Marine Engineering Assistant Grade I who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution. plus at least two years post-qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Marine Engineering Assistant"
+            }
+          },
+          {
+            "Chief Marine Engineering Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Senior Marine Engineering Assistant who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Marine Engineering Assistant",
+        "Grades": [
+          {
+            "Marine Engineering Assistant Grade II Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing Class II Trade Test Certificate in a relevant grade from an approved trade Institution."
+              ],
+              "AdvancementPath": "Promotion to Marine Engineering Assistant Grade I"
+            }
+          },
+          {
+            "Marine Engineering Assistant Grade I Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a Marine Engineering Assistant Grade II who has successfully completed a two-year on-the-job training programme and obtained Trade Test Class I Certificate.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Marine Engineering Assistant"
+            }
+          },
+          {
+            "Senior Marine Engineering Assistant Grade Level 06": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Marine Engineering Assistant Grade I who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution. plus at least two years post-qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Marine Engineering Assistant"
+            }
+          },
+          {
+            "Chief Marine Engineering Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Senior Marine Engineering Assistant who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Marine Engineering Assistant",
+        "Grades": [
+          {
+            "Marine Engineering Assistant Grade II Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing Class II Trade Test Certificate in a relevant grade from an approved trade Institution."
+              ],
+              "AdvancementPath": "Promotion to Marine Engineering Assistant Grade I"
+            }
+          },
+          {
+            "Marine Engineering Assistant Grade I Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a Marine Engineering Assistant Grade II who has successfully completed a two-year on-the-job training programme and obtained Trade Test Class I Certificate.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Marine Engineering Assistant"
+            }
+          },
+          {
+            "Senior Marine Engineering Assistant Grade Level 06": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Marine Engineering Assistant Grade I who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution. plus at least two years post-qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Marine Engineering Assistant"
+            }
+          },
+          {
+            "Chief Marine Engineering Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Senior Marine Engineering Assistant who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Marine Engineering Assistant",
+        "Grades": [
+          {
+            "Marine Engineering Assistant Grade II Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing Class II Trade Test Certificate in a relevant grade from an approved trade Institution."
+              ],
+              "AdvancementPath": "Promotion to Marine Engineering Assistant Grade I"
+            }
+          },
+          {
+            "Marine Engineering Assistant Grade I Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a Marine Engineering Assistant Grade II who has successfully completed a two-year on-the-job training programme and obtained Trade Test Class I Certificate.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Marine Engineering Assistant"
+            }
+          },
+          {
+            "Senior Marine Engineering Assistant Grade Level 06": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Marine Engineering Assistant Grade I who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution. plus at least two years post-qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Marine Engineering Assistant"
+            }
+          },
+          {
+            "Chief Marine Engineering Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Senior Marine Engineering Assistant who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Marine Engineering Assistant",
+        "Grades": [
+          {
+            "Marine Engineering Assistant Grade II Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing Class II Trade Test Certificate in a relevant grade from an approved trade Institution."
+              ],
+              "AdvancementPath": "Promotion to Marine Engineering Assistant Grade I"
+            }
+          },
+          {
+            "Marine Engineering Assistant Grade I Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a Marine Engineering Assistant Grade II who has successfully completed a two-year on-the-job training programme and obtained Trade Test Class I Certificate.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Marine Engineering Assistant"
+            }
+          },
+          {
+            "Senior Marine Engineering Assistant Grade Level 06": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Marine Engineering Assistant Grade I who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing Class I Trade Test Certificate in a relevant trade from an approved Institution. plus at least two years post-qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Marine Engineering Assistant"
+            }
+          },
+          {
+            "Chief Marine Engineering Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Senior Marine Engineering Assistant who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
             }
           }
         ]
       }
-
-
-
-
-
-
-
-
-
-    ],
-
-    "SectionMetadata": {
-      "TotalCadres": 28,
-      "Categories": [
-        "Media and Communication",
-        "Cultural Heritage",
-        "Archival",
-        "Creative Arts",
-        "Technical Support"
-      ],
-      "TypicalGradeLevels": "GL 03 to GL 17 depending on cadre and seniority",
-      "DepartmentFunctions": [
-        "Information dissemination and public communication",
-        "Cultural heritage preservation and management",
-        "Archival records management and preservation",
-        "Media production and creative arts development",
-        "Cultural research and documentation"
-      ],
-      "KeySkills": [
-        "Communication and media relations",
-        "Cultural research and documentation",
-        "Creative arts and production",
-        "Heritage conservation and management",
-        "Information management and dissemination"
-      ],
-      "TechnologyRequirements": [
-        "Media production equipment",
-        "Archival preservation systems",
-        "Digital documentation tools",
-        "Information management software",
-        "Cultural heritage databases"
-      ]
-    }
-  },
-
-
-  "InternalAffairsSection": {
-    "Cadres": [
-      {
-        "Cadre": "Dog Kennel Attendant",
-        "Grades": [
-          {
-            "Dog Kennel Attendant Grade Level 03": {
-              
-              "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate plus evidence of relevant experience Secondary Modern School Certificate or evidence of completion of Class II in an approved Grammar/Commercial School."
-              ],
-              "AdvancementPath": "Promotion to Head Dog Kennel Attendant"
-            }
-          },
-          {
-            "Head Dog Kennel Attendant Grade Level 04": {
-              
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Dog Kennel Attendant who has spent at least two years on the grade."
-              ],
-              "AdvancementPath": ""
-            }
-          }
-        ]
-      },
-
-      {
-        "Cadre": "Hangman",
-        "Grades": [
-          {
-            "Hangman Grade Level 04": {
-             
-              "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate or Evidence of completion of Class II in an approved Grammar/Commercial School."  
-                 
-              ],
-              "AdvancementPath": "Promotion to Head Hangman"
-            }
-          },
-          {
-            "Head Hangman Grade Level 05": {
-           
-              "EntryRequirements": [
-
-
-                "By promotion of a Confirmed and suitable Hangman who has spent at least two years on the grade."
-              ],
-              "AdvancementPath": ""
-            }
-          }
-
-        ]
-      },
-
-      {
-        "Cadre": "Executive Officer(Civic Registration)",
-        "Grades": [
-          {
-            "Assistant Executive Officer Grade Level 06": {
-              
-              "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution."
-
-              ],
-              "AdvancementPath": "Promotion to Executive Officer"
-            }
-          },
-
-          {
-            "Executive Officer Grade Level 07": {
-            
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Executive Officer (Civic Registration) who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least two years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution."
-
-              ],
-              "AdvancementPath": "Promotion to Higher Executive Officer"
-            }
-          },
-          {
-            "Higher Executive Officer Grade Level 08": {
-             
-              "EntryRequirements": [
-
-                "By promotion of a confirmed and suitable Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least three years’ post-qualification cognate experience."
-              
-              ],
-              "AdvancementPath": "Promotion to Senior Executive Officer"
-            }
-          },
-          {
-            "Senior Executive Officer Grade Level 09": {
-              
-              "EntryRequirements": [
-                 "By promotion of a confirmed and suitable Higher Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least six years’ post-qualification cognate experience."
-              
-              ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade II "
-          
-            }
-          },
-          {
-            "Principal Executive Officer Grade II Grade Level 10": {
-              
-              "EntryRequirements": [
-                 "By promotion of a confirmed and suitable Senior Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least eleven years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least nine years’ post-qualification cognate experience."
-              
-              ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade I"
-          
-           
-            }
-          },
-          {
-            "Principal Executive Officer Grade I Grade Level 12": {
-          
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Executive Officer Grade II (Civic Registration) who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Executive Officer"
-            }
-          },
-          {
-            "Assistant Chief Executive Officer Grade Level 13": {
-              
-              "EntryRequirements": [
-                "By promotion of a suitable Principal Executive Officer Grade I (Civic Registration) who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Executive Officer"
-            }
-          },
-
-          {
-            "Chief Executive Officer Grade Level 14": {
-            
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Executive Officer (Civic Registration) who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": ""
-            }
-          }
-        ]
-      },
-
-      {
-        "Cadre": "Civic Registration Officer",
-        "Grades": [
-          {
-            "Civic Registration Officer Grade II Grade Level 08": {
-             
-              "EntryRequirements": [
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline."
-              ],
-              "AdvancementPath": "Promotion to Civic Registration Officer Grade I "
-            }
-          },
-          {
-            "Civic Registration Officer Grade I Grade Level 09": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Civic Registration Officer Grade II who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline plus at least three years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least one year post-qualification cognate experience."
-
-
-              ],
-              "AdvancementPath": "Promotion to Senior Civic Registration Officer"
-            }
-          },
-          {
-            "Senior Civic Registration Officer Grade Level 10": {
-           
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Civic Registration Officer Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline plus at least six years’ post-qualification cognate experience or By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least four year post-qualification cognate experience."
-
-              ],
-              "AdvancementPath": "Promotion to Principal Civic Registration Officer"
-            }
-          },
-          {
-            "Principal Civic Registration Officer Grade Level 12": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Civic Registration Officer who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Civic Registration Officer"
-            }
-          },
-          {
-            "Assistant Chief Civic Registration Officer Grade Level 13": {
-              
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Civic Registration Officer who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Civic Registration Officer"
-            }
-          },
-          {
-            "Chief Civic Registration Officer Grade Level 14": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Civic Registration Officer who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Director"
-            }
-          },
-          {
-            "Assistant Director Grade Level 15": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Chief Civic Registration Officer who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Deputy Director"
-            }
-          },
-
-
-
-
-          {
-            "Deputy Director Grade Level 16 ": {
-          
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Director"
-            }
-          },
-          {
-            "Director Grade Level 17.": {
-              
-              "EntryRequirements": [
-                "Bypromotion of a confirmed and suitable Senior Steward who has spent at two years on the grade."
-              ],
-              "AdvancementPath": "By promotion of a confirmed and suitable Deputy Director who has spent at least four years on the grade."
-            }
-          }
-        ]
-      }
-
-
-
-
-
-
-
-
-
-    ],
-
-    "SectionMetadata": {
-      "TotalCadres": 28,
-      "Categories": [
-        "Media and Communication",
-        "Cultural Heritage",
-        "Archival",
-        "Creative Arts",
-        "Technical Support"
-      ],
-      "TypicalGradeLevels": "GL 03 to GL 17 depending on cadre and seniority",
-      "DepartmentFunctions": [
-        "Information dissemination and public communication",
-        "Cultural heritage preservation and management",
-        "Archival records management and preservation",
-        "Media production and creative arts development",
-        "Cultural research and documentation"
-      ],
-      "KeySkills": [
-        "Communication and media relations",
-        "Cultural research and documentation",
-        "Creative arts and production",
-        "Heritage conservation and management",
-        "Information management and dissemination"
-      ],
-      "TechnologyRequirements": [
-        "Media production equipment",
-        "Archival preservation systems",
-        "Digital documentation tools",
-        "Information management software",
-        "Cultural heritage databases"
-      ]
-    }
-  },
-
-
-  "InternalAffairsSection": {
-    "Cadres": [
-      {
-        "Cadre": "Dog Kennel Attendant",
-        "Grades": [
-          {
-            "Dog Kennel Attendant Grade Level 03": {
-              
-              "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate plus evidence of relevant experience Secondary Modern School Certificate or evidence of completion of Class II in an approved Grammar/Commercial School."
-              ],
-              "AdvancementPath": "Promotion to Head Dog Kennel Attendant"
-            }
-          },
-          {
-            "Head Dog Kennel Attendant Grade Level 04": {
-              
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Dog Kennel Attendant who has spent at least two years on the grade."
-              ],
-              "AdvancementPath": ""
-            }
-          }
-        ]
-      },
-
-      {
-        "Cadre": "Hangman",
-        "Grades": [
-          {
-            "Hangman Grade Level 04": {
-             
-              "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate or Evidence of completion of Class II in an approved Grammar/Commercial School."  
-                 
-              ],
-              "AdvancementPath": "Promotion to Head Hangman"
-            }
-          },
-          {
-            "Head Hangman Grade Level 05": {
-           
-              "EntryRequirements": [
-
-
-                "By promotion of a Confirmed and suitable Hangman who has spent at least two years on the grade."
-              ],
-              "AdvancementPath": ""
-            }
-          }
-
-        ]
-      },
-
-      {
-        "Cadre": "Executive Officer(Civic Registration)",
-        "Grades": [
-          {
-            "Assistant Executive Officer Grade Level 06": {
-              
-              "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution."
-
-              ],
-              "AdvancementPath": "Promotion to Executive Officer"
-            }
-          },
-
-          {
-            "Executive Officer Grade Level 07": {
-            
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Executive Officer (Civic Registration) who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least two years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution."
-
-              ],
-              "AdvancementPath": "Promotion to Higher Executive Officer"
-            }
-          },
-          {
-            "Higher Executive Officer Grade Level 08": {
-             
-              "EntryRequirements": [
-
-                "By promotion of a confirmed and suitable Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least three years’ post-qualification cognate experience."
-              
-              ],
-              "AdvancementPath": "Promotion to Senior Executive Officer"
-            }
-          },
-          {
-            "Senior Executive Officer Grade Level 09": {
-              
-              "EntryRequirements": [
-                 "By promotion of a confirmed and suitable Higher Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least six years’ post-qualification cognate experience."
-              
-              ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade II "
-          
-            }
-          },
-          {
-            "Principal Executive Officer Grade II Grade Level 10": {
-              
-              "EntryRequirements": [
-                 "By promotion of a confirmed and suitable Senior Executive Officer (Civic Registration) who his spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings. Ordinary National Diploma m Business Administration or Public Administration from a recognized Institution plus at least eleven years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Business Administration or Public Administration from a recognized Institution plus at least nine years’ post-qualification cognate experience."
-              
-              ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade I"
-          
-           
-            }
-          },
-          {
-            "Principal Executive Officer Grade I Grade Level 12": {
-          
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Executive Officer Grade II (Civic Registration) who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Executive Officer"
-            }
-          },
-          {
-            "Assistant Chief Executive Officer Grade Level 13": {
-              
-              "EntryRequirements": [
-                "By promotion of a suitable Principal Executive Officer Grade I (Civic Registration) who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Executive Officer"
-            }
-          },
-
-          {
-            "Chief Executive Officer Grade Level 14": {
-            
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Executive Officer (Civic Registration) who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": ""
-            }
-          }
-        ]
-      },
-
-      {
-        "Cadre": "Civic Registration Officer",
-        "Grades": [
-          {
-            "Civic Registration Officer Grade II Grade Level 08": {
-             
-              "EntryRequirements": [
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline."
-              ],
-              "AdvancementPath": "Promotion to Civic Registration Officer Grade I "
-            }
-          },
-          {
-            "Civic Registration Officer Grade I Grade Level 09": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Civic Registration Officer Grade II who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline plus at least three years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least one year post-qualification cognate experience."
-
-
-              ],
-              "AdvancementPath": "Promotion to Senior Civic Registration Officer"
-            }
-          },
-          {
-            "Senior Civic Registration Officer Grade Level 10": {
-           
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Civic Registration Officer Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a University degree in any of the Social Science discipline plus at least six years’ post-qualification cognate experience or By direct appointment of a candidate possessing a Master’s degree in relevant discipline plus at least four year post-qualification cognate experience."
-
-              ],
-              "AdvancementPath": "Promotion to Principal Civic Registration Officer"
-            }
-          },
-          {
-            "Principal Civic Registration Officer Grade Level 12": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Civic Registration Officer who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Civic Registration Officer"
-            }
-          },
-          {
-            "Assistant Chief Civic Registration Officer Grade Level 13": {
-              
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Civic Registration Officer who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Civic Registration Officer"
-            }
-          },
-          {
-            "Chief Civic Registration Officer Grade Level 14": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Civic Registration Officer who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Director"
-            }
-          },
-          {
-            "Assistant Director Grade Level 15": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Chief Civic Registration Officer who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Deputy Director"
-            }
-          },
-
-
-
-
-          {
-            "Deputy Director Grade Level 16 ": {
-          
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Director"
-            }
-          },
-          {
-            "Director Grade Level 17.": {
-              
-              "EntryRequirements": [
-                "Bypromotion of a confirmed and suitable Senior Steward who has spent at two years on the grade."
-              ],
-              "AdvancementPath": "By promotion of a confirmed and suitable Deputy Director who has spent at least four years on the grade."
-            }
-          }
-        ]
-      }
-
-
 
 
 
