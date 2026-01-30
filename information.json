@@ -16153,19 +16153,93 @@
             "Technical Assistant Grade II Grade Level 03": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners. or General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings, preferably including Geography, Mathematics, Physics or Economics."
+                "By direct appointment of a candidate possessing any of the following qualifications:- Evidence of completion of a full course in a Government approved Secondary School or S.75. or General Certificate of Education (Ordinary Level) with three credits obtained at one sitting or four credits at two sittings. or Junior Secondary School Certificate."
               ],
-              "AdvancementPath": "Promotion to Technical Officer"
+              "AdvancementPath": "Promotion to Technical Assistant Grade I"
             }
           },
           {
             "Technical Assistant Grade I Grade Level 04": {
              
               "EntryRequirements": [
+                "By promotion of a confirmed and suitable Technical Assistant Grade II who has spent at least two years on the grade and passed the Departmental Confirmation/ Promotion Test at promotion level (i.e. 50%).",
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate preferably including a pass in Mathematics or Technical Drawing. or General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings preferably including Technical Drawing or Mathematics. or Trade Certificate obtained from a Government Trade Centre or any other approved institution."
+
+                
+              ],
+              "AdvancementPath": "Promotion to Senior Technical Assistant Grade II"
+            }
+          },
+          {
+            "Senior Technical Assistant Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Technical Assistant Grade I who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate preferably including a pass in Mathematics or Technical Drawing. or General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings preferably including Technical Drawing or Mathematics. or Trade Certificate obtained from a Government Trade Centre or any other approved institution. plus at least two years’ post-qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Senior Technical Assistant Grade I Grade"
+            }
+          },
+          {
+            "Senior Technical Assistant Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Technical Assistant Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Technical Assistant"
+           
+           
+            }
+          },
+          {
+            "Chief Technical Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Senior Technical Assistant Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+           
+            }
+          }
+        ]
+      },
+
+
+
+      {
+        "Cadre": "Technical Officer(Architecture)",
+        "Grades": [
+          {
+            "Assistant Technical Officer Grade Level 06": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing General Certificate of Education (Advanced Level) in two relevant subjects passed at one sitting or three subjects at two sittings.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Intermediate Royal 1nstite of British Architect. Ordinary National Diploma (OND) m Architectural Technology from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in -relevant subject."
+             
+             
+             
+              ],
+              "AdvancementPath": "Promotion to Technical Officer"
+            }
+          },
+          {
+            "Technical Officer Grade Level 07": {
+             
+              "EntryRequirements": [
+                "By advancement of an Assistant Technical Officer possessing any of the following qualifications: Intermediate Royal 1nstite of British Architect. Ordinary National Diploma (OND) m Architectural Technology from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in -relevant subject. who has spent one year on the grade.",
                 "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
-                "By advancement of a suitable Assistant Technical Officer possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners after spending one year on the grade.",
-                "By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution"
-            
+                "By direct appointment of a candidate possessing any of the following qualifications: Intermediate Royal 1nstite of British Architect. Ordinary National Diploma (OND) m Architectural Technology from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in -relevant subject. plus at least one-year post-qualifications Cognate experience."
+
+                
               ],
               "AdvancementPath": "Promotion to Higher Technical Officer"
             }
@@ -16175,9 +16249,8 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least four years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least three years post qualification cognate experience."
-
+              "By direct appointment of a candidate possessing the Higher National Diploma (HND) in Architecture from a recognized Institution or the Full Technological Certificate (Technician) of the City and Guilds of London institute in relevant field.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Intermediate Royal 1nstite of British Architect. Ordinary National Diploma (OND) m Architectural Technology from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in -relevant subject. plus at least four-year post-qualifications Cognate experience."
 
 
               ],
@@ -16188,9 +16261,8 @@
             "Senior Technical Officer Grade Level 09": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least seven years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least six years post qualification cognate experience."
-
+               "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Intermediate Royal 1nstite of British Architect. Ordinary National Diploma (OND) m Architectural Technology from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in -relevant subject. plus at least seven-year post-qualifications Cognate experience or By direct appointment of a candidate possessing the Higher National Diploma (HND) in Architecture from a recognized Institution or the Full Technological Certificate (Technician) of the City and Guilds of London institute in relevant field plus at least three years’ post-qualification cognate experience"
 
               ],
               "AdvancementPath": "Promotion to Principal Technical Officer Grade II"
@@ -16203,8 +16275,7 @@
              
               "EntryRequirements": [
                "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least ten years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least nine years post qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution plus at least six years post-qualification cognate experience."
-
+                "By direct appointment of a candidate possessing any of the following qualifications: Intermediate Royal 1nstite of British Architect. Ordinary National Diploma (OND) m Architectural Technology from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in -relevant subject. plus at least ten-year post-qualifications Cognate experience or By direct appointment of a candidate possessing the Higher National Diploma (HND) in Architecture from a recognized Institution or the Full Technological Certificate (Technician) of the City and Guilds of London institute in relevant field plus at least six years’ post-qualification cognate experience"
 
               ],
               "AdvancementPath": "Promotion to Principal Technical Officer Grade I"
@@ -16246,13 +16317,299 @@
 
 
       {
-        "Cadre": "Technical Officer(Town Planning)",
+        "Cadre": "Architect",
+        "Grades": [
+          {
+            "Architect Grade II, Grade Level 08": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following or equivalent qualifications registrable with the Architects Registration Council of Nigeria (ARCON): Bachelor of Science (B.Sc.) degree in Architecture obtained from a University recognized by the Architect Registration Council of Nigeria. or A pass in the Final I Examination of the Nigerian Institute of Architects (N.I.A.). A pass in the Final I Examination of the Royal Institute of British Architects (R.I.B.A.)."
+              ],
+              "AdvancementPath": "Promotion to Architect Grade I"
+            }
+          },
+          {
+            "Architect Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following or equivalent qualifications registrable with ARCON: Master of Science (M.Sc.) degree in Architecture, obtained from an Institution recognized by ARCON. or Bachelor of Architecture obtained from an Institution recognized by APCON. or A pass in the Final II Examination of the Nigerian Institute of Architects. or A pass in the Final II Examination of the Royal Institute of British Architects.",
+                "By advancement of a suitable Architect Grade II who has completed a two year pupilage programme and obtained any of the qualifications: Master of Science (M.Sc.) degree in Architecture, obtained from an Institution recognized by ARCON. or Bachelor of Architecture obtained from an Institution recognized by APCON. or A pass in the Final II Examination of the Nigerian Institute of Architects. or A pass in the Final II Examination of the Royal Institute of British Architects."
+                
+                
+              ],
+              "AdvancementPath": "Promotion to Senior Architect"
+           
+            }
+          },
+          {
+            "Senior Architect Grade Level 10": {
+             
+              "EntryRequirements": [
+             "By promotion of a confirmed and suitable Architect Grade II who has been provisionally registered by ARCON",
+                "By direct appointment of a candidate who has been provisionally registered by ARCON and obtained any of the qualifications: Master of Science (M.Sc.) degree in Architecture, obtained from an Institution recognized by ARCON. or Bachelor of Architecture obtained from an Institution recognized by APCON. or A pass in the Final II Examination of the Nigerian Institute of Architects. or A pass in the Final II Examination of the Royal Institute of British Architects  plus at least three years’ post-qualification cognate experience."
+                
+                
+              ],
+              "AdvancementPath": "Promotion to Principal Architect"
+           
+           
+            }
+          },
+          {
+            "Principal Architect Grade Level 12": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Architect who has passed the Nigerian Institute of Architects examination of professional competence, fully registered by ARCON and spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following or equivalent qualifications registrable with ARCON: Master of Science (M.Sc.) degree in Architecture, obtained from an Institution recognized by ARCON. or Bachelor of Architecture obtained from an Institution recognized by APCON. or A pass in the Final II Examination of the Nigerian Institute of Architects. or A pass in the Final II Examination of the Royal Institute of British Architects. plus at least six years post-qualification cognate experience, who has passed the Nigerian Institute of Architects examination of professional competence and fully registered by ARCON."
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Architect"
+           
+           
+            }
+          },
+          {
+            "Assistant Chief Architect, Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Principal Architect who has passed the Nigerian institute of Architects examination of professional competence, fully registered by ARCON and spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Architect"
+           
+           
+           
+            }
+          },
+          {
+            "Chief Architect Grade Level 14": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Chief Architect who has passed the Nigerian Institute of Architect examination of professional competence, fully registered by Architects Registration Council of Nigeria spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+            }
+          },
+          {
+            "Assistant Director Grade Leve1 15": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Chief Architect who has passed the Nigerian Institute of Architects examination of professional competence, fully registered by ARCON and spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
+            }
+          },
+          {
+            "Deputy Director/Director (States) Grade Level 16": {
+             
+              "EntryRequirements": [
+                "By pr1pmdtion of a suitable Assistant Director passed the Nigerian Institute of Architects examination of Architects examination of professional competence, fully registered by ARCON and spent at least four years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Director (Federal)"
+            }
+          },
+          {
+            "Director (Federal) Grade Level 17": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has passed the Nigerian Institute of Architects examination of professional competence, fully registered by ARCON and spent at least four years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+
+      {
+        "Cadre": "Technical Assistant(Mechanical)",
+        "Grades": [
+          {
+            "Technical Assistant Grade II Grade Level 03": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications: Evidence of completion of a full course in a Government approved Secondary School or S.75 with a bias in Science. or General Certificate of Education (Ordinary Level) with three credits obtained at one sitting or four credits at two sittings, preferably including Mathematics or Physics. or Junior Secondary School Certificate with a bias in Science."
+
+              ],
+              "AdvancementPath": "Promotion to Technical Assistant Grade I"
+            }
+          },
+          {
+            "Technical Assistant Grade I Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Technical Assistant Grade II who has spent at least two years on the grade and passed the prescribed Departmental Confirmation/ Promotion Test at promotion level (i.e. 50%).",
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate, preferably including a pass in Mathematics or Physics. or General Certificate of Education (Ordinary Level) with, four credits obtained at one sitting or five credits at two sittings, preferably including Mathematics or Physics. or Certificate in a relevant Trade obtained from a Government Trade Centre or any other approved Institution."
+                
+              ],
+              "AdvancementPath": "Promotion to Senior Technical Assistant Grade II"
+            }
+          },
+          {
+            "Senior Technical Assistant Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed and suitable Technical Assistant Grade I who has spent at least two years on the grade and successfully completed the training programme specified in their level",
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate, preferably including a pass in Mathematics or Physics. or General Certificate of Education (Ordinary Level) with, four credits obtained at one sitting or five credits at two sittings, preferably including Mathematics or Physics. or Certificate in a relevant Trade obtained from a Government Trade Centre or any other approved Institution plus at least two years post-qualification cognate experience."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Technical Assistant Grade I"
+            }
+          },
+          {
+            "Senior Technical Assistant Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Technical Assistant Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Technical Assistant"
+           
+           
+            }
+          },
+          {
+            "Chief Technical Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Senior Technical Assistant Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+           
+            }
+          }
+        ]
+      },
+
+
+
+      {
+        "Cadre": "Mechanical Engineer",
+        "Grades": [
+          {
+            "Mechanical Engineer Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+                "By direct appointment of. a candidate possessing a degree in Mechanical Engineering or related field registrable with the Council of Registered Engineers of Nigeria (COREN)."
+              ],
+              "AdvancementPath": "Promotion to Mechanical Engineer Grade I"
+            }
+          },
+          {
+            "Mechanical Engineer Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+                "By advancement of a confirmed and suitable Mechanical Engineer Grade II who has successfully completed the two-year pupilage programme.",
+                "By direct appointment of. a candidate possessing a degree in Mechanical Engineering or related field registrable with the Council of Registered Engineers of Nigeria (COREN). plus at least two years’ post-qualification cognate experience."
+                
+
+              ],
+              "AdvancementPath": "Promotion to Senior Mechanical Engineer"
+           
+            }
+          },
+          {
+            "Senior Mechanical Engineer Grade Level 10": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Mechanical Engineer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of. a candidate possessing a degree in Mechanical Engineering or related field registrable with the Council of Registered Engineers of Nigeria (COREN). plus at least five years’ post-qualification cognate experience."
+                
+
+              ],
+              "AdvancementPath": "Promotion to Principal Mechanical Engineer"
+           
+           
+            }
+          },
+          {
+            "Principal Mechanical Engineer Grade Level 12": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Mechanical Engineer who has spent at 1eat three years on the grade and has obtained the registration of Council of Registered Engineers of Nigeria."
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Mechanical Engineer"
+           
+           
+            }
+          },
+          {
+            "Assistant Chief Mechanical Engineer Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Principal Mechanical Engineer who has spent at least three years on the grade and registered with COREN."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Mechanical Engineer" 
+           
+            }
+          },
+          {
+            "Chief Mechanical Engineer Grade Level 14": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Chief Mechanical Engineer who has spent at least the years on the grade and registered with COREN."
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Chief Mechanical Engineer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
+            }
+          },
+          {
+            "Deputy Director/Director (States), Grade Level 16": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Director who has spent at least four years’ on the grade."
+              ],
+              "AdvancementPath": "Promotion to Director"
+            }
+          },
+          {
+            "Director Grade Level 17": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+
+      {
+        "Cadre": "Technical Officer(Building)",
         "Grades": [
           {
             "Assistant Technical Officer Grade Level 06": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners. or General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings, preferably including Geography, Mathematics, Physics or Economics."
+                "By direct appointment of a candidate possessing Ordinary National Diploma in Building from a recognized Institution."
               ],
               "AdvancementPath": "Promotion to Technical Officer"
             }
@@ -16261,10 +16618,9 @@
             "Technical Officer Grade Level 07": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
-                "By advancement of a suitable Assistant Technical Officer possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners after spending one year on the grade.",
-                "By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution"
-            
+                "By advancement of an Assistant Technical Officer who has spent one year on the grade.",
+                "By direct appointment of a candidate possessing Ordinary National Diploma in Building from a recognized Institution. plus at least one year post-qualification cognate experience."
+                
               ],
               "AdvancementPath": "Promotion to Higher Technical Officer"
             }
@@ -16274,8 +16630,8 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least four years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least three years post qualification cognate experience."
+                "By direct appointment of a candidate possessing the Higher National Diploma in Building from a recognized institution.",
+                "By direct appointment of a candidate possessing Ordinary National Diploma in Building from a recognized Institution. plus at least four year post-qualification cognate experience."
 
 
 
@@ -16288,7 +16644,7 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least seven years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least six years post qualification cognate experience."
+                "By direct appointment of a candidate possessing Ordinary National Diploma in Building from a recognized Institution. plus at least seven year post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Building from a recognized institution.  plus at least three years’ post-qualification cognate experience"
 
 
               ],
@@ -16302,12 +16658,11 @@
              
               "EntryRequirements": [
                "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least ten years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least nine years post qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution plus at least six years post-qualification cognate experience."
+                "By direct appointment of a candidate possessing Ordinary National Diploma in Building from a recognized Institution. plus at least ten year post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Building from a recognized institution.  plus at least six years’ post-qualification cognate experience"
 
 
               ],
               "AdvancementPath": "Promotion to Principal Technical Officer Grade I"
-           
            
            
             }
@@ -16345,95 +16700,103 @@
 
 
       {
-        "Cadre": "Technical Officer(Town Planning)",
+        "Cadre": "Building Officer",
         "Grades": [
           {
-            "Assistant Technical Officer Grade Level 06": {
+            "Building Officer Grade II Grade Level 08": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners. or General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings, preferably including Geography, Mathematics, Physics or Economics."
+                "By direct appointment of a candidate possessing any of the following qualifications or their equivalents which are provisionally registrable with the Council of Registered Builders of Nigeria (CORBON):A degree in Building or Building Technology from a recognized University. or A pass in the Final Part II Examination of the Nigerian Institute of Builders. or A pass in the Final Part II Examination of the Chartered Institute of Builders of England."
               ],
-              "AdvancementPath": "Promotion to Technical Officer"
+              "AdvancementPath": "Promotion to Building Officer Grade I"
             }
           },
           {
-            "Technical Officer Grade Level 07": {
+            "Building Officer Grade I Grade Level 09": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
-                "By advancement of a suitable Assistant Technical Officer possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners after spending one year on the grade.",
-                "By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution"
+                "By advancement of a suitable Building Officer Grade II who has completed a two-year pupilage programme.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Master of Science Degree in Building Technology from a recognized University. or Corporate Membership of the Nigerian institute of Builders (MNIOB). or Corporate Membership of the Chartered Institute of Builders, England (MCIOB).",
+                "By direct appointment of a candidate possessing any of the following qualifications or their equivalents which are provisionally registrable with the Council of Registered Builders of Nigeria (CORBON):A degree in Building or Building Technology from a recognized University. or A pass in the Final Part II Examination of the Nigerian Institute of Builders. or A pass in the Final Part II Examination of the Chartered Institute of Builders of England. plus at least two years’ post-qualification cognate experience."
             
               ],
-              "AdvancementPath": "Promotion to Higher Technical Officer"
+              "AdvancementPath": "Promotion to Senior Building Officer"
             }
           },
           {
-            "Higher Technical Officer Grade Level 08": {
+            "Senior Building Officer Grade Level 10": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least four years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least three years post qualification cognate experience."
+                "By promotion of a confirmed and suitable Building Officer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications or their equivalents which are provisionally registrable with the Council of Registered Builders of Nigeria (CORBON):A degree in Building or Building Technology from a recognized University. or A pass in the Final Part II Examination of the Nigerian Institute of Builders. or A pass in the Final Part II Examination of the Chartered Institute of Builders of England. plus at least five years’ post-qualification cognate experience. or By direct appointment of a candidate possessing any of the following qualifications: Master of Science Degree in Building Technology from a recognized University. or Corporate Membership of the Nigerian institute of Builders (MNIOB). or Corporate Membership of the Chartered Institute of Builders, England (MCIOB).above plus at least three years post-qualification cognate experience."
 
 
 
               ],
-              "AdvancementPath": "Promotion to Senior Technical Officer"
+              "AdvancementPath": "Promotion to Principal Building Officer"
             }
           },
           {
-            "Senior Technical Officer Grade Level 09": {
+            "Principal Building Officer Grade Level 12": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least seven years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least six years post qualification cognate experience."
+
+                "By promotion of a confirmed and suitable Senior Building Officer who has spent at least three years on the grade, passed the professional competence examination of the Nigeria institute of Builders (MNIOB) and registered with (CORBON)."
 
 
               ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade II"
+              "AdvancementPath": "Promotion to Assistant Chief Building Officer"
            
            
             }
           },
           {
-            "Principal Technical Officer Grade II Grade Level 10": {
+            "Assistant Chief Building Officer Grade Level 13": {
              
               "EntryRequirements": [
-               "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least ten years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least nine years post qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution plus at least six years post-qualification cognate experience."
+
+                "By promotion of a confirmed and suitable Principal Building Officer who has spent at least three years on the grade and fully registered with the Council of Registered Builders of Nigeria (CORBON)."
 
 
               ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade I"
+              "AdvancementPath": "Promotion to Chief Building Officers"
            
            
            
             }
           },
           {
-            "Principal Technical Officer Grade I Grade Level 12": {
+            "Chief Building Officers Grade Level 14": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years on the grade."
+                "By promotion of a suitable Assistant Chief Building Officer who has spent at least three years on the grade and fully registered with the Council of Registered Builders Nigeria (CORBON)."
               ],
-              "AdvancementPath": "Promotion to Assistant Chief Technical Officer"
+              "AdvancementPath": "Promotion to Assistant Director"
             }
           },
           {
-            "Assistant Chief Technical Officer Grade Level 13": {
+            "Assistant Director Grade Level 15": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Principal Technical Officer Grade I who has spent at least three years on the grade."
+                "By promotion of a suitable Chief Building Officer who has Spent at least three years on the grade and fully registered with Council of Registered Builders of Nigeria (CORBON)."
               ],
-              "AdvancementPath": "Promotion to Chief Technical Officer"
+              "AdvancementPath": "Promotion to Deputy Director (Federal)/Director (States)"
             }
           },
           {
-            "Chief Technical Officer Grade Level 14": {
+            "Deputy Director (Federal)/Director (States) Grade Level 16": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Technical Officer who has spent at least three years on the grade."
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade and fully registered with the Council of Registered Builders of Nigeria (CORBON)."
+              ],
+              "AdvancementPath": "Promotion to  Director"
+            }
+          },
+          {
+            "Director Grade Level 17": {
+             
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade and fully registered with CORBON."
               ],
               "AdvancementPath": ""
             }
@@ -16444,95 +16807,27 @@
 
 
       {
-        "Cadre": "Technical Officer(Town Planning)",
+        "Cadre": "Boundaryman",
         "Grades": [
           {
-            "Assistant Technical Officer Grade Level 06": {
+            "Boundaryman Grade Level 03": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners. or General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings, preferably including Geography, Mathematics, Physics or Economics."
+                "By promotion/transfer of a suitable officer who has been successful in the Competitive Examination for entry to Grade Level 03 posts.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Evidence of completion of a full course in a Government approved Secondary School or S.75. or General Certificate of Education (Ordinary Level) with three credits obtained at one sitting or four credits at two sittings."
+
               ],
-              "AdvancementPath": "Promotion to Technical Officer"
+              "AdvancementPath": "Promotion to Senior Boundaryman"
             }
           },
           {
-            "Technical Officer Grade Level 07": {
+            "Senior Boundaryman Grade Level 04": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
-                "By advancement of a suitable Assistant Technical Officer possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners after spending one year on the grade.",
-                "By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution"
+                
+                
+                "By promotion of a confirmed and suitable Boundaryman who has spent at least two years on the grade."
             
-              ],
-              "AdvancementPath": "Promotion to Higher Technical Officer"
-            }
-          },
-          {
-            "Higher Technical Officer Grade Level 08": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least four years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least three years post qualification cognate experience."
-
-
-
-              ],
-              "AdvancementPath": "Promotion to Senior Technical Officer"
-            }
-          },
-          {
-            "Senior Technical Officer Grade Level 09": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least seven years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least six years post qualification cognate experience."
-
-
-              ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade II"
-           
-           
-            }
-          },
-          {
-            "Principal Technical Officer Grade II Grade Level 10": {
-             
-              "EntryRequirements": [
-               "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least ten years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least nine years post qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution plus at least six years post-qualification cognate experience."
-
-
-              ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade I"
-           
-           
-           
-            }
-          },
-          {
-            "Principal Technical Officer Grade I Grade Level 12": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Technical Officer"
-            }
-          },
-          {
-            "Assistant Chief Technical Officer Grade Level 13": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Principal Technical Officer Grade I who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Technical Officer"
-            }
-          },
-          {
-            "Chief Technical Officer Grade Level 14": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Technical Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -16541,97 +16836,487 @@
       },
 
 
-
       {
-        "Cadre": "Technical Officer(Town Planning)",
+        "Cadre": "Lands Assistant",
         "Grades": [
           {
-            "Assistant Technical Officer Grade Level 06": {
+            "Lands Assistant Grade Level 04": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners. or General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings, preferably including Geography, Mathematics, Physics or Economics."
+                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings.",
+                "By lateral transfer of a suitable Senior Boundaryman or promotion of a confirmed and outstanding Boundaryman who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%)."
+              
               ],
-              "AdvancementPath": "Promotion to Technical Officer"
+              "AdvancementPath": "Promotion to Senior Lands Assistant Grade II"
             }
           },
           {
-            "Technical Officer Grade Level 07": {
+            "Senior Lands Assistant Grade II Grade Level 05": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
-                "By advancement of a suitable Assistant Technical Officer possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners after spending one year on the grade.",
-                "By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution"
+
+                "By promotion of a confirmed and suitable Lands Assistant has spent at least two years on the grade and passed the Departmental Confirmation/Promotion Test at promotion level i.e. 50 per cent.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
             
               ],
-              "AdvancementPath": "Promotion to Higher Technical Officer"
+              "AdvancementPath": "Promotion to Senior Lands Assistant Grade I"
             }
           },
           {
-            "Higher Technical Officer Grade Level 08": {
+            "Senior Lands Assistant Grade I Grade Level 06": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least four years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least three years post qualification cognate experience."
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade II who has spent at least two years on the grade."
 
 
 
               ],
-              "AdvancementPath": "Promotion to Senior Technical Officer"
+              "AdvancementPath": "Promotion to Chief Lands Assistant"
             }
           },
           {
-            "Senior Technical Officer Grade Level 09": {
+            "Chief Lands Assistant Grade Level 07": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least seven years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least six years post qualification cognate experience."
+
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
 
 
               ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade II"
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Valuation Assistant",
+        "Grades": [
+          {
+            "Valuation Assistant Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications: or Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings.",
+"By lateral transfer of a suitable Senior Boundaryman or promotion of a confirmed and outstanding Boundaryman who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%)."
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Valuation Assistant Grade II"
+            }
+          },
+          {
+            "Senior Valuation Assistant Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Valuation Assistant who has spent at least two years on the grade aid passed the Departmental Confirmation/ Promotion Test at promotion level i.e. 50 percent.",
+                "By direct appointment of a candidate possessing any of the following qualifications: or Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings.plus at least two years’ post-qualification cognate experience."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Valuation Assistant Grade I"
+            }
+          },
+          {
+            "Senior Valuation Assistant Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Valuation Assistant Grade II who has spent at least two years on the grade."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Valuation Assistant"
+            }
+          },
+          {
+            "Chief Valuation Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Senior Valuation Assistant Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Estate Officer",
+        "Grades": [
+          {
+            "Assistant Estate Officer Grade Level 06": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications:A pass in the First Examination of the Royal Institute of Chartered Surveyors. or A pass in the First Examination of the Nigerian Institute of Estate Surveyors and Valuers. or Ordinary National Diploma in Estate Management from a recognized Institution.",
+                "By direct appointment of a candidate possessing General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Geography, Economics or Mathematics."
+              
+              ],
+              "AdvancementPath": "Promotion to Estate Officer"
+            }
+          },
+          {
+            "Estate Officer Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Assistant Estate Officer who has spent at least two years on the grade",
+                "By direct appointment of a candidate possessing any of the following qualifications:A pass in the Examination of the Royal Institute of Chartered Surveyors. or A pass in the Intermediate Examination of the Nigerian Institute of Estate Surveyors and Valuers",
+                "By advancement of a suitable Assistant Estate Officer possessing any of the qualifications A pass in the First Examination of the Royal Institute of Chartered Surveyors. or A pass in the First Examination of the Nigerian Institute of Estate Surveyors and Valuers. or Ordinary National Diploma in Estate Management from a recognized Institution. after spending one-year on the grade.",
+              "By direct appointment of a candidate possessing General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Geography, Economics or Mathematics."
+              ],
+              "AdvancementPath": "Promotion to Higher Estate Officer"
+            }
+          },
+          {
+            "Higher Estate Officer Grade Level 08": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Estate Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing the Higher National Diploma in Estate Management obtained from a recognized Institution.",
+                "By direct appointment of a candidate possessing any of the following qualifications:A pass in the First Examination of the Royal Institute of Chartered Surveyors. or A pass in the First Examination of the Nigerian Institute of Estate Surveyors and Valuers. or Ordinary National Diploma in Estate Management from a recognized Institution  plus at least four years’ post qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications:A pass in the Examination of the Royal Institute of Chartered Surveyors. or A pass in the Intermediate Examination of the Nigerian Institute of Estate Surveyors and Valuers plus at least three years’ post- qualification cognate experience."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Estate Officer"
+
+
+            }
+          },
+          {
+            "Senior Estate Officer Grade Level 09": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Higher Estate Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:A pass in the First Examination of the Royal Institute of Chartered Surveyors. or A pass in the First Examination of the Nigerian Institute of Estate Surveyors and Valuers. or Ordinary National Diploma in Estate Management from a recognized Institution  plus at least seven years’ post qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications:A pass in the Examination of the Royal Institute of Chartered Surveyors. or A pass in the Intermediate Examination of the Nigerian Institute of Estate Surveyors and Valuers plus at least six years’ post- qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Estate Management obtained from a recognized Institution  plus at least three years’ post-qualification cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Principal Estate Officer Grade II "
+
+              
+            }
+          },
+          {
+            "Principal Estate Officer Grade II Grade Level 10": {
+             
+              "EntryRequirements": [
+
+              "By promotion of a confirmed and suitable Senior Estate Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:A pass in the First Examination of the Royal Institute of Chartered Surveyors. or A pass in the First Examination of the Nigerian Institute of Estate Surveyors and Valuers. or Ordinary National Diploma in Estate Management from a recognized Institution  plus at least ten years’ post qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications:A pass in the Examination of the Royal Institute of Chartered Surveyors. or A pass in the Intermediate Examination of the Nigerian Institute of Estate Surveyors and Valuers plus at least nine years’ post- qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Estate Management obtained from a recognized Institution  plus at least six years’ post-qualification cognate experience."
+                
+              ],
+              "AdvancementPath": "Promotion to Principal Estate Officer Grade I"
+
+            }
+          },
+          {
+            "Principal Estate Officer Grade I Grade Level 12": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Principal Estate Officer Grade II who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Estate Officer"
            
            
             }
           },
           {
-            "Principal Technical Officer Grade II Grade Level 10": {
+            "Assistant Chief Estate Officer Grade Level 13": {
              
               "EntryRequirements": [
-               "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least ten years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least nine years post qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution plus at least six years post-qualification cognate experience."
+
+                "By promotion of a suitable Principal Estate Officer Grade I who has spent at least three years on the grade."
 
 
               ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade I"
-           
+              "AdvancementPath": "Promotion to Chief Estate Officer"
            
            
             }
           },
           {
-            "Principal Technical Officer Grade I Grade Level 12": {
+            "Chief Estate Officer, Grade Level 14": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years on the grade."
+
+                "By promotion of a suitable Assistant Chief Estate Officer who has spent at least three years on the grade."
+
+
               ],
-              "AdvancementPath": "Promotion to Assistant Chief Technical Officer"
+              "AdvancementPath": ""
+           
+           
             }
-          },
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Registrar of Deeds",
+        "Grades": [
           {
-            "Assistant Chief Technical Officer Grade Level 13": {
+            "Assistant Registrar of Deeds Grade Level 06": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Principal Technical Officer Grade I who has spent at least three years on the grade."
+
+                "By direct appointment of a candidate possessing any of the following qualifications:Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or General Certificate of Education (Advanced Level in two subjects passed at one sitting or three subjects passed at two sittings. or Ordinary National Diploma in Business Studies from a recognized Institution."
+              
               ],
-              "AdvancementPath": "Promotion to Chief Technical Officer"
+              "AdvancementPath": "Promotion to Registrar of Deeds"
             }
           },
           {
-            "Chief Technical Officer Grade Level 14": {
+            "Registrar of Deeds Grade Level 07": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Technical Officer who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Assistant Registrar of Deeds who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Final Certificate of the Institute of Chartered Secretaries and Administrators. or Higher National Diploma in Business Studies from a recognized Institution.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or General Certificate of Education (Advanced Level in two subjects passed at one sitting or three subjects passed at two sittings. or Ordinary National Diploma in Business Studies from a recognized Institution plus at least two years’ post-qualification Cognate experience."
+
+              ],
+              "AdvancementPath": "Promotion to Higher Registrar of Deeds"
+            }
+          },
+          {
+            "Higher Registrar of Deeds Grade Level 08": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Registrar of Deeds who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or General Certificate of Education (Advanced Level in two subjects passed at one sitting or three subjects passed at two sittings. or Ordinary National Diploma in Business Studies from a recognized Institution plus at least five years’ post-qualification Cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Final Certificate of the Institute of Chartered Secretaries and Administrators. or Higher National Diploma in Business Studies from a recognized Institution plus at least three years’ post-qualification cognate experience"
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Registrar of Deeds"
+           
+           
+            }
+          },
+          {
+            "Senior Registrar of Deeds Grade Level 09": {
+             
+              "EntryRequirements": [
+                 "By promotion of a confirmed and suitable Higher Registrar of Deeds who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or General Certificate of Education (Advanced Level in two subjects passed at one sitting or three subjects passed at two sittings. or Ordinary National Diploma in Business Studies from a recognized Institution plus at least eight years’ post-qualification Cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Final Certificate of the Institute of Chartered Secretaries and Administrators. or Higher National Diploma in Business Studies from a recognized Institution plus at least six years’ post-qualification cognate experience"
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Principal Registrar of Deeds"
+           
+           
+            }
+          },
+          {
+            "Principal Registrar of Deeds Grade Level 10": {
+             
+              "EntryRequirements": [
+
+          "By promotion of a confirmed and suitable Senior Registrar of Deeds who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or General Certificate of Education (Advanced Level in two subjects passed at one sitting or three subjects passed at two sittings. or Ordinary National Diploma in Business Studies from a recognized Institution plus at least eleven years’ post-qualification Cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Final Certificate of the Institute of Chartered Secretaries and Administrators. or Higher National Diploma in Business Studies from a recognized Institution plus at least nine years’ post-qualification cognate experience"
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Registrar of Deeds"
+           
+           
+           
+            }
+          },
+          {
+            "Assistant Chief Registrar of Deeds Grade Level 12": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Principal Registrar of Deeds who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Registrar of Deeds"
+           
+           
+            }
+          },
+          {
+            "Chief Registrar of Deeds, Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Chief Registrar of Deeds who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Lands Officer",
+        "Grades": [
+          {
+            "Lands Officer Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Estate Management or Land Economy from a recognized University. or A pass in the Final Examination of the Auctioneers’ and Estate Agents’ Institute. or A pass in the Final Examination of the Nigerian Institute of Estate Surveyors and Valuers."
+              
+              ],
+              "AdvancementPath": "Promotion to Lands Officer Grade I"
+            }
+          },
+          {
+            "Lands Officer Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a suitable Lands Officer Grade II who has successfully completed the two-year pupilage programme.",
+
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Estate Management or Land Economy from a recognized University. or A pass in the Final Examination of the Auctioneers’ and Estate Agents’ Institute. or A pass in the Final Examination of the Nigerian Institute of Estate Surveyors and Valuers plus at least two years’ post-qualification cognate experience."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Lands Officer"
+           
+            }
+          },
+          {
+            "Senior Lands Officer Grade Level 10": {
+             
+              "EntryRequirements": [
+             "By advancement of a suitable Lands Officer Grade I who has successfully completed the two-year pupilage programme.",
+
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Estate Management or Land Economy from a recognized University. or A pass in the Final Examination of the Auctioneers’ and Estate Agents’ Institute. or A pass in the Final Examination of the Nigerian Institute of Estate Surveyors and Valuers plus at least five years’ post-qualification cognate experience."
+            
+              ],
+              "AdvancementPath": "Promotion to Principal Lands Officer"
+           
+            }
+          },
+          {
+            "Principal Lands Officer Grade Level 12": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Lands Officer who has spent at Least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Lands Officer"
+           
+           
+            }
+          },
+          {
+            "Assistant Chief Lands Officer Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Principal Lands Officer who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Lands Officer Grade Level 14"
+           
+           
+            }
+          },
+          {
+            "Chief Lands Officer Grade Level 14": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Chief Lands Officer who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+           
+           
+            }
+          },
+          {
+            "Assistant Director, Grade Level 15": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Chief Lands Officer who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
+           
+           
+            }
+          },
+          {
+            "Deputy Director/Director (States), Grade Level 16": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to  Director"
+           
+           
+            }
+          },
+          {
+            "Director, Grade Level 17": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+
+
+        ]
+      },
+
+      {
+        "Cadre": "Chainman",
+        "Grades": [
+          {
+
+            "Chainman Grade Level 03": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications:Evidence of completion of a full course in a Government approved Secondary School or S.75 or Junior Secondary School Certificate. or First School Leaving Certificate plus at least three years’ post- qualification cognate experience.",
+                "By transfer of an officer who has been engaged in the duties of a Chainman for at least five years."
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Chainman"
+            }
+          },
+          {
+            "Senior Chainman Grade Level 04": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed and suitable Chainman who has spent at least two years on the grade."
+            
               ],
               "AdvancementPath": ""
             }
@@ -16639,115 +17324,71 @@
         ]
       },
 
-
-
       {
-        "Cadre": "Technical Officer(Town Planning)",
+        "Cadre": "Survey Draughtsman",
         "Grades": [
           {
-            "Assistant Technical Officer Grade Level 06": {
+            "Survey Draughtsman Grade Level 04": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners. or General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings, preferably including Geography, Mathematics, Physics or Economics."
+
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate preferably, including passes in Geography, Mathematics, Physics, Fine Arts or Technical Drawing. or General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes obtained at two sittings or preferably including Geography, Mathematics, Physics, Fine Art or Technical Drawing."
+              
               ],
-              "AdvancementPath": "Promotion to Technical Officer"
+              "AdvancementPath": "Promotion to Senior Survey Draughtsman"
             }
           },
           {
-            "Technical Officer Grade Level 07": {
+            "Senior Survey Draughtsman Grade Level 05": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
-                "By advancement of a suitable Assistant Technical Officer possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners after spending one year on the grade.",
-                "By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution"
+
+                "By promotion of a confirmed and suitable Survey Draughtsman who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate preferably, including passes in Geography, Mathematics, Physics, Fine Arts or Technical Drawing. or General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes obtained at two sittings or preferably including Geography, Mathematics, Physics, Fine Art or Technical Drawing. plus at least two years post-qualification cognate experience."
             
               ],
-              "AdvancementPath": "Promotion to Higher Technical Officer"
+              "AdvancementPath": "Promotion to Assistant Chief Survey Draughtsman"
             }
           },
           {
-            "Higher Technical Officer Grade Level 08": {
+            "Assistant Chief Survey Draughtsman Grade Level 06": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least four years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least three years post qualification cognate experience."
+                "By promotion of a suitable Senior Survey Draughtsman who has spent at least two years on the grade."
 
 
 
               ],
-              "AdvancementPath": "Promotion to Senior Technical Officer"
+              "AdvancementPath": "Promotion to Chief Survey Draughtsman"
             }
           },
           {
-            "Senior Technical Officer Grade Level 09": {
+            "Chief Survey Draughtsman Grade Level 07": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least seven years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least six years post qualification cognate experience."
+
+                "By promotion of a confirmed and suitable Assistant Chief Survey Draughts who has spent at least two years on the grade."
 
 
-              ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade II"
-           
-           
-            }
-          },
-          {
-            "Principal Technical Officer Grade II Grade Level 10": {
-             
-              "EntryRequirements": [
-               "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least ten years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least nine years post qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution plus at least six years post-qualification cognate experience."
-
-
-              ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade I"
-           
-           
-           
-            }
-          },
-          {
-            "Principal Technical Officer Grade I Grade Level 12": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Technical Officer"
-            }
-          },
-          {
-            "Assistant Chief Technical Officer Grade Level 13": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Principal Technical Officer Grade I who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Technical Officer"
-            }
-          },
-          {
-            "Chief Technical Officer Grade Level 14": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Technical Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
+           
+           
             }
           }
         ]
       },
 
-
-
       {
-        "Cadre": "Technical Officer(Town Planning)",
+        "Cadre": "Technical Officer(Survey)",
         "Grades": [
           {
             "Assistant Technical Officer Grade Level 06": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners. or General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings, preferably including Geography, Mathematics, Physics or Economics."
+
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in survey or other related subjects from a recognized Institution. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in Survey or related subject. or Part I of the Advanced Course at the School of Survey, Oyo.",
+                "By direct appointment of a candidate possessing General Certificate of Education (Advanced Level) in two subjects passed in one sitting or three subjects at two sittings preferably including Mathematics, Physics or Geography."
               ],
               "AdvancementPath": "Promotion to Technical Officer"
             }
@@ -16756,10 +17397,13 @@
             "Technical Officer Grade Level 07": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
-                "By advancement of a suitable Assistant Technical Officer possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners after spending one year on the grade.",
-                "By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution"
-            
+
+                "By advancement of a suitable Assistant Technical Officer possessing the qualification Ordinary National Diploma in survey or other related subjects from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds Institute of London in Survey or related subject. Part I of the Advanced Course at the School of Survey, Oyo. who has spent one year on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in survey or other related subjects from a recognized Institution. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in Survey or related subject. or Part I of the Advanced Course at the School of Survey, Oyo. plus at least one-year post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing the Part II of the Advanced Course of the School of Surveying, Oyo.",
+               
+                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade."
+              
               ],
               "AdvancementPath": "Promotion to Higher Technical Officer"
             }
@@ -16769,21 +17413,21 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least four years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least three years post qualification cognate experience."
-
-
+                "By direct appointment of a candidate possessing the Higher National Diploma in surveying from a recognized Institution.",
+"By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in survey or other related subjects from a recognized Institution. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in Survey or related subject. or Part I of the Advanced Course at the School of Survey, Oyo. plus at least four-year post-qualification cognate experience. or By direct appointment of a candidate possessing the Part II of the Advanced Course of the School of Surveying, Oyo plus at least three-year post-qualification cognate experience."
+               
 
               ],
-              "AdvancementPath": "Promotion to Senior Technical Officer"
+              "AdvancementPath": "Promotion to Chief Lands Assistant"
             }
           },
           {
             "Senior Technical Officer Grade Level 09": {
              
               "EntryRequirements": [
+
                 "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least seven years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least six years post qualification cognate experience."
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in survey or other related subjects from a recognized Institution. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in Survey or related subject. or Part I of the Advanced Course at the School of Survey, Oyo. plus at least seven-year post-qualification cognate experience. or By direct appointment of a candidate possessing the Part II of the Advanced Course of the School of Surveying, Oyo plus at least six-year post-qualification cognate experience. By direct appointment of a candidate possessing the Higher National Diploma in surveying from a recognized Institution plus at least three years’ post-qualification cognate experience."
 
 
               ],
@@ -16796,8 +17440,9 @@
             "Principal Technical Officer Grade II Grade Level 10": {
              
               "EntryRequirements": [
-               "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least ten years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least nine years post qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution plus at least six years post-qualification cognate experience."
+
+             "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in survey or other related subjects from a recognized Institution. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in Survey or related subject. or Part I of the Advanced Course at the School of Survey, Oyo. plus at least ten-year post-qualification cognate experience. or By direct appointment of a candidate possessing the Part II of the Advanced Course of the School of Surveying, Oyo plus at least nine-year post-qualification cognate experience. By direct appointment of a candidate possessing the Higher National Diploma in surveying from a recognized Institution plus at least six years’ post-qualification cognate experience."
 
 
               ],
@@ -16811,230 +17456,282 @@
             "Principal Technical Officer Grade I Grade Level 12": {
              
               "EntryRequirements": [
+
                 "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years on the grade."
+
+
               ],
               "AdvancementPath": "Promotion to Assistant Chief Technical Officer"
+           
+           
             }
           },
           {
             "Assistant Chief Technical Officer Grade Level 13": {
              
               "EntryRequirements": [
+
                 "By promotion of a suitable Principal Technical Officer Grade I who has spent at least three years on the grade."
+
+
               ],
               "AdvancementPath": "Promotion to Chief Technical Officer"
+           
+           
             }
           },
           {
             "Chief Technical Officer Grade Level 14": {
              
               "EntryRequirements": [
+
                 "By promotion of a suitable Assistant Chief Technical Officer who has spent at least three years on the grade."
+
+
               ],
               "AdvancementPath": ""
+           
+           
             }
           }
         ]
       },
 
-
-
       {
-        "Cadre": "Technical Officer(Town Planning)",
+        "Cadre": "Surveyor",
         "Grades": [
           {
-            "Assistant Technical Officer Grade Level 06": {
+            "Surveyor Grade II Grade Level 08": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners. or General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings, preferably including Geography, Mathematics, Physics or Economics."
+                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings.",
+                "By lateral transfer of a suitable Senior Boundaryman or promotion of a confirmed and outstanding Boundaryman who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%)."
+              
               ],
-              "AdvancementPath": "Promotion to Technical Officer"
+              "AdvancementPath": "Promotion to Senior Lands Assistant Grade II"
             }
           },
           {
-            "Technical Officer Grade Level 07": {
+            "Surveyor Grade I Grade Level 09": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
-                "By advancement of a suitable Assistant Technical Officer possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners after spending one year on the grade.",
-                "By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution"
+
+                "By promotion of a confirmed and suitable Lands Assistant has spent at least two years on the grade and passed the Departmental Confirmation/Promotion Test at promotion level i.e. 50 per cent.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
             
               ],
-              "AdvancementPath": "Promotion to Higher Technical Officer"
+              "AdvancementPath": "Promotion to Senior Lands Assistant Grade I"
             }
           },
           {
-            "Higher Technical Officer Grade Level 08": {
+            "Senior Surveyor Grade Level 10": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least four years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least three years post qualification cognate experience."
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade II who has spent at least two years on the grade."
 
 
 
               ],
-              "AdvancementPath": "Promotion to Senior Technical Officer"
+              "AdvancementPath": "Promotion to Chief Lands Assistant"
             }
           },
           {
-            "Senior Technical Officer Grade Level 09": {
+            "Principal Surveyor Grade Level 12": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least seven years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least six years post qualification cognate experience."
+
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
 
 
-              ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade II"
-           
-           
-            }
-          },
-          {
-            "Principal Technical Officer Grade II Grade Level 10": {
-             
-              "EntryRequirements": [
-               "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least ten years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least nine years post qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution plus at least six years post-qualification cognate experience."
-
-
-              ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade I"
-           
-           
-           
-            }
-          },
-          {
-            "Principal Technical Officer Grade I Grade Level 12": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Technical Officer"
-            }
-          },
-          {
-            "Assistant Chief Technical Officer Grade Level 13": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Principal Technical Officer Grade I who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Technical Officer"
-            }
-          },
-          {
-            "Chief Technical Officer Grade Level 14": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Technical Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
+           
+           
+            }
+          },
+          {
+            "Assistant chief Surveyor Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          },
+          {
+            "Chief Surveyor Grade Level 14": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          },
+          {
+            "Assistant Survey-General Grade Level 15": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          },
+          {
+            "Deputy surveyor-General of the Federation/Surveyor-General(States) Grade Level 16": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          },
+          {
+            "Surveyor-General of the Federation Grade Level 17": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+
+        ]
+      },
+
+      {
+        "Cadre": "Lands Assistant",
+        "Grades": [
+          {
+            "Lands Assistant Grade Level 04": {
+             
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings.",
+                "By lateral transfer of a suitable Senior Boundaryman or promotion of a confirmed and outstanding Boundaryman who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%)."
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Lands Assistant Grade II"
+            }
+          },
+          {
+            "Senior Lands Assistant Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Lands Assistant has spent at least two years on the grade and passed the Departmental Confirmation/Promotion Test at promotion level i.e. 50 per cent.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Lands Assistant Grade I"
+            }
+          },
+          {
+            "Senior Lands Assistant Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade II who has spent at least two years on the grade."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Lands Assistant"
+            }
+          },
+          {
+            "Chief Lands Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
             }
           }
         ]
       },
 
-
-
       {
-        "Cadre": "Technical Officer(Town Planning)",
+        "Cadre": "Lands Assistant",
         "Grades": [
           {
-            "Assistant Technical Officer Grade Level 06": {
+            "Lands Assistant Grade Level 04": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners. or General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or three subjects at two sittings, preferably including Geography, Mathematics, Physics or Economics."
+                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings.",
+                "By lateral transfer of a suitable Senior Boundaryman or promotion of a confirmed and outstanding Boundaryman who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%)."
+              
               ],
-              "AdvancementPath": "Promotion to Technical Officer"
+              "AdvancementPath": "Promotion to Senior Lands Assistant Grade II"
             }
           },
           {
-            "Technical Officer Grade Level 07": {
+            "Senior Lands Assistant Grade II Grade Level 05": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
-                "By advancement of a suitable Assistant Technical Officer possessing any of the following qualifications: ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners after spending one year on the grade.",
-                "By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution"
+
+                "By promotion of a confirmed and suitable Lands Assistant has spent at least two years on the grade and passed the Departmental Confirmation/Promotion Test at promotion level i.e. 50 per cent.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
             
               ],
-              "AdvancementPath": "Promotion to Higher Technical Officer"
+              "AdvancementPath": "Promotion to Senior Lands Assistant Grade I"
             }
           },
           {
-            "Higher Technical Officer Grade Level 08": {
+            "Senior Lands Assistant Grade I Grade Level 06": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least four years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least three years post qualification cognate experience."
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade II who has spent at least two years on the grade."
 
 
 
               ],
-              "AdvancementPath": "Promotion to Senior Technical Officer"
+              "AdvancementPath": "Promotion to Chief Lands Assistant"
             }
           },
           {
-            "Senior Technical Officer Grade Level 09": {
+            "Chief Lands Assistant Grade Level 07": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least seven years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least six years post qualification cognate experience."
+
+                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
 
 
-              ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade II"
-           
-           
-            }
-          },
-          {
-            "Principal Technical Officer Grade II Grade Level 10": {
-             
-              "EntryRequirements": [
-               "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:ordinary National Diploma in Town Planning for a recognized Institution. or A pass in the preliminary examination of Nigerian Institute of Town Planners plus at least ten years post qualification cognate experience.   or By direct appointment of a candidate  possessing a pass in the Intermediate Examination of the Town Planning Institution plus at least nine years post qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Town Planning from a recognized Institution plus at least six years post-qualification cognate experience."
-
-
-              ],
-              "AdvancementPath": "Promotion to Principal Technical Officer Grade I"
-           
-           
-           
-            }
-          },
-          {
-            "Principal Technical Officer Grade I Grade Level 12": {
-             
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Technical Officer Grade II who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Technical Officer"
-            }
-          },
-          {
-            "Assistant Chief Technical Officer Grade Level 13": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Principal Technical Officer Grade I who has spent at least three years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Technical Officer"
-            }
-          },
-          {
-            "Chief Technical Officer Grade Level 14": {
-             
-              "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Technical Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
+           
+           
             }
           }
         ]
       }
-
 
 
 
@@ -22320,4 +23017,6 @@
 
 
 }
+
+
 
