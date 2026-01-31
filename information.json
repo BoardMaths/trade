@@ -16,7 +16,7 @@
           {
             "Senior Cleaner Grade Level 02": {
               "EntryRequirements": [
-                "By promotion of a suitable cleaner who has spent at least two years onthe grade."
+                "By promotion of a suitable cleaner who has spent at least two years on the grade."
               ],
               "AdvancementPath": "Promotion to Head Cleaner "
             }
@@ -49,13 +49,13 @@
             "Watchman Grade I Grade Level 02": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Watchman Grade Ii who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Watchman Grade II who has spent at least two years on the grade."
               ],
               "AdvancementPath": "Promotion to Senior Watchman "
             }
           },
           {
-            "Senior Watchman, Grade Level 03": {
+            "Senior Watchman Grade Level 03": {
              
               "EntryRequirements": [
                 "By promotion of a Watchman who has spent at least two years on the grade"
@@ -64,7 +64,7 @@
             }
           },
           {
-            "Head Watchman, Grade Level 04": {
+            "Head Watchman Grade Level 04": {
             
               "EntryRequirements": [
                 "By promotion of Senior Watchman who has spent at least two years on the grade."
@@ -73,7 +73,7 @@
             }
           },
           {
-            "Head Watchman, Grade Level 04": {
+            "Head Watchman Grade Level 04": {
            
               "EntryRequirements": [
                 "By promotion of Senior Watchman who has spent at least two years on the grade."
@@ -209,7 +209,7 @@
             "Senior Radio/Telephone Operator Grade Level 04": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed suitable Radio/Telephone Opera who has spent at least two years on the grade",
+                "By promotion of a confirmed suitable Radio/Telephone Operator who has spent at least two years on the grade",
                 "By direct appointment of a candidate possessing the First School Leaving Certificate with a minimum of two years post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Radio/Telephone Supervisor"
@@ -286,7 +286,7 @@
             "Senior Tailor Grade I Grade Level 06": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Tailor Grade 11 who has spentat least two years on the grade."
+                "By promotion of a confirmed and suitable Senior Tailor Grade 11 who has spent at least two years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Tailor"
             }
@@ -295,7 +295,7 @@
             "Chief Tailor Grade Level 07": {
            
               "EntryRequirements": [
-                "Bypromotion of a suitable Senior Tailor Grade I who has spent at least two years on the grade."
+                "By promotion of a suitable Senior Tailor Grade I who has spent at least two years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -330,7 +330,7 @@
             
               "EntryRequirements": [
                 "By advancement of a suitable Motor Driver who has passed the Class III Trade Test for Motor Mechanic Work.",
-                "By direct appointment of a suitable and experienced candidate possessing the Class UI Trade Test Certificate for Motor Mechanic Work plus First SchoolLeaving Certificate and professional Driver’s Licence."
+                "By direct appointment of a suitable and experienced candidate possessing the Class III Trade Test Certificate for Motor Mechanic Work plus First School Leaving Certificate and professional Driver’s Licence."
               ],
               "AdvancementPath": "Promotion to Senior Motor Driver-Mechanic Grade II"
             }
@@ -339,7 +339,7 @@
             "Senior Motor Driver-Mechanic Grade II Grade Level 05": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Motor Driver Mechanic who has spentat least two years on the grade."
+                "By promotion of a confirmed and suitable Motor Driver Mechanic who has spent at least two years on the grade."
               ],
               "AdvancementPath": "Promotion to Senior Motor Driver-Mechanic Grade I"
             }
@@ -348,7 +348,7 @@
             "Senior Motor Driver-Mechanic Grade I Grade Level 06": {
           
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Motor Driver Mechanic Grade II who has spent at least twoyears on the grade."
+                "By promotion of a confirmed and suitable Senior Motor Driver Mechanic Grade II who has spent at least two years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Motor Driver-Mechanic"
             }
@@ -441,7 +441,7 @@
             "Assistant Stores Officer Grade Level 06": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. Ordinary National Diploma in Business Studies. Intermediate Certificate of the Institute of Purchasing and Supply, London"
+                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings.or Ordinary National Diploma in Business Studies. or Intermediate Certificate of the Institute of Purchasing and Supply, London"
               ],
               "AdvancementPath": "Promotion to Stores Officer  "
             }
@@ -450,10 +450,10 @@
             "Stores Officer Grade Level 07": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed aid suitable Assist Stores Officer who has spent at least two years on the grade",
-                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies. Membership of the institute of Purchasing and Supply, London. Intermdiate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants",
-                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. Ordinary National Diploma in Business Studies. Intermediate Certificate of the Institute of Purchasing and Supply, London Intermediate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants ",
-                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. Ordinary National Diploma in Business Studies. Intermediate Certificate of the Institute of Purchasing and Supply, London  plus at least two years’ post-qualification cognate experience."
+                "By promotion of a confirmed and suitable Assistant Stores Officer who has spent at least two years on the grade",
+                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies. or  Membership of the institute of Purchasing and Supply, London. or  Intermdiate Certificate of’ the Nigerian institute of Chartered Accountants or Intermediate Certificate of the 1nstitute of Costs and Management Accountants",
+                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. or Ordinary National Diploma in Business Studies. or Intermediate Certificate of the Institute of Purchasing and Supply, London or Intermediate Certificate of’ the Nigerian institute of Chartered Accountants or Intermediate Certificate of the 1nstitute of Costs and Management Accountants ",
+                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings.or Ordinary National Diploma in Business Studies. or Intermediate Certificate of the Institute of Purchasing and Supply, London  plus at least two years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Higher Stores Officer  "
             }
@@ -463,8 +463,8 @@
             "Higher Stores Officer Grade Level 08": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Stores Officer who has spent at leastthree years on the grade.",
-                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. Ordinary National Diploma in Business Studies. Intermediate Certificate of the Institute of Purchasing and Supply, London. plus at least five years’ post- qualificationcognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies. Membership of the institute of Purchasing and Supply, London. Intermediate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants plus at least three years’post-qualification cognate experience."
+                "By promotion of a confirmed and suitable Stores Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. or Ordinary National Diploma in Business Studies.or Intermediate Certificate of the Institute of Purchasing and Supply, London. plus at least five years’ post- qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies. or Membership of the institute of Purchasing and Supply, London. or Intermediate Certificate of’ the Nigerian institute of Chartered Accountants or Intermediate Certificate of the 1nstitute of Costs and Management Accountants plus at least three years’post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Senior Stores Officer  "
             }
@@ -473,8 +473,8 @@
             "Senior Stores Officer Grade Level 09": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Stores Officer who has spent at least three years ort the grade",
-                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. Ordinary National Diploma in Business Studies. Intermediate Certificate of the Institute of Purchasing and Supply, London. plus at least eight years’ post- qualificationcognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies. Membership of the institute of Purchasing and Supply, London. Intermediate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants plus at least six years’post-qualification cognate experience."
+                "By promotion of a confirmed and suitable Higher Stores Officer who has spent at least three years on the grade",
+                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. or Ordinary National Diploma in Business Studies. or Intermediate Certificate of the Institute of Purchasing and Supply, London. plus at least eight years’ post- qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies. or Membership of the institute of Purchasing and Supply, London. or Intermediate Certificate of’ the Nigerian institute of Chartered Accountants or Intermediate Certificate of the Institute of Costs and Management Accountants plus at least six years’post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Principal Stores Officer Grade II  "
             }
@@ -485,7 +485,7 @@
             
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Stores Officer who has spent at least three years ort the grade",
-                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. Ordinary National Diploma in Business Studies. Intermediate Certificate of the Institute of Purchasing and Supply, London. plus at least eight years’ post- qualificationcognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies. Membership of the institute of Purchasing and Supply, London. Intermediate Certificate of’ the Nigerian institute of CharteredAccountants or Intermediate Certificate of the 1nstitute of Costs andManagement Accountants plus at least six years’post-qualification cognate experience."
+                "By direct appointment of a candidate Possessing any of the following qualifications. General Certificate of Education (A/L) in two subjects obtained at one Sitting or three subjects obtained at two sittings. or Ordinary National Diploma in Business Studies. or Intermediate Certificate of the Institute of Purchasing and Supply, London. plus at least eight years’ post- qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies. or Membership of the institute of Purchasing and Supply, London. or Intermediate Certificate of’ the Nigerian institute of Chartered Accountants or Intermediate Certificate of the 1nstitute of Costs and Management Accountants plus at least six years’post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Principal Stores Officer Grade I  "
             }
@@ -528,7 +528,7 @@
             "Assistant Stock Verifier Grade Level 06": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications. Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or our subjects at two sittings. Ordinary National Diploma in Business Studies Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification."
+                "By direct appointment of a candidate possessing any of the following qualifications. Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or four subjects at two sittings. or Ordinary National Diploma in Business Studies Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification."
               ],
               "AdvancementPath": " Promotion to Stock Verifier"
             }
@@ -538,7 +538,7 @@
             
               "EntryRequirements": [
                 "By promotion of a suitable Assistant Stock Verifier who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies Membership Certificate of the Institute of Purchasing and Supply, London.Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings plus two (2) years’ cognate experience in StockVerification or Stores duties."
+                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies or Membership Certificate of the Institute of Purchasing and Supply, London. or Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings plus two (2) years’ cognate experience in StockVerification or Stores duties."
               ],
               "AdvancementPath": " Promotion to Higher Stock Verifier"
             }
@@ -549,8 +549,8 @@
               
               "EntryRequirements": [
                 "By promotion of a suitable Stock Verifier who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications. Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or our subjects at two sittings. Ordinary National Diploma in Business Studies Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification.  plus at least five years’ post-qualification cognate experience",
-                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies Membership Certificate of the Institute of Purchasing and Supply, London. Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings. plus at least three years’ post-qualification cognate experience"
+                "By direct appointment of a candidate possessing any of the following qualifications. Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or four subjects at two sittings. or Ordinary National Diploma in Business Studies Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification.  plus at least five years’ post-qualification cognate experience",
+                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies or Membership Certificate of the Institute of Purchasing and Supply, London. or Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings. plus at least three years’ post-qualification cognate experience"
               ],
               "AdvancementPath": " Promotion to Senior Stock Verifier"
             }
@@ -560,8 +560,8 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Stock Verifier who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications. Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or our subjects at two sittings. Ordinary National Diploma in Business Studies Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification.  plus at least eight post-qualification cognate experience",
-                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies Membership Certificate of the Institute of Purchasing and Supply, London. Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings. plus at least six years’ post-qualification cognate experience"
+                "By direct appointment of a candidate possessing any of the following qualifications. Higher School Certificate or General Certificate of Education (Advanced Level), with passes in each case in three subjects at one sitting or four subjects at two sittings. or Ordinary National Diploma in Business Studies Diploma or Intermediate Certificate of the Institute of Purchasing and Supply, London or equivalent qualification.  plus at least eight post-qualification cognate experience",
+                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Business Studies Membership Certificate of the Institute of Purchasing and Supply, London. or Higher School Certificate (Principal Level) or General Certificate of Education (Advance Level) with passes in each case in three subjects at a sitting or four subjects at two sittings. plus at least six years’ post-qualification cognate experience"
               ],
               "AdvancementPath": " Promotion to Principal Stock Verifier Grade II"
             }
@@ -594,7 +594,7 @@
            
 
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable. Principal Stock Verifier Grade I whohas spent at least three years on the grade."
+                "By promotion of a confirmed and suitable. Principal Stock Verifier Grade I who has spent at least three years on the grade."
               ],
               "AdvancementPath": " Promotion to Chief Stock Verifier"
             }
@@ -620,7 +620,7 @@
             "Typist Grade IIII Grade Level 03": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing the First School LeavingCertificate plus any of the following qualifications in typewriting at 25 wordsper minute: R.S.A. Certificate Certificate issued by any State owned Secretarial Institution."
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus any of the following qualifications in typewriting at 25 words per minute: R.S.A. Certificate or  Certificate issued by any State owned Secretarial Institution."
               ],
               "AdvancementPath": "Promotion to Typist Grade III"
             }
@@ -639,7 +639,7 @@
             "Typist Grade II Grade Level 05": {
              
               "EntryRequirements": [
-                " By advancement of a Typist Grade III who acquires a recognized Certificate inTypewriting at a speed of 35 words per minute."
+                " By advancement of a Typist Grade III who acquires a recognized Certificate in Typewriting at a speed of 35 words per minute."
               ],
               "AdvancementPath": "Promotion to Typist Grade I"
             }
@@ -649,7 +649,7 @@
             "Typist Grade I Grade Level 06": {
              
               "EntryRequirements": [
-                " By advancement of a Typist Grade U who has obtained a recognized Certificate in Typewriting at a speed of 50 words per minute.",
+                " By advancement of a Typist Grade II who has obtained a recognized Certificate in Typewriting at a speed of 50 words per minute.",
                 "By direct appointment of a candidate possessing a minimum of First School Leaving Certificate plus a recognized Certificate in Typewriting at a speed of 50 words per minute."
               ],
               "AdvancementPath": "Promotion to Senior Typist Grade II"
@@ -660,7 +660,7 @@
             "Senior Typist Grade II Grade Level 07": {
              
               "EntryRequirements": [
-                " Bypromotion of a confirmed and suitable ‘Typist Grade I who has spent at least two years on the grade."
+                " By promotion of a confirmed and suitable ‘Typist Grade I who has spent at least two years on the grade."
               ],
               "AdvancementPath": "Promotion to Senior Typist Grade I"
             }
@@ -696,7 +696,7 @@
              
               "EntryRequirements": [
                 "By promotion of a staff in the Clerical or Typist grades who has successfully completed the ten months Confidential Secretary training course at the Federal Training Centre.",
-                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate plus R.S. A. or Federal/State Training Centre Certificate in Typewriting and Shorthand at the speed of 35 and 80 words per minute respectively plus English Language at R.S.A. Stage II or Confidential Grade IV or WASC/SSSC/GCE (O/L) West African School Certificate with a pass in Shorthand and Typewriting National Secretarial Certificate with a pass in English Language and in Shorthand and Typewriting at 80 and 35 words per minute respectively. Secondary Modern School (Commercial) Certificate including passes in English Language and in Shorthand and Typewriting at 80 and 35 words per minute respectively."
+                "By direct appointment of a candidate possessing any of the following qualifications: First School Leaving Certificate plus R.S. A. or Federal/State Training Centre Certificate in Typewriting and Shorthand at the speed of 35 and 80 words per minute respectively plus English Language at R.S.A. Stage II or Confidential Grade IV or WASC/SSSC/GCE (O/L) West African School Certificate with a pass in Shorthand and Typewriting or National Secretarial Certificate with a pass in English Language and in Shorthand and Typewriting at 80 and 35 words per minute respectively. or Secondary Modern School (Commercial) Certificate including passes in English Language and in Shorthand and Typewriting at 80 and 35 words per minute respectively."
               ],
               "AdvancementPath": "Promotion to Confidential Secretary Grade III"
             }
@@ -706,7 +706,7 @@
             
               "EntryRequirements": [
                 "By advancement of a confirmed Confidential Secretary Grade IV who successfully completes the in-service training/improver course by attaining the speed of 100 and 50 words per minute in Shorthand and Typewriting respectively and passing tests in Secretarial Practice, English Language, Office Practice and any of the optional subjects, including Social Studies, Civil Service Rules, Economics or Book-keeping.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Secretarial Studies including passes in Shorthand and Typewriting at 100 and 50 words per minute respectively from a recognized Secretarial/Technical Institution.  West African School Certificate/Senior Secondary School Certificate plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 100 and 50 words per minute respectively, plus a recognized Certificate in English Language, Office Practice, Secretarial Practice and any of the optional subjects, including Social Studies, Civil Service Rules, Economics or Book-keeping."
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Secretarial Studies including passes in Shorthand and Typewriting at 100 and 50 words per minute respectively from a recognized Secretarial/Technical Institution. or  West African School Certificate/Senior Secondary School Certificate plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 100 and 50 words per minute respectively, plus a recognized Certificate in English Language, Office Practice, Secretarial Practice and any of the optional subjects, including Social Studies, Civil Service Rules, Economics or Book-keeping."
               ],
               "AdvancementPath": "Promotion to Confidential Secretary/Bilingual Secretary Grade II"
             }
@@ -716,7 +716,7 @@
            
               "EntryRequirements": [
                 "By advancement or a Confidential Secretary Grade 111 who has successfully completed an approved in-service training/improver course by passing the shorthand and Typewriting Tests at 120 and 60 words per minute respectively.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects. Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects. or Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution.",
                 "By direct appointment of a candidate possessing a Certificate in Bilingual Secretaryshipor equivalent qualification from a recognized Institution."
               ],
               "AdvancementPath": "Promotion to Confidential Secretary/Bilingual Secretary Grade I"
@@ -727,7 +727,7 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Confidential Secretary/Bilingual Secretary Grade II who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects. Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution. or By direct appointment of a candidate possessing a Certificate in Bilingual Secretaryshipor equivalent qualification from a recognized Institution. plus at least three years post qualification cognate experience"
+                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects. or Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution. or By direct appointment of a candidate possessing a Certificate in Bilingual Secretaryship or equivalent qualification from a recognized Institution. plus at least three years post qualification cognate experience"
               ],
               "AdvancementPath": "Promotion to Senior Confidential Secretary/Bilingual Secretary"
             }
@@ -737,7 +737,7 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Confidential Secretary/Bilingual Secretary Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects. Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution. or By direct appointment of a candidate possessing a Certificate in Bilingual Secretaryshipor equivalent qualification from a recognized Institution. plus at least six years post qualification cognate experience"
+                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary Certificate or GCE (OIL) plus R.S.A. or Civil Service Training School Certificate in Shorthand and Typewriting at 120 and 60 words per minute respectively plus other prescribed subjects. or Higher National Diploma (HND) in Secretarial Studies including a pass at 120 and 60 words per minute in Shorthand and Typewriting respectively from a recognized Secretarial/Technical Institution. or By direct appointment of a candidate possessing a Certificate in Bilingual Secretaryshipor equivalent qualification from a recognized Institution. plus at least six years post qualification cognate experience"
               ],
               "AdvancementPath": "Promotion to Principal Confidential Secretary/Bilingual Secretary Grade II"
             }
@@ -778,7 +778,7 @@
             "Chief Confidential Secretary Grade Level 14": {
               
               "EntryRequirements": [
-                " By promotion of a suitable Assistant Chief Confidential Secretary who has spentat least three years on the grade."
+                " By promotion of a suitable Assistant Chief Confidential Secretary who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -801,7 +801,7 @@
              
               "EntryRequirements": [
                 "By promotion of a suitable Clerical Assistant who has spent at least two years on the grade and passed the Confirmation/Promotion Test at promotion level i.e.50%",
-                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary School Certificate/West African School Certificate. General Certificate of Education (OIL) with four credits obtained at one sitting or Five credits at two sittings."
+                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary School Certificate/West African School Certificate. or General Certificate of Education (OIL) with four credits obtained at one sitting or Five credits at two sittings."
               ],
               "AdvancementPath": "Promotion to Clerical Officer Grade I"
             }
@@ -876,7 +876,7 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Executive Officer who has spent at least three years on the grade.",
-                " By direct appointment of a candidate possessing Higher National Diploma (HND) in Business Studies/Administration or Public Administration from a recognized Institution. plus at least eight years’ post- qualification cognate experience.",
+                " By direct appointment of a candidate possessing Higher National Diploma (HND) in Business Studies/Administration or Public Administration from a recognized Institution. plus at least six years’ post- qualification cognate experience.",
                 "By direct appointment of a candidate possessing Ordinary National Diploma in Business Administration/Studies or Public Administration from a recognized Institution.  plus at least eight years’ post-qualification cognate experience. "
               ],
               "AdvancementPath": "Promotion to Principal Executive Officer Grade II"
@@ -965,8 +965,7 @@
             "Principal Administrative Officer Grade Level 12": {
             
               "EntryRequirements": [
-                "By promotion of confirmed and suitable Senior Administrative Officer whohas spent at least three years on the grade.",
-                " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment."
+                "By promotion of confirmed and suitable Senior Administrative Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Assistant chief Administrative Officer"
             }
@@ -976,8 +975,7 @@
             "Assistant chief Administrative Officer Grade Level 13": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Administrative Officer has spent at least three years on the grade and attended a course in c’ Manpower Budgeting and Staff Inspection, Pension Administrative Management Consulting or Grading.",
-                " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment."
+                "By promotion of a confirmed and suitable Principal Administrative Officer has spent at least three years on the grade and attended a course in either Manpower Budgeting and Staff Inspection, Pension Administrative Management Consulting or Grading."
               ],
               "AdvancementPath": "Promotion to chief Administrative Officer"
             }
@@ -987,8 +985,8 @@
             "Chief Administrative Officer Grade Level 14": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Chief Administrative Officer who has spent at least three years on the grade and success - completed a prescribed course.",
-                " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment."
+                "By promotion of a confirmed and suitable Assistant Chief Administrative Officer who has spent at least three years on the grade and success - completed a prescribed course."
+
               ],
               "AdvancementPath": "Promotion to Assistant Director"
             }
@@ -998,8 +996,8 @@
             "Assistant Director Grade Level 15": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Chief Administrative Officer who spent at least three years on the grade.",
-                " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment."
+                "By promotion of a confirmed and suitable Chief Administrative Officer who spent at least three years on the grade."
+
               ],
               "AdvancementPath": "Promotion to Deputy Director (Federal)/Director (State)"
             }
@@ -1009,9 +1007,7 @@
             "Deputy Director (Federal)/Director (State) Grade Level 16": {
            
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Director who has spent at least four y on the grade.",
-                " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment."
-              ],
+                "By promotion of a suitable Assistant Director who has spent at least four year on the grade."              ],
               "AdvancementPath": "Promotion to Director "
             }
           },
@@ -1020,9 +1016,7 @@
             "Director Grade Level 17": {
           
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Director who has spent at least four y on the grade.",
-                " Direct appointments may also be made to posts in Grade Level 12 and above; but these would be preceded by specific advertisement at the instance of the user Ministry/Department. Promotion from such direct appointments to higher grades are subject to confirmation of appointment."
-              ],
+                "By promotion of a suitable Assistant Director who has spent at least four y on the grade."              ],
               "AdvancementPath": " "
             }
           }
@@ -1036,7 +1030,7 @@
             "Assistant Library Officer Grade Level 06": {
         
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. A pass in the First Professional Examination of the Library Associations. Certificate in Library Studies obtained from a recognized Institution plus at least two years’ post-qualification cognate experience."
+                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or A pass in the First Professional Examination of the Library Associations. or Certificate in Library Studies obtained from a recognized Institution plus at least two years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Library Officer "
             }
@@ -1047,8 +1041,8 @@
          
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Assistant Library Officer who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing arty of the following qualifications Part of the Associate Membership of the Library Association. Diploma in Library Studies obtained from a recognized institution.",
-                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. A pass in the First Professional Examination of the Library Associations. Certificate in Library Studies obtained from a recognized Institution plus at least two years’ post-qualification cognate experience."
+                "By direct appointment of a candidate possessing any of the following qualifications; Part I of the Associate Membership of the Library Association. or Diploma in Library Studies obtained from a recognized institution.",
+                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or A pass in the First Professional Examination of the Library Associations. or Certificate in Library Studies obtained from a recognized Institution plus at least two years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to  Higher Library Officer"
             }
@@ -1059,8 +1053,8 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Library Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing arty of the following qualifications Part of the Associate Membership of the Library Association. Diploma in Library Studies obtained from a recognized institution. plus at least three years post- qualification",
-                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. A pass in the First Professional Examination of the Library Associations. Certificate in Library Studies obtained from a recognized Institution plus at least five years’ post-qualification cognate experience."
+                "By direct appointment of a candidate possessing any of the following qualifications Part I of the Associate Membership of the Library Association. or Diploma in Library Studies obtained from a recognized institution. plus at least three years post- qualification",
+                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or A pass in the First Professional Examination of the Library Associations. or Certificate in Library Studies obtained from a recognized Institution plus at least five years’ post-qualification cognate experience."
               ],
               "AdvancementPath": " Promotion to Senior Library Officer"
             }
@@ -1071,8 +1065,8 @@
         
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Library Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing arty of the following qualifications Part of the Associate Membership of the Library Association. Diploma in Library Studies obtained from a recognized institution. plus at least six years post- qualification",
-                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. A pass in the First Professional Examination of the Library Associations. Certificate in Library Studies obtained from a recognized Institution plus at least eight years’ post-qualification cognate experience."
+                "By direct appointment of a candidate possessing any of the following qualifications; Part I of the Associate Membership of the Library Association. or Diploma in Library Studies obtained from a recognized institution. plus at least six years post- qualification",
+                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or A pass in the First Professional Examination of the Library Associations. or Certificate in Library Studies obtained from a recognized Institution plus at least eight years’ post-qualification cognate experience."
               ],
               "AdvancementPath": " Promotion to Principal Library Officer"
             }
@@ -1083,7 +1077,7 @@
            
               "EntryRequirements": [
                 " By promotion of a confirmed arid suitable Senior Library Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing arty of the following qualifications Part of the Associate Membership of the Library Association. Diploma in Library Studies obtained from a recognized institution. plus at least nine years post- qualification"
+                "By direct appointment of a candidate possessing any of the following qualifications; Part I of the Associate Membership of the Library Association. or Diploma in Library Studies obtained from a recognized institution. plus at least nine years post- qualification"
               ],
               "AdvancementPath": " Promotion to Assistant Chief Library Officer"
             }
@@ -1111,54 +1105,87 @@
       },
 
       {
-        "Cadre": "Stores Attendant",
+        "Cadre": "Librarian",
         "Grades": [
           {
-            "Stores Attendant Grade Level 02": {
+            "Librarian Grade II Grade Level 06": {
+        
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or A pass in the First Professional Examination of the Library Associations. or Certificate in Library Studies obtained from a recognized Institution plus at least two years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Library Officer "
+            }
+          },
+
+          {
+            "Library Officer Grade Level 07": {
+         
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Library Officer who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications; Part I of the Associate Membership of the Library Association. or Diploma in Library Studies obtained from a recognized institution.",
+                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or A pass in the First Professional Examination of the Library Associations. or Certificate in Library Studies obtained from a recognized Institution plus at least two years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to  Higher Library Officer"
+            }
+          },
+
+          {
+            "Higher Library Officer Grade Level 08": {
+           
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Library Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications Part I of the Associate Membership of the Library Association. or Diploma in Library Studies obtained from a recognized institution. plus at least three years post- qualification",
+                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or A pass in the First Professional Examination of the Library Associations. or Certificate in Library Studies obtained from a recognized Institution plus at least five years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": " Promotion to Senior Library Officer"
+            }
+          },
+
+          {
+            "Senior Library Officer Grade Level 09": {
+        
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Higher Library Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications; Part I of the Associate Membership of the Library Association. or Diploma in Library Studies obtained from a recognized institution. plus at least six years post- qualification",
+                "By direct appointment of a candidate possessing any of the following qualification General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or A pass in the First Professional Examination of the Library Associations. or Certificate in Library Studies obtained from a recognized Institution plus at least eight years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": " Promotion to Principal Library Officer"
+            }
+          },
+
+          {
+            "Principal Library Officer Grade Level 10": {
+           
+              "EntryRequirements": [
+                " By promotion of a confirmed arid suitable Senior Library Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications; Part I of the Associate Membership of the Library Association. or Diploma in Library Studies obtained from a recognized institution. plus at least nine years post- qualification"
+              ],
+              "AdvancementPath": " Promotion to Assistant Chief Library Officer"
+            }
+          },
+
+          {
+            "Assistant Chief Library Officer Grade Level 12": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing the First School Leaving Certificate."
+                " By promotion of a confirmed and suitable Principal Library Officer who has at spent at least three years on the grade."
               ],
-              "AdvancementPath": ""
+              "AdvancementPath": " Promotion to Chief Library Officer"
             }
           },
-
-          "Stores Officer Grade Level 07"
-        ]
-      },
-
-      {
-        "Cadre": "Stores Attendant",
-        "Grades": [
           {
-            "Stores Attendant Grade Level 02": {
-            
+            " Chief Library Officer Grade Level 13": {
+             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing the First School Leaving Certificate."
+                "By promotion of a suitable Assistant Chief Library Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
-          },
-
-          "Stores Officer Grade Level 07"
-        ]
-      },
-      {
-        "Cadre": "Stores Attendant",
-        "Grades": [
-          {
-            "Stores Attendant Grade Level 02": {
-              
-              "EntryRequirements": [
-                "By direct appointment of a candidate possessing the First School Leaving Certificate."
-              ],
-              "AdvancementPath": ""
-            }
-          },
-
-          "Stores Officer Grade Level 07"
+          }
         ]
       }
+
+
     ],
 
     "SectionMetadata": {
@@ -16857,22 +16884,22 @@
 
                 "By advancement of a suitable Surveyor Grade II who has completed two-year pupilage programme.",
                 "By direct appointment of a candidate possessing any of the following qualifications or equivalent registrable with Surveyors’ Registration Council of Nigeria (SURCON): Corporate Membership of the Royal Institute of Chartered Surveyors or A pass in the Final Examination of the Surveyor’s Licensing Board.",
-                ""
+                "By direct appointment of a candidate possessing a degree in Land Surveying, Survey Engineering, Geodetic Science or Geodetic Engineering from a recognized University or any other equivalent qualifications registrable with the Surveyors’ Registration Council of Nigeria (SURCON) plus at least two years’ post-qualification cognate experience."
             
               ],
-              "AdvancementPath": "Promotion to Senior Lands Assistant Grade I"
+              "AdvancementPath": "Promotion to Senior Surveyor"
             }
           },
           {
             "Senior Surveyor Grade Level 10": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade II who has spent at least two years on the grade."
-
+                "By promotion of a confirmed and suitable Surveyor Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Land Surveying, Survey Engineering, Geodetic Science or Geodetic Engineering from a recognized University or any other equivalent qualifications registrable with the Surveyors’ Registration Council of Nigeria (SURCON) plus at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications or equivalent registrable with Surveyors’ Registration Council of Nigeria (SURCON): Corporate Membership of the Royal Institute of Chartered Surveyors or A pass in the Final Examination of the Surveyor’s Licensing Board plus at least three years’ post-qualification cognate experience."
 
 
               ],
-              "AdvancementPath": "Promotion to Chief Lands Assistant"
+              "AdvancementPath": "Promotion to Principal Surveyor"
             }
           },
           {
@@ -16880,11 +16907,11 @@
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Senior Surveyor who has spent at least three years on the grade and registered as a surveyor with the Surveyors Registration Council of Nigeria (SURCON)."
 
 
               ],
-              "AdvancementPath": ""
+              "AdvancementPath": "Promotion to Assistant chief Surveyor"
            
            
             }
@@ -16894,11 +16921,11 @@
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Principal Surveyor who has spent at least three years on the grade and registered with SURCON."
 
 
               ],
-              "AdvancementPath": ""
+              "AdvancementPath": "Promotion to Chief Surveyor"
            
            
             }
@@ -16908,11 +16935,11 @@
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Assistant Chief Surveyor who has spent at least three years on the grade and registered with SURCON."
 
 
               ],
-              "AdvancementPath": ""
+              "AdvancementPath": "Promotion to Assistant Survey-General"
            
            
             }
@@ -16922,11 +16949,11 @@
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+                "By promotion of a suitable Chief Surveyor who has spent at least three years on the grade."
 
 
               ],
-              "AdvancementPath": ""
+              "AdvancementPath": "Promotion to Deputy surveyor-General of the Federation/Surveyor-General(States)"
            
            
             }
@@ -16936,11 +16963,11 @@
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+                "By promotion of a suitable Assistant Surveyor-General who has spent at least four yours on the grade."
 
 
               ],
-              "AdvancementPath": ""
+              "AdvancementPath": "Promotion to Surveyor-General of the Federation"
            
            
             }
@@ -16950,7 +16977,7 @@
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+                "By promotion of a suitable Deputy Surveyor-General who has spent at least four years on the grade."
 
 
               ],
@@ -16964,49 +16991,64 @@
       },
 
       {
-        "Cadre": "Lands Assistant",
+        "Cadre": "Road Overseer",
         "Grades": [
           {
-            "Lands Assistant Grade Level 04": {
+            "Road Overseer Grade Level 03": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings.",
-                "By lateral transfer of a suitable Senior Boundaryman or promotion of a confirmed and outstanding Boundaryman who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%)."
+
+                "By direct appointment of a candidate or promotion/transfer of an officer possessing the First School Leaving Certificate plus the Federal Ministry of Works or Federal Ministry of Labour Class III Trade Test in a relevant trade."
               
               ],
-              "AdvancementPath": "Promotion to Senior Lands Assistant Grade II"
+              "AdvancementPath": "Promotion to Senior Road Overseer Grade II"
             }
           },
           {
-            "Senior Lands Assistant Grade II Grade Level 05": {
+            "Senior Road Overseer Grade II Grade Level 04": {
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Lands Assistant has spent at least two years on the grade and passed the Departmental Confirmation/Promotion Test at promotion level i.e. 50 per cent.",
-                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
+                "By advancement of a suitable Road Overseer who has passed the Federal Ministry of Works or the Federal Ministry of Labour Class II Trade Test m relevant Field after spending two years on the grade.",
+                "By direct appointment of a candidate possessing the Federal Ministry of Works or Federal Ministry of Labour Class II Trade Test Certificate in relevant trade plus a minimum basic qualification of First School Leaving Certificate."
             
               ],
-              "AdvancementPath": "Promotion to Senior Lands Assistant Grade I"
+              "AdvancementPath": "Promotion to Senior Road Overseer Grade I"
             }
           },
           {
-            "Senior Lands Assistant Grade I Grade Level 06": {
+            "Senior Road Overseer Grade I Grade Level 05": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade II who has spent at least two years on the grade."
+                "By advancement of a suitable Senior Road Overseer Grade II who has passed the Class I Trade Test in relevant Field after spending two years on the grade.",
+                "By direct appointment of a candidate possessing the First School Leaving Certificate and the Federal Ministry of Works or Federal Ministry of Labour Trade Test Certificate Class I in a relevant trade."
 
 
 
               ],
-              "AdvancementPath": "Promotion to Chief Lands Assistant"
+              "AdvancementPath": "Promotion to Road Foreman"
             }
           },
           {
-            "Chief Lands Assistant Grade Level 07": {
+            "Road Foreman Grade Level 06": {
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Senior Road Overseer Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Road Foreman"
+           
+           
+            }
+          },
+          {
+            "Senior Road Foreman Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Road Foreman who has spent at least two years on the grade."
 
 
               ],
@@ -17019,49 +17061,1261 @@
       },
 
       {
-        "Cadre": "Lands Assistant",
+        "Cadre": "Tractor Driver/Tractor Driver-Mechanic/Articulated Vehicle Driver",
         "Grades": [
           {
-            "Lands Assistant Grade Level 04": {
+            "Tractor Driver Grade Level 03": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings.",
-                "By lateral transfer of a suitable Senior Boundaryman or promotion of a confirmed and outstanding Boundaryman who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%)."
+
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least two years’ satisfactory post-qualification driving experience."
               
               ],
-              "AdvancementPath": "Promotion to Senior Lands Assistant Grade II"
+              "AdvancementPath": "Promotion to Tractor Driver-Mechanic"
             }
           },
           {
-            "Senior Lands Assistant Grade II Grade Level 05": {
+            "Tractor Driver-Mechanic Grade Level 04": {
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Lands Assistant has spent at least two years on the grade and passed the Departmental Confirmation/Promotion Test at promotion level i.e. 50 per cent.",
-                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
+                "By advancement of a suitable Tractor Driver who has passed the Class III Trade Test for Motor Driver-Mechanic.",
+               
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least four years’ satisfactory post-qualification driving experience."
             
               ],
-              "AdvancementPath": "Promotion to Senior Lands Assistant Grade I"
+              "AdvancementPath": "Promotion to Senior Tractor Driver-Mechanic Grade II"
             }
           },
           {
-            "Senior Lands Assistant Grade I Grade Level 06": {
+            "Senior Tractor Driver-Mechanic Grade II Grade Level 05": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade II who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Tractor Driver-Mechanic who has spent at least two years on the grade."
 
 
 
               ],
-              "AdvancementPath": "Promotion to Chief Lands Assistant"
+              "AdvancementPath": "Promotion to Articulated Vehicle Driver Grade II"
             }
           },
           {
-            "Chief Lands Assistant Grade Level 07": {
+            "Articulated Vehicle Driver Grade II Grade Level 05": {
              
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Senior Lands Assistant Grade I who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Heavy Lorry Driver who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least six years’ satisfactory post-qualification driving experience."
+
+              ],
+              "AdvancementPath": "Promotion to Senior Tractor Driver-Mechanic Grade I"
+           
+           
+            }
+          },
+          {
+            "Senior Tractor Driver-Mechanic Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Tractor Driver-Mechanic Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Articulated Vehicle Driver Grade I"
+           
+           
+            }
+          },
+          {
+            "Articulated Vehicle Driver Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Articulated Vehicle Driver Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Tractor Driver-Mechanic"
+           
+           
+            }
+          },
+          {
+            "Chief Tractor Driver-Mechanic Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Senior Tractor Driver-Mechanic Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Articulated Vehicle Driver"
+           
+           
+            }
+          },
+          {
+            "Chief Articulated Vehicle Driver Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Articulated Vehicle Driver Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Plant Operator",
+        "Grades": [
+          {
+            "Light Plant Operator Grade Level 03": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a valid Class ‘C’ Driving License plus at least two years’ satisfactory driving experience."
+              
+              ],
+              "AdvancementPath": "Promotion to Heavy Plant Operator"
+            }
+          },
+          {
+            "Heavy Plant Operator Grade Level 04": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a Light Plant Operator who has passed the Class III Trade Test Certificate for Motor Driver Mechanics and spent at 1east two years on the grade.",
+               
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a valid Class ‘C’ Driving License plus the Class III Trade Test Certificate for Motor Driver-Mechanics and at least four years’ driving experience, one of which must be in the operation of heavy plants."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Heavy Plant Operator Grade II"
+            }
+          },
+          {
+            "Senior Heavy Plant Operator Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Heavy Plant Operator who has spent at least two years on the grade."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Heavy Plant Operator Grade I"
+            }
+          },
+          {
+            "Senior Heavy Plant Operator Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed and suitable Senior Heavy Plant Operator Grade II who has spent at least two years on the grade."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Heavy Plant Operator"
+           
+           
+            }
+          },
+          {
+            "Chief Heavy Plant Operator Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Senior Heavy Plant Operator Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Air Mapping Assistant",
+        "Grades": [
+          {
+            "Air Mapping Assistant Grade Level 04": {
+             
+              "EntryRequirements": [
+
+                "By direct appointments of a candidate possessing any of the following or equivalent qualifications: West African School Certificate preferably including passes in Geography, Physics, Mathematics or Chemistry. or General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings preferably including Geography, Physics, Mathematics or Chemistry."
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Air Mapping Assistant Grade II"
+            }
+          },
+          {
+            "Senior Air Mapping Assistant Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+
+
+                
+                "By promotion of a confirmed and suitable Air Mapping Assistant who has spent at least two years on the grade."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Air Mapping Assistant Grade I"
+            }
+          },
+          {
+            "Senior Air Mapping Assistant Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Senior Air Mapping Assistant Grade II who has spent at least two years on the grade."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Air Mapping Assistant"
+            }
+          },
+          {
+            "Chief Air Mapping Assistant Grade Level 07": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a suitable Senior Air Mapping Assistant Grade I who has spent at least two years on the grade."
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Sewerage Engineer",
+        "Grades": [
+          {
+            "Sewerage Engineer Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing a degree in Sewerage Engineering or Civil Engineering or related subject from a recognized University or an equivalent qualification registrable with the Council of Registered Engineers of Nigeria (COREN)."
+              
+              ],
+              "AdvancementPath": "Promotion to Sewerage Engineer Grade I"
+            }
+          },
+          {
+            "Sewerage Engineer Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a suitable Sewerage Engineer Grade II who has completed a two-year pupilage programme.",
+               "By direct appointment of a candidate possessing a degree in Sewerage Engineering or Civil Engineering or related subject from a recognized University or an equivalent qualification registrable with the Council of Registered Engineers of Nigeria (COREN). plus at least two years’ post-qualification cognate experience."
+
+                
+              ],
+              "AdvancementPath": "Promotion to Senior Sewerage Officer"
+            }
+          },
+          {
+            "Senior Sewerage Officer Grade Level 10": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Sewerage Engineer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Sewerage Engineering or Civil Engineering or related subject from a recognized University or an equivalent qualification registrable with the Council of Registered Engineers of Nigeria (COREN). plus at least five years’ post-qualification cognate experience."
+
+
+              ],
+              "AdvancementPath": "Promotion to Principal Sewerage Officer"
+            }
+          },
+          {
+            "Principal Sewerage Officer Grade Level 12": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed and suitable Senior Sewerage Engineer who has spent at least three years on the grade and registered with COREN."
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Sewerage Officer"
+           
+           
+            }
+          },
+          {
+            "Assistant Chief Sewerage Officer Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Principal Sewerage Engineer who has spent at least three years on the grade and registered with COREN."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Sewerage Officer"
+           
+           
+            }
+          },
+          {
+            "Chief Sewerage Officer Grade Level 14": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Assistant Chief Sewerage Engineer who has spent at least three years on the grade and registered with COREN."
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+           
+           
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Chief Sewerage Engineer who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Articulated Vehicle Driver"
+           
+           
+            }
+          },
+          {
+            "Deputy Director/Director (States) Grade Level 16": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Assistant Director who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to  Director"
+           
+           
+            }
+          },
+          {
+            "Director Grade Level 17": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Deputy Direct who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Quantity Surveyor",
+        "Grades": [
+          {
+            "Quantity Surveyor Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing any of the following qualifications or their equivalent registrable with the Nigerian Institute of Quantity Surveyors (NIQS) A degree in Quantity Surveying from a recognized University. or A pass in the final examination of the Royal Institute of Chartered Surveyors. or A pass in the final examination of the Nigerian Institute of Quantity Surveyor."
+              
+              ],
+              "AdvancementPath": "Promotion to Quantity Surveyor Grade I"
+            }
+          },
+          {
+            "Quantity Surveyor Grade I Grade level 09": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a confirmed and suitable Quantity Surveyor Grade II who has completed the two-year pupilage programme.",
+               
+                "By direct appointment of a candidate possessing any of the following qualifications or their equivalent registrable with the Nigerian Institute of Quantity Surveyors (NIQS) A degree in Quantity Surveying from a recognized University. or A pass in the final examination of the Royal Institute of Chartered Surveyors. or A pass in the final examination of the Nigerian Institute of Quantity Surveyor plus at least two years’ post-qualification cognate experience."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Quantity Surveyor"
+            }
+          },
+          {
+            "Senior Quantity Surveyor Grade Level 10": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Quantity Surveyor who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications or their equivalent registrable with the Nigerian Institute of Quantity Surveyors (NIQS) A degree in Quantity Surveying from a recognized University. or A pass in the final examination of the Royal Institute of Chartered Surveyors. or A pass in the final examination of the Nigerian Institute of Quantity Surveyor plus at least five years’ post-qualification cognate experience."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Principal Quantity Surveyor"
+            }
+          },
+          {
+            "Principal Quantity Surveyor Grade Level 12": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed and suitable Senior Quantity Surveyor who has spent at least three years on the grade and obtained the registration of NIQS."
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Quantity Surveyor"
+           
+           
+            }
+          },
+          {
+            "Assistant Chief Quantity Surveyor Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Principal Quantity Surveyor who has spent at least three years on the grade and registered with NIQS."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Quantity Surveyor"
+           
+           
+            }
+          },
+          {
+            "Chief Quantity Surveyor Grade Level 14": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Assistant Chief Quantity Surveyor who has spent a least three years on the grade and registered with NIQS."
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+           
+           
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and Suitable Chief Quantity Surveyor who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
+           
+           
+            }
+          },
+          {
+            "Deputy Director/Director (States) Grade Level 16": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to  Director"
+           
+           
+            }
+          },
+          {
+            "Director Grade Level 17 ": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Structural Engineer",
+        "Grades": [
+          {
+            "Structural Engineer Grade II Grade Level 08": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing a degree in Structural Engineering from a recognized University or equivalent qualification registrable with the Council of Registered Engineers of Nigeria (COREN)."
+              
+              ],
+              "AdvancementPath": "Promotion to Structural Engineer Grade I"
+            }
+          },
+          {
+            "Structural Engineer Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a suitable Structural Engineer Grade II who has successfully completed the two-year pupilage programme.",
+               
+                "By direct appointment of a candidate possessing a degree in Structural Engineering from a recognized University or equivalent qualification registrable with the Council of Registered Engineers of Nigeria (COREN) plus at least two years’ post- qualification cognate experience."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Structural Engineer"
+            }
+          },
+          {
+            "Senior Structural Engineer Grade Level 10": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Structural Engineer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Structural Engineering from a recognized University or equivalent qualification registrable with the Council of Registered Engineers of Nigeria (COREN) plus at least five years’ post- qualification cognate experience."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Principal Structural Engineer"
+            }
+          },
+          {
+            "Principal Structural Engineer Grade Level 12": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed and suitable Senior Structural Engineer who has spent at least three years on the grade and obtained the registration of COREN."
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Structural Engineer"
+           
+           
+            }
+          },
+          {
+            "Assistant Chief Structural Engineer Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Principal Structural Engineer who has spent at least three years on the grade and registered with COREN."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Structural Engineer"
+           
+           
+            }
+          },
+          {
+            "Chief Structural Engineer Grade Level 14": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Chief Structural Engineer who has spent at Least three years on the grade and registered with COREN."
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+           
+           
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Chief Structural Engineer or any suitable Officer in the following grades who has spent at least three years on the grade. Chief Civil Engineer or Chief Research Officer with Engineering bias."
+
+
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
+           
+           
+            }
+          },
+          {
+            "Deputy Director/Director (States) Grade Level 16": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to  Director"
+           
+           
+            }
+          },
+          {
+            "Director Grade level 17": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Fireman",
+        "Grades": [
+          {
+            "Fireman Grade II Grade Level 03": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing any of the following qualifications: Evidence of completion of a full course in a Government approved Secondary School or S.75. or General Certificate of Education (Ordinary Level) with three credits passed at one sitting or four credits passed at two sittings. or In addition to the above educational requirements, a candidate must have passed a Competitive Selection Test and meet the appropriate medical fitness condition."
+              
+              ],
+              "AdvancementPath": "Promotion to Fireman Grade I"
+            }
+          },
+          {
+            "Fireman Grade I Grade Level 04": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Fireman Grade II who has spent at least, two years on the grade and passed the Departmental Confirmation/ Promotion Test at promotion level (i.e. 50%).",
+               
+                "By direct appointment of a candidate possessing any of the following qualifications:General Certificate of Education (Ordinary Level) in four subjects passed at one sitting or five subjects passed at two sittings including English Language, Mathematical and Chemistry or West African School Certificate/Senior Secondary School Certificate including passes in English Language, Mathematics, Chemistry and one other Science subject."
+            
+              ],
+              "AdvancementPath": "Promotion to Leading Fireman"
+            }
+          },
+          {
+            "Leading Fireman Grade Level 05": {
+             
+              "EntryRequirements": [
+                "By advancement of a Fireman Grade I who has obtained the Fireman Certificate of Competency (FCC) Class II and spent at least two years on the grade."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Fireman"
+            }
+          },
+          {
+            "Senior Fireman Grade Level 06": {
+             
+              "EntryRequirements": [
+
+
+                "By advancement of a Leading Fireman who has passed the Fireman Certificate of Competency (FCC) Class I and spent at least two years on the grade."
+
+              ],
+              "AdvancementPath": "Promotion to Chief Fireman"
+           
+           
+            }
+          },
+          {
+            "Chief Fireman Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a Senior Fireman who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Fire Superintendent",
+        "Grades": [
+          {
+            "Fire Superintendent In-Training Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing the Ordinary National Diploma (OND) in Building, Mechanical or Electrical Engineering.",
+                "By lateral transfer of a suitable Senior Fireman possessing the Fireman Certificate of Competence (FCC)."
+              
+              ],
+              "AdvancementPath": "Promotion to Fire Superintendent"
+            }
+          },
+          {
+            "Fire Superintendent Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Assistant Fire Superintendent who has spent at least two years on the grade and succesfu1ly completed the prescribed programme.",
+               
+                "By direct appointment of a candidate possessing the Graduate Membership Diploma of the Institute of Fire Engineers.",
+                "By lateral transfer of a suitable Chief Fireman possessing the Fireman Certificate of Competence (FCC)."
+            
+              ],
+              "AdvancementPath": "Promotion to Higher Fire Superintendent"
+            }
+          },
+          {
+            "Higher Fire Superintendent Grade Level 08": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Fire Superintendent who has spent at least three years on the grade and obtained the Advanced Fire Certificate of Competence.",
+                "By direct appointment of a candidate possessing the Graduate Membership Diploma of the Institute of Fire Engineers.",
+                "By direct appointment of a candidate possessing the Higher National Diploma in Building, Mechanical or Electrical Engineering from a recognized Institution."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Senior Fire Superintendent"
+            }
+          },
+          {
+            "Senior Fire Superintendent Grade Level 09.": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Higher Fire Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing the Graduate Membership Diploma of the Institute of Fire Engineers. plus at least six years’ post qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Building, Mechanical or Electrical Engineering from a recognized Institution plus at least three years’ post qualification cognate experience"
+
+              ],
+              "AdvancementPath": "Promotion to Principal Fire Superintendent Grade II"
+           
+           
+            }
+          },
+          {
+            "Principal Fire Superintendent Grade II Grade Level 10": {
+             
+              "EntryRequirements": [
+
+             "By promotion of a confirmed and suitable Senior Fire Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing the Graduate Membership Diploma of the Institute of Fire Engineers. plus at least nine years’ post qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Building, Mechanical or Electrical Engineering from a recognized Institution plus at least six years’ post qualification cognate experience"
+
+              ],
+              "AdvancementPath": "Promotion to Principal Fire Superintendent Grade I"
+           
+           
+            }
+          },
+          {
+            "Principal Fire Superintendent Grade I Grade Level 12": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a continued and suitable Principal Fire Superintendent Grade II who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Fire Superintendent"
+           
+           
+            }
+          },
+          {
+            "Assistant Chief Fire Superintendent Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Principal Fire Superintendent Grade I who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Fire Superintendent"
+           
+           
+            }
+          },
+          {
+            "Chief Fire Superintendent Grade Level 14": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Chief Fire Superintendent who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Fire Officer",
+        "Grades": [
+          {
+            "Fire Officer Crack II Grade Level 08": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing First degree in Building, Mechanical or Electrical Engineering from a recognized University, who has passed the prescribed Competitive Selection Examination and the appropriate medical/fitness test."
+              
+              ],
+              "AdvancementPath": "Promotion to Fire Officer Grade I"
+            }
+          },
+          {
+            "Fire Officer Grade I Grade Level 09": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a Fire Officer Grade II who has successfully completed a prescribed two-year training programme.",
+               
+                "By direct appointment of a candidate possessing master’s degree in a relevant field from a recognized University, who has passed the Competitive election Examination and the appropriate medical/fitness test. Officers appointed to this grade must undergo the prescribed two-year training programme."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Fire Officer"
+            }
+          },
+          {
+            "Senior Fire Officer Grade Level 10": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Fire Officer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing Doctorate degree in relevant field from a recognized University, who has passed the Competitive Selection Examination and the appropriate medical/fitness test. Officers appointed to this grade must undergo the prescribed two-year training programme."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Principal Fire Officer"
+            }
+          },
+          {
+            "Principal Fire Officer Grade Level 12": {
+             
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed and suitable Senior Fire Officer who has spent at least three years on the grade."
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Fire Officer"
+           
+           
+            }
+          },
+          {
+            "Assistant Chief Fire Officer Grade Level 13": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Principal Fire Officer who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Fire Officer"
+           
+           
+            }
+          },
+          {
+            "Chief Fire Officer Grade Level 14": {
+             
+              "EntryRequirements": [
+
+                "By promotion of g suitable Assistant Chief Fire Officer who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+           
+           
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Chief Fire Officer who has spent at least three years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Deputy Director (Federal)/Director (States)"
+           
+           
+            }
+          },
+          {
+            "Deputy Director (Federal)/Director (States) Grade Level 16": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to  Director"
+           
+           
+            }
+          },
+          {
+            "Director  Grade Level 17": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Tractor Driver/Tractor Driver-Mechanic/Articulated Vehicle Driver",
+        "Grades": [
+          {
+            "Tractor Driver Grade Level 03": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least two years’ satisfactory post-qualification driving experience."
+              
+              ],
+              "AdvancementPath": "Promotion to Tractor Driver-Mechanic"
+            }
+          },
+          {
+            "Tractor Driver-Mechanic Grade Level 04": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a suitable Tractor Driver who has passed the Class III Trade Test for Motor Driver-Mechanic.",
+               
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least four years’ satisfactory post-qualification driving experience."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Tractor Driver-Mechanic Grade II"
+            }
+          },
+          {
+            "Senior Tractor Driver-Mechanic Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Tractor Driver-Mechanic who has spent at least two years on the grade."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Articulated Vehicle Driver Grade II"
+            }
+          },
+          {
+            "Articulated Vehicle Driver Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Heavy Lorry Driver who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least six years’ satisfactory post-qualification driving experience."
+
+              ],
+              "AdvancementPath": "Promotion to Senior Tractor Driver-Mechanic Grade I"
+           
+           
+            }
+          },
+          {
+            "Senior Tractor Driver-Mechanic Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Tractor Driver-Mechanic Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Articulated Vehicle Driver Grade I"
+           
+           
+            }
+          },
+          {
+            "Articulated Vehicle Driver Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Articulated Vehicle Driver Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Tractor Driver-Mechanic"
+           
+           
+            }
+          },
+          {
+            "Chief Tractor Driver-Mechanic Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Senior Tractor Driver-Mechanic Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Articulated Vehicle Driver"
+           
+           
+            }
+          },
+          {
+            "Chief Articulated Vehicle Driver Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Articulated Vehicle Driver Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Tractor Driver/Tractor Driver-Mechanic/Articulated Vehicle Driver",
+        "Grades": [
+          {
+            "Tractor Driver Grade Level 03": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least two years’ satisfactory post-qualification driving experience."
+              
+              ],
+              "AdvancementPath": "Promotion to Tractor Driver-Mechanic"
+            }
+          },
+          {
+            "Tractor Driver-Mechanic Grade Level 04": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a suitable Tractor Driver who has passed the Class III Trade Test for Motor Driver-Mechanic.",
+               
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least four years’ satisfactory post-qualification driving experience."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Tractor Driver-Mechanic Grade II"
+            }
+          },
+          {
+            "Senior Tractor Driver-Mechanic Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Tractor Driver-Mechanic who has spent at least two years on the grade."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Articulated Vehicle Driver Grade II"
+            }
+          },
+          {
+            "Articulated Vehicle Driver Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Heavy Lorry Driver who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least six years’ satisfactory post-qualification driving experience."
+
+              ],
+              "AdvancementPath": "Promotion to Senior Tractor Driver-Mechanic Grade I"
+           
+           
+            }
+          },
+          {
+            "Senior Tractor Driver-Mechanic Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Tractor Driver-Mechanic Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Articulated Vehicle Driver Grade I"
+           
+           
+            }
+          },
+          {
+            "Articulated Vehicle Driver Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Articulated Vehicle Driver Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Tractor Driver-Mechanic"
+           
+           
+            }
+          },
+          {
+            "Chief Tractor Driver-Mechanic Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Senior Tractor Driver-Mechanic Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Articulated Vehicle Driver"
+           
+           
+            }
+          },
+          {
+            "Chief Articulated Vehicle Driver Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Articulated Vehicle Driver Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": ""
+           
+           
+            }
+          }
+        ]
+      },
+
+      {
+        "Cadre": "Tractor Driver/Tractor Driver-Mechanic/Articulated Vehicle Driver",
+        "Grades": [
+          {
+            "Tractor Driver Grade Level 03": {
+             
+              "EntryRequirements": [
+
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least two years’ satisfactory post-qualification driving experience."
+              
+              ],
+              "AdvancementPath": "Promotion to Tractor Driver-Mechanic"
+            }
+          },
+          {
+            "Tractor Driver-Mechanic Grade Level 04": {
+             
+              "EntryRequirements": [
+
+                "By advancement of a suitable Tractor Driver who has passed the Class III Trade Test for Motor Driver-Mechanic.",
+               
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least four years’ satisfactory post-qualification driving experience."
+            
+              ],
+              "AdvancementPath": "Promotion to Senior Tractor Driver-Mechanic Grade II"
+            }
+          },
+          {
+            "Senior Tractor Driver-Mechanic Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Tractor Driver-Mechanic who has spent at least two years on the grade."
+
+
+
+              ],
+              "AdvancementPath": "Promotion to Articulated Vehicle Driver Grade II"
+            }
+          },
+          {
+            "Articulated Vehicle Driver Grade II Grade Level 05": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Heavy Lorry Driver who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing the First School Leaving Certificate plus a Valid Class ‘C’ Driving License and at least six years’ satisfactory post-qualification driving experience."
+
+              ],
+              "AdvancementPath": "Promotion to Senior Tractor Driver-Mechanic Grade I"
+           
+           
+            }
+          },
+          {
+            "Senior Tractor Driver-Mechanic Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Tractor Driver-Mechanic Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Articulated Vehicle Driver Grade I"
+           
+           
+            }
+          },
+          {
+            "Articulated Vehicle Driver Grade I Grade Level 06": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Articulated Vehicle Driver Grade II who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Tractor Driver-Mechanic"
+           
+           
+            }
+          },
+          {
+            "Chief Tractor Driver-Mechanic Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Senior Tractor Driver-Mechanic Grade I who has spent at least two years on the grade."
+
+
+              ],
+              "AdvancementPath": "Promotion to Chief Articulated Vehicle Driver"
+           
+           
+            }
+          },
+          {
+            "Chief Articulated Vehicle Driver Grade Level 07": {
+             
+              "EntryRequirements": [
+
+                "By promotion of a suitable Articulated Vehicle Driver Grade I who has spent at least two years on the grade."
 
 
               ],
@@ -17072,7 +18326,6 @@
           }
         ]
       }
-
 
 
 
