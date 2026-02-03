@@ -3455,53 +3455,89 @@
 
 
       {
-        "Cadre": "Forest Guard/Ranger",
+        "Cadre": "Irrigation Officer",
         "Grades": [
           {
-            "Forest Guard Grade Level 03": {
+            "Irrigation Officer Grade II Grade Level 08": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications;Evidence of completion of a full course in a Government approved Secondary School of S. 75 Certificate. or Junior Secondary School Certificate."
+                "By direct appointment of a candidate possessing a degree in Irrigation, Agricultural Science, Agricultural or Civil Engineering from a recognized University."
               ],
-              "AdvancementPath": "Promotion to Forester"
+              "AdvancementPath": "Promotion to Irrigation Officer Grade I"
             }
           },
           {
-            "Forester Grade Level 04": {
+            "Irrigation Officer Grade I Grade Level 09": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forest Guard who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%).",
-                "By direct appointment of a candidate possessing any of the following Qualifications:-West can School Certificate or Senior Secondary School Certificate with a pass in Botany or biology. or General Certificate of Education (Ordinary Level) in four subjects obtained at one sitting or fives subjects at two sittings, preferably including Botany or Biology.",
-                "By promotion of a confirmed and outstanding Forest Attendant Grade I who has passed the Departmental Confnnat1OflhPr0mo0n Test at promotion level (i.e 50%)."
-              
+                "By promotion of a confirmed and suitable Irrigation Officer Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Irrigation, Agricultural Science, Agricultural or Civil Engineering from a recognized University. plus at least three years’ post-qualification Cognate experience."
               
               ],
-              "AdvancementPath": "Promotion to Forest Ranger"
+              "AdvancementPath": "Promotion to Senior Irrigation Officer"
             }
           },
           {
-            "Forest Ranger Grade Level 05": {
+            "Senior Irrigation Officer Grade Level 10": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forester who has spent at least tw years on the grade."
+                "By promotion of a confirmed and suitable Irrigation Officer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Irrigation, Agricultural Science, Agricultural or Civil Engineering from a recognized University. plus at least six years’ post-qualification Cognate experience."
+              
               ],
-              "AdvancementPath": "Promotion to Senior Ranger"
+              "AdvancementPath": "Promotion to Principal Irrigation Officer"
             }
           },
           {
-            "Senior Ranger Grade Level 06.": {
+            "Principal Irrigation Officer Grade Level 12": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forest Ranger who has spent at lea two years on the grade."
+                "By promotion of a confirmed and suitable Senior Irrigation Officer who spent at least three years on the grade."
               ],
-              "AdvancementPath": "Promotion to Chief Ranger"
+              "AdvancementPath": "Promotion to Assistant Chief Irrigation Officer"
             }
           },
           {
-            "Chief Ranger Grade Level 07": {
+            "Assistant Chief Irrigation Officer Grade Level 13": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Ranger who has spent at least two years on the grade."
+                "By promotion of a suitable Principal irrigation Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Irrigation Officer"
+            }
+          },
+          {
+            "Chief Irrigation Officer Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief irrigation Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Chief Irrigation Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
+            }
+          },
+          {
+            "Deputy Director/Director (States) Grade level 16": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Director who has spent at least four year on the grade."
+              ],
+              "AdvancementPath": "Promotion to Director"
+            }
+          },
+          {
+            "Director Grade Level 17": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -3512,53 +3548,35 @@
 
 
       {
-        "Cadre": "Forest Guard/Ranger",
+        "Cadre": "Livestock Attendant",
         "Grades": [
           {
-            "Forest Guard Grade Level 03": {
+            "Livestock Attendant Grade III Grade Level 01": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications;Evidence of completion of a full course in a Government approved Secondary School of S. 75 Certificate. or Junior Secondary School Certificate."
+                "By direct appointment of a candidate who is mentally and physically fit"
               ],
-              "AdvancementPath": "Promotion to Forester"
+              "AdvancementPath": "Promotion to Livestock Attendant Grade II"
             }
           },
           {
-            "Forester Grade Level 04": {
+            "Livestock Attendant Grade II Grade Level 02": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forest Guard who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%).",
-                "By direct appointment of a candidate possessing any of the following Qualifications:-West can School Certificate or Senior Secondary School Certificate with a pass in Botany or biology. or General Certificate of Education (Ordinary Level) in four subjects obtained at one sitting or fives subjects at two sittings, preferably including Botany or Biology.",
-                "By promotion of a confirmed and outstanding Forest Attendant Grade I who has passed the Departmental Confnnat1OflhPr0mo0n Test at promotion level (i.e 50%)."
+
+
+                "By promotion of a confirmed and suitable Livestock Attendant Grade III who has spent at least two years on the grade."
               
               
               ],
-              "AdvancementPath": "Promotion to Forest Ranger"
+              "AdvancementPath": "Promotion to Livestock Attendant Grade I"
             }
           },
           {
-            "Forest Ranger Grade Level 05": {
+            "Livestock Attendant Grade I Grade Level 03": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forester who has spent at least tw years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Senior Ranger"
-            }
-          },
-          {
-            "Senior Ranger Grade Level 06.": {
-            
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forest Ranger who has spent at lea two years on the grade."
-              ],
-              "AdvancementPath": "Promotion to Chief Ranger"
-            }
-          },
-          {
-            "Chief Ranger Grade Level 07": {
-            
-              "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Ranger who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Livestock Attendant Grade II who Has spent at least two years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -3569,53 +3587,56 @@
 
 
       {
-        "Cadre": "Forest Guard/Ranger",
+        "Cadre": "Livestock Overseer",
         "Grades": [
           {
-            "Forest Guard Grade Level 03": {
+            "Assistant Livestock Overseer Grade Level 03": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications;Evidence of completion of a full course in a Government approved Secondary School of S. 75 Certificate. or Junior Secondary School Certificate."
+                "By direct appointment of a candidate possessing any of the following qualifications:-Evidence of completion of a full course in government approved secondary school or S. 75. or General Certificate of Education (Ordinary Level) with three or four passes preferably including one Natural Science subject obtained at one or two Sittings respectively. or Junior Secondary School Certificate (JSSC)."
               ],
-              "AdvancementPath": "Promotion to Forester"
+              "AdvancementPath": "Promotion to Livestock Overseer"
             }
           },
           {
-            "Forester Grade Level 04": {
+            "Livestock Overseer Grade Level 04": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forest Guard who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%).",
-                "By direct appointment of a candidate possessing any of the following Qualifications:-West can School Certificate or Senior Secondary School Certificate with a pass in Botany or biology. or General Certificate of Education (Ordinary Level) in four subjects obtained at one sitting or fives subjects at two sittings, preferably including Botany or Biology.",
-                "By promotion of a confirmed and outstanding Forest Attendant Grade I who has passed the Departmental Confnnat1OflhPr0mo0n Test at promotion level (i.e 50%)."
+                "By promotion of a confirmed and suitable Assistant Livestock Overseer who has successfully completed the training course specified in paragraph 2.1.1. above.",
+
+                "By direct appointment of a candidate possessing any of the following qua1ificatons:West African School Certificate or Senior Secondary School Certificate or General Certificate of Education (Ordinary Level) with four credit or passes obtained at one sitting or five credit passes obtained at tow sittings preferably including Biology or Agriculture Science.",
+                "By promotion of a confirmed and suitable Livestock Attendant Grade I who has passed the Livestock Overseers Confirmation/ Promotion Test at promotion 1ev (i.e. 50%)."
               
               
               ],
-              "AdvancementPath": "Promotion to Forest Ranger"
+              "AdvancementPath": "Promotion to Senior Livestock Overseer"
             }
           },
           {
-            "Forest Ranger Grade Level 05": {
+            "Senior Livestock Overseer Grade Level 05": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forester who has spent at least tw years on the grade."
+                "By promotion of a confirmed and suitable Livestock Overseer who has spent least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qua1ificatons:West African School Certificate or Senior Secondary School Certificate or General Certificate of Education (Ordinary Level) with four credit or passes obtained at one sitting or five credit passes obtained at tow sittings preferably including Biology or Agriculture Science. plus at least two years post-qualification cognate experience."
+        
               ],
-              "AdvancementPath": "Promotion to Senior Ranger"
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Overseer"
             }
           },
           {
-            "Senior Ranger Grade Level 06.": {
+            "Assistant Chief Livestock Overseer Grade Level 06": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forest Ranger who has spent at lea two years on the grade."
+                "By promotion of a confirmed and suitable Senior Livestock Overseer who has spent at least two years on the grade."
               ],
-              "AdvancementPath": "Promotion to Chief Ranger"
+              "AdvancementPath": "Promotion to Chief Livestock Overseer"
             }
           },
           {
-            "Chief Ranger Grade Level 07": {
+            "Chief Livestock Overseer Grade Level 07": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Ranger who has spent at least two years on the grade."
+                "By promotion of a suitable Assistant Chief Livestock Overseer who has spent at least two years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -3626,59 +3647,1358 @@
 
 
       {
-        "Cadre": "Forest Guard/Ranger",
+        "Cadre": "Livestock Superintendent",
         "Grades": [
           {
-            "Forest Guard Grade Level 03": {
+            "Assistant Livestock Superintendent-In-Training Grade Level 04": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications;Evidence of completion of a full course in a Government approved Secondary School of S. 75 Certificate. or Junior Secondary School Certificate."
+                "By direct appointment of a candidate possessing any of the following;General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes at two sittings preferably, including cats Natural Science subject or Senior Secondary School Certificate or West African School Certificate, preferably including one Natural Science subject"
               ],
-              "AdvancementPath": "Promotion to Forester"
+              "AdvancementPath": "Promotion to Assistant Livestock Superintendent"
             }
           },
           {
-            "Forester Grade Level 04": {
+            "Assistant Livestock Superintendent Grade Level 06": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forest Guard who has passed the Departmental Confirmation/Promotion Test at promotion level (i.e. 50%).",
-                "By direct appointment of a candidate possessing any of the following Qualifications:-West can School Certificate or Senior Secondary School Certificate with a pass in Botany or biology. or General Certificate of Education (Ordinary Level) in four subjects obtained at one sitting or fives subjects at two sittings, preferably including Botany or Biology.",
-                "By promotion of a confirmed and outstanding Forest Attendant Grade I who has passed the Departmental Confnnat1OflhPr0mo0n Test at promotion level (i.e 50%)."
+
+                "By advancement of a suitable Assistant Livestock Superintendent-in-Training or  livestock overseer who has successfully completed the training for Assistant Livestock Superintendent at a recognized Veterinary School or Animal Health Institution.",
+                "By direct appointment of a candidate possessing OND or who has Successfully completed the two-Ye& training course for Assistant Livestock Superintendent in a recognized Veterinary School or Animal Health Institution."
               
               
               ],
-              "AdvancementPath": "Promotion to Forest Ranger"
+              "AdvancementPath": "Promotion to Livestock Superintendent"
             }
           },
           {
-            "Forest Ranger Grade Level 05": {
+            "Livestock Superintendent Grade Level 07": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forester who has spent at least tw years on the grade."
+                "By advancement of a suitable Assistant Livestock who has successfully completed the Diploma Course for Livestock SupeTintet1t in recognised Veterinary School or Animal Health Husbandry, Institution.",
+                "By promotion of a confirmed and suitable Assistant Livestock Supeintend0 who has spent at least two years on the grade."
               ],
-              "AdvancementPath": "Promotion to Senior Ranger"
+              "AdvancementPath": "Promotion to Higher Livestock Superintendent"
             }
           },
           {
-            "Senior Ranger Grade Level 06.": {
+            "Higher Livestock Superintendent Grade level 08": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Forest Ranger who has spent at lea two years on the grade."
+                "By promotion of a confirmed and suitable Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture."
               ],
-              "AdvancementPath": "Promotion to Chief Ranger"
+              "AdvancementPath": "Promotion to Senior Livestock Superintendent"
             }
           },
           {
-            "Chief Ranger Grade Level 07": {
+            "Senior Livestock Superintendent Grade Level 09": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Ranger who has spent at least two years on the grade."
+              "By promotion of a confirmed and suitable Higher Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade II"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade II Grade Level 10": {
+            
+              "EntryRequirements": [
+               "By promotion of a confirmed and suitable Senior Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least six  years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade I"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion a confirmed and suitable Principal Livestock Superintendent who Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Livestock Superintendent Grade Level 13": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Livestock Superintendent Grade I who spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Chief Livestock Superintendent Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Livestock Superintendent who spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Livestock Officer/Livestock Development Officer",
+        "Grades": [
+          {
+            "Livestock Officer/Livestock Development Officer Grade II Grade Level 08": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing a degree in Animal Science Animal Husbandry/Animal Production, Agriculture or Range Management a recognised University."
+              ],
+              "AdvancementPath": "Promotion to Livestock Officer/Livestock Development Officer Grade I"
+            }
+          },
+          {
+            "Livestock Officer/Livestock Development Officer Grade I Grade Level 09": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Livestock Officer Livestock Development Officer Grade 11 who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Animal Science Animal Husbandry/Animal Production, Agriculture or Range Management a recognised University. plus at least three years’ post-qualification cognate experience."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Livestock Officer/Senior Livestock Development Officer"
+           
+           
+            }
+          },
+          {
+            "Senior Livestock Officer/Senior Livestock Development Officer Grade Level 10": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Livestock Officer Livestock Development Officer Grade 1 who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Animal Science Animal Husbandry/Animal Production, Agriculture or Range Management a recognised University. plus at least six years’ post-qualification cognate experience."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Officer/Assistant Chief Livestock Development"
+           
+            }
+          },
+          {
+            "Principal Livestock Officer/Assistant Chief Livestock Development Grade Level 12": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Livestock Officer/Senior Livestock Development Officer who has spent at least three years on the grade"
+              ],
+              "AdvancementPath": "Promotion to Senior Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Livestock Officer/Assistant Chief Livestock Development Officer Grade level 13": {
+            
+              "EntryRequirements": [
+              "By promotion of a confirmed and suitable Higher Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Officer/Assistant Chief Livestock Development Officer"
+            }
+          },
+          {
+            "Chief Livestock Officer/Chief Livestock Development Officer Grade Level 14": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Chief Livestock Officer/Assistant Chief Livestock Development Officer who has spent at least three years on the grade"
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Chief Livestock Officer/Chief Livestock Development Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
+            }
+          },
+          {
+            "Deputy Director/Director (States) Grade Level 16": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Director who has spent at least four year On the grade."
+              ],
+              "AdvancementPath": "Promotion to Director"
+            }
+          },
+          {
+            "Director Grade Level 17": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four year the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Land Resources Officer",
+        "Grades": [
+          {
+            "Land Resources Officer Grade II Grade Level 08": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing a degree in Agriculture Soil Science, Chemistry, Geology, Geography, Geomorphology or Forestry from a recognised University."
+              ],
+              "AdvancementPath": "Promotion to Land Resources Officer Grade I"
+            }
+          },
+          {
+            "Land Resources Officer Grade I Grade Level 09": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Land Resources Officer Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Agriculture Soil Science, Chemistry, Geology, Geography, Geomorphology or Forestry from a recognised University. plus at least three ‘years post-qualification cognate experience."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Land Resources Officer"
+            }
+          },
+          {
+            "Senior Land Resources Officer Grade Level 10": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Land Resources Officer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Agriculture Soil Science, Chemistry, Geology, Geography, Geomorphology or Forestry from a recognised University. plus at least six ‘years post-qualification cognate experience."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Principal Land Resources Officer"
+            }
+          },
+          {
+            "Principal Land Resources Officer Grade Level 12": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Land Resources Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Land Resources Officer"
+            }
+          },
+          {
+            "Assistant Chief Land Resources Officer Grade Level 13": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Principal Land Resources Officer has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Land Resources Officer"
+            }
+          },
+          {
+            "Chief Land Resources Officer Grade Level 14": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Chief Land Resources Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Chief Land Resources Officer/Chief Agriculture Research Officer/Chief Agricultural Officer who has spent at least three year the grade."
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/ Director (States)"
+            }
+          },
+          {
+            "Deputy Director/ Director (States) Grade Level 16": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable’ Assistant Director who has spent at least four on the grade."
+              ],
+              "AdvancementPath": "Promotion to Director"
+            }
+          },
+          {
+            "Director Grade Level 17": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four year the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Produce/Pest Control Attendant",
+        "Grades": [
+          {
+            "Produce/Pest Control Attendant Grade II Grade Level 01": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate who is mentally and physically fit."
+              ],
+              "AdvancementPath": "Promotion to Produce/Pest Control Attendant Grade II"
+            }
+          },
+          {
+            "Produce/Pest Control Attendant Grade II Grade Level 02": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Produce/Pest Control Attendant Grade III who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing First School Leaving Certificate"
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Produce/Pest control Attendant Grade I"
+            }
+          },
+          {
+            "Produce/Pest control Attendant Grade I Grade Level 03": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Produce/Pest Control Attendant Grade II who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing the S. 75 or Junior Secondary School Certificate."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Produce/Pest Control Inspector",
+        "Grades": [
+          {
+            "Produce/pest Control Inspector Grade Level 04": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qua1ifications;General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes obtained at two sittings. or West African School Cct1ifict or Senior Secondary School Certificate",
+                "By promotion of a confirmed and suitable Produce/ Pest Control Attendant Grade I who successfully completed an in-service training course designed for promotion to the grade to the grade of Produce/Pest Control Inspector"
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Produce/Pest Control Inspector Grade II"
+            }
+          },
+          {
+            "Senior Produce/Pest Control Inspector Grade II Grade Level 05": {
+            
+              "EntryRequirements": [
+
+
+                "By promotion of a confirmed suitable Produce/ Pest Control Inspector who has spent at least two years on the grade."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Produce/Pest Control Inspector Grade I"
+            }
+          },
+          {
+            "Senior Produce/Pest Control Inspector Grade I Grade Level 06": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a suitable Senior Produce/Pest Control Inspector Grade II who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Produce/Pest Control Inspector"
+            }
+          },
+          {
+            "Chief Produce/Pest Control Inspector Grade Level 07": {
+            
+              "EntryRequirements": [
+
+                "by promotion of a suitable Produce/Pest Control inspector Grade I who has spent at least two years"
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Produce Superintendent",
+        "Grades": [
+          {
+            "Assistant Produce Superintendent-in-Training Grade Level 04": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications.West African School Certificate or Senior Secondary School Certificate preferably including passes in Chemistry and Mathematics. or General Certificate of Education with four credit passes obtained a sitting or five credit passes obtained at two sitting preferably Chemistry and Mathematics."
+              ],
+              "AdvancementPath": "Promotion to Assistant Produce Superintendent"
+            }
+          },
+          {
+            "Assistant Produce Superintendent Grade Level 06": {
+            
+              "EntryRequirements": [
+
+                "By advancement of suitable Assistant Produce Superintendent-in-Training has successfully completed the training course specified in their grade level",
+                "By promotion of a confirmed and outstanding Senior Produce/Pest Control Inspector Grade II.",
+                "By direct appointment of a candidate possessing the General Certif1C Education (Advanced Level) in two subjects preferably including Economic, Agriculture, Biology, Physics, Chemistry, Geography or Mathematics obtain at one sitting or three subjects at two sittings."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Produce Superintendent"
+            }
+          },
+          {
+            "Produce Superintendent Grade Level 07": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Assistant Produce Superintendent has spent at least two years on the grade.",
+                "By promotion of a confirmed and suitable Senior Produce/Pest Control Inspector Grade I or lateral transfer of a suitable Chief Produce/Pest Control Inspector"
+              ],
+              "AdvancementPath": "Promotion to Higher Produce Superintendent"
+            }
+          },
+          {
+            "Higher Produce Superintendent Grade Level 08": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Produce Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing H.N.D in Agriculture Recognized Institution."
+              ],
+              "AdvancementPath": "Promotion to Senior Produce Superintendent"
+            }
+          },
+          {
+            "Senior Produce Superintendent Grade Level 09": {
+            
+              "EntryRequirements": [
+              "By promotion of a suitable Higher Produce Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing H.N.D in Agriculture Recognized Institution plus at least three years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Principal Produce Superintendent Grade II"
+            }
+          },
+          {
+            "Principal Produce Superintendent Grade II Grade Level 10": {
+            
+              "EntryRequirements": [
+               "By promotion of a confirmed and suitable Senior Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least six  years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade I"
+            }
+          },
+          {
+            "Principal Produce Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Produce Superintendent Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Produce Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Produce Superintendent Grade Level 13": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Produce Superintendent Grade I who spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Produce Superintendent"
+            }
+          },
+          {
+            "Chief Produce Superintendent Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Produce Superintendent who Spent at least three years or the Grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Produce Officer",
+        "Grades": [
+          {
+            "Produce Officer Grade II Grade Level 08": {
+            
+              "EntryRequirements": [
+                "By direct appointment .f a candidate possessing a degree in Agriculture or Biological Science from a recognized University."
+              ],
+              "AdvancementPath": "Promotion to Produce Officer Grade I"
+            }
+          },
+          {
+            "Produce Officer Grade I Grade Level 09": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Produce Officer Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Agriculture Biological Science from a recognized University plus at least three year’s Post- qualification cognate experience."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Produce Officer"
+            }
+          },
+          {
+            "Senior Produce Officer Grade Level 10": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Produce Officer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Agriculture Biological Science from a recognized University plus at least six year’s Post- qualification cognate experience."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Principal Produce Officer"
+            }
+          },
+          {
+            "Principal Produce Officer Grade Level 12": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Produce Officer who has at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Produce Officer"
+            }
+          },
+          {
+            "Assistant Chief Produce Officer Grade level 13": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Principal Produce Officer who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Produce Officer"
+            }
+          },
+          {
+            "Chief Produce Officer Grade Level 14": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Chief Produce Officer who has spent least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Director"
+            }
+          },
+          {
+            "Assistant Director Grade Level 15": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Chief Produce Officer who has spent at least years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
+            }
+          },
+          {
+            "Deputy Director/Director (States) Grade Level 16": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Director who has spent at least four on the grade."
+              ],
+              "AdvancementPath": "Promotion to Director"
+            }
+          },
+          {
+            "Director Grade Level 17": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Deputy Director who has spent at least four year the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Tsetse Fly Control Attendant",
+        "Grades": [
+          {
+            "Tsetse Fly Control Attendant Grade III Grade Level 01": {
+            
+              "EntryRequirements": [
+                "By direct appointment of any candidate who is mentally and physically fit"
+              ],
+              "AdvancementPath": "Promotion to Tsetse Fly Control Attendant Grade II"
+            }
+          },
+          {
+            "Tsetse Fly Control Attendant Grade II Grade Level 02": {
+            
+              "EntryRequirements": [
+
+                "By direct promotion of a Tsetse Fly Control Attendant Grade III who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing the First School Leaving Certificate."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Tsetse Fly Control Attendant Grade I"
+            }
+          },
+          {
+            "Tsetse Fly Control Attendant Grade I Grade Level 03": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Tsetse Fly Control Attendant Grade II who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+          
+        ]
+      },
+
+
+      {
+        "Cadre": "Tsetse Fly Control overseer",
+        "Grades": [
+          {
+            "Assistant Tsetse Fly Control Overseer Grade Level 03": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following qualifications.Evidence of con Action of a full course in a Government approved Secondary School or S. 75 or JSSC. or General Certificate of Education (Ordinary Level) with three credit passes obtained at one or two sittings."
+              ],
+              "AdvancementPath": "Promotion to Tsetse Fly Control overseer"
+            }
+          },
+          {
+            "Tsetse Fly Control overseer Grade Level 04": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Assistant Tsetse Fly Control overseer has successfully completed the training course specified in their grade level",
+                "By promotion of a confirmed and suitable Tsetse Fly Control Attendant Grade I who has passed the Tsetse Fly Control Overseer Confirmation/Promotion Test at promotion level (i.e. 50%).",
+                "By direct appointment of a candidate possessing the West African School Certificate/Senior Secondary School Certificate or the General Certificate of Education (Ordinary Level) with four credit passes or five credit passes obtained at one or two sittings respectively."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Senior Tsetse Fly Control Overseer"
+            }
+          },
+          {
+            "Senior Tsetse Fly Control Overseer Grade Level 05": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Tsetse Fly Control Overseer who his spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing the West African School Certificate/Senior Secondary School Certificate or the General Certificate of Education (Ordinary Level) with four credit passes or five credit passes obtained at one or two sittings respectively. plus at least two years cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Tsetse Fly Control Overseer Grade I"
+            }
+          },
+          {
+            "Assistant Chief Tsetse Fly Control Overseer Grade I Grade Level 06": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a confirmed and suitable Senior Tsetse Fly Control Overseer who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Tsetse Fly Control Overseer"
+            }
+          },
+          {
+            "Chief Tsetse Fly Control Overseer Grade Level 07": {
+            
+              "EntryRequirements": [
+
+                "By promotion of a suitable Assistant Chief Tsetse Fly Control Overseer who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Tsetse Fly Control Superintendent",
+        "Grades": [
+          {
+            "Assistant Tsetse Fly Control Superintendent-In-Training Grade Level 04": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the of qualifications:-West African School Certificate or Senior Secondary School C preferably including Chemistry. or General Certificate of Education (Ordinary Level) with four credit obtained at one sitting or five credits obtained at two sittings preferably including Chemistry."
+              ],
+              "AdvancementPath": "Promotion to Assistant Tsetse Fly Control Superintendent"
+            }
+          },
+          {
+            "Assistant Tsetse Fly Control Superintendent Grade Level 06(Step 2)": {
+            
+              "EntryRequirements": [
+
+                "By advancement of an assistant Tsetse Fly Control Superintendent-in-Training who has successfully completed the training course for Assistant Control Superintendent.",
+                "By promotion of a confirmed and outstanding Senior Tsetse Fly Overseer.",
+                "By direct appointment of a candidate who has successfully completed two-year course for Assistant Tsetse fly Control Superintendent at a recognised Institution."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Tsetse Fly Control Superintendent"
+            }
+          },
+          {
+            "Tsetse Fly Control Superintendent Grade Level 07(Step 2)": {
+            
+              "EntryRequirements": [
+                "By advancement of a suitable Assistant Tsetse Fly Control superintendent who has successfully completed the Diploma Course for Tsetse Fly Control superintendent Cadre at a recognised Institution.",
+                "By promotion of a confirmed and suitable Assistant Tsetse Fly Control Superintendent who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Higher Tsetse Fly Control Superintendent"
+            }
+          },
+          {
+            "Higher Tsetse Fly Control Superintendent Grade level 08": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Tsetse Fly Control Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a relevant Higher National Diploma from a recognised Institution."
+              ],
+              "AdvancementPath": "Promotion to Senior Tsetse Fly Control Superintendent"
+            }
+          },
+          {
+            "Senior Tsetse Fly Control Superintendent Grade Level 09": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Higher Tsetse Fly Control Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a relevant Higher National Diploma from a recognised Institution. plus at least three years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Principal Tsetse Fly Control Superintendent Grade II"
+            }
+          },
+          {
+            "Principal Tsetse Fly Control Superintendent Grade II Grade Level 10": {
+            
+              "EntryRequirements": [
+               "By promotion of a confirmed and suitable Senior Tsetse Fly Control Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a relevant Higher National Diploma from a recognised Institution. plus at least six years’ post-qualification cognate experience."
+              ],
+              "AdvancementPath": "Promotion to Principal Tsetse Fly Control Superintendent Grade I"
+            }
+          },
+          {
+            "Principal Tsetse Fly Control Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Tsetse Fly Control Superintendent Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Tsetse Fly Control Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Tsetse Fly Control Superintendent Grade Level 13": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Tsetse Fly Control Superintendent Grade I who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Tsetse Fly Control Superintendent"
+            }
+          },
+          {
+            "Chief Tsetse Fly Control Superintendent Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Tsetse Fly Control Superintendent who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Livestock Superintendent",
+        "Grades": [
+          {
+            "Assistant Livestock Superintendent-In-Training Grade Level 04": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following;General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes at two sittings preferably, including cats Natural Science subject or Senior Secondary School Certificate or West African School Certificate, preferably including one Natural Science subject"
+              ],
+              "AdvancementPath": "Promotion to Assistant Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Livestock Superintendent Grade Level 06": {
+            
+              "EntryRequirements": [
+
+                "By advancement of a suitable Assistant Livestock Superintendent-in-Training or  livestock overseer who has successfully completed the training for Assistant Livestock Superintendent at a recognized Veterinary School or Animal Health Institution.",
+                "By direct appointment of a candidate possessing OND or who has Successfully completed the two-Ye& training course for Assistant Livestock Superintendent in a recognized Veterinary School or Animal Health Institution."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Livestock Superintendent"
+            }
+          },
+          {
+            "Livestock Superintendent Grade Level 07": {
+            
+              "EntryRequirements": [
+                "By advancement of a suitable Assistant Livestock who has successfully completed the Diploma Course for Livestock SupeTintet1t in recognised Veterinary School or Animal Health Husbandry, Institution.",
+                "By promotion of a confirmed and suitable Assistant Livestock Supeintend0 who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Higher Livestock Superintendent"
+            }
+          },
+          {
+            "Higher Livestock Superintendent Grade level 08": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture."
+              ],
+              "AdvancementPath": "Promotion to Senior Livestock Superintendent"
+            }
+          },
+          {
+            "Senior Livestock Superintendent Grade Level 09": {
+            
+              "EntryRequirements": [
+              "By promotion of a confirmed and suitable Higher Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade II"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade II Grade Level 10": {
+            
+              "EntryRequirements": [
+               "By promotion of a confirmed and suitable Senior Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least six  years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade I"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion a confirmed and suitable Principal Livestock Superintendent who Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Livestock Superintendent Grade Level 13": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Livestock Superintendent Grade I who spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Chief Livestock Superintendent Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Livestock Superintendent who spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Livestock Superintendent",
+        "Grades": [
+          {
+            "Assistant Livestock Superintendent-In-Training Grade Level 04": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following;General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes at two sittings preferably, including cats Natural Science subject or Senior Secondary School Certificate or West African School Certificate, preferably including one Natural Science subject"
+              ],
+              "AdvancementPath": "Promotion to Assistant Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Livestock Superintendent Grade Level 06": {
+            
+              "EntryRequirements": [
+
+                "By advancement of a suitable Assistant Livestock Superintendent-in-Training or  livestock overseer who has successfully completed the training for Assistant Livestock Superintendent at a recognized Veterinary School or Animal Health Institution.",
+                "By direct appointment of a candidate possessing OND or who has Successfully completed the two-Ye& training course for Assistant Livestock Superintendent in a recognized Veterinary School or Animal Health Institution."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Livestock Superintendent"
+            }
+          },
+          {
+            "Livestock Superintendent Grade Level 07": {
+            
+              "EntryRequirements": [
+                "By advancement of a suitable Assistant Livestock who has successfully completed the Diploma Course for Livestock SupeTintet1t in recognised Veterinary School or Animal Health Husbandry, Institution.",
+                "By promotion of a confirmed and suitable Assistant Livestock Supeintend0 who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Higher Livestock Superintendent"
+            }
+          },
+          {
+            "Higher Livestock Superintendent Grade level 08": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture."
+              ],
+              "AdvancementPath": "Promotion to Senior Livestock Superintendent"
+            }
+          },
+          {
+            "Senior Livestock Superintendent Grade Level 09": {
+            
+              "EntryRequirements": [
+              "By promotion of a confirmed and suitable Higher Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade II"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade II Grade Level 10": {
+            
+              "EntryRequirements": [
+               "By promotion of a confirmed and suitable Senior Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least six  years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade I"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion a confirmed and suitable Principal Livestock Superintendent who Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Livestock Superintendent Grade Level 13": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Livestock Superintendent Grade I who spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Chief Livestock Superintendent Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Livestock Superintendent who spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Livestock Superintendent",
+        "Grades": [
+          {
+            "Assistant Livestock Superintendent-In-Training Grade Level 04": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following;General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes at two sittings preferably, including cats Natural Science subject or Senior Secondary School Certificate or West African School Certificate, preferably including one Natural Science subject"
+              ],
+              "AdvancementPath": "Promotion to Assistant Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Livestock Superintendent Grade Level 06": {
+            
+              "EntryRequirements": [
+
+                "By advancement of a suitable Assistant Livestock Superintendent-in-Training or  livestock overseer who has successfully completed the training for Assistant Livestock Superintendent at a recognized Veterinary School or Animal Health Institution.",
+                "By direct appointment of a candidate possessing OND or who has Successfully completed the two-Ye& training course for Assistant Livestock Superintendent in a recognized Veterinary School or Animal Health Institution."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Livestock Superintendent"
+            }
+          },
+          {
+            "Livestock Superintendent Grade Level 07": {
+            
+              "EntryRequirements": [
+                "By advancement of a suitable Assistant Livestock who has successfully completed the Diploma Course for Livestock SupeTintet1t in recognised Veterinary School or Animal Health Husbandry, Institution.",
+                "By promotion of a confirmed and suitable Assistant Livestock Supeintend0 who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Higher Livestock Superintendent"
+            }
+          },
+          {
+            "Higher Livestock Superintendent Grade level 08": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture."
+              ],
+              "AdvancementPath": "Promotion to Senior Livestock Superintendent"
+            }
+          },
+          {
+            "Senior Livestock Superintendent Grade Level 09": {
+            
+              "EntryRequirements": [
+              "By promotion of a confirmed and suitable Higher Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade II"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade II Grade Level 10": {
+            
+              "EntryRequirements": [
+               "By promotion of a confirmed and suitable Senior Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least six  years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade I"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion a confirmed and suitable Principal Livestock Superintendent who Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Livestock Superintendent Grade Level 13": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Livestock Superintendent Grade I who spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Chief Livestock Superintendent Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Livestock Superintendent who spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Livestock Superintendent",
+        "Grades": [
+          {
+            "Assistant Livestock Superintendent-In-Training Grade Level 04": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following;General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes at two sittings preferably, including cats Natural Science subject or Senior Secondary School Certificate or West African School Certificate, preferably including one Natural Science subject"
+              ],
+              "AdvancementPath": "Promotion to Assistant Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Livestock Superintendent Grade Level 06": {
+            
+              "EntryRequirements": [
+
+                "By advancement of a suitable Assistant Livestock Superintendent-in-Training or  livestock overseer who has successfully completed the training for Assistant Livestock Superintendent at a recognized Veterinary School or Animal Health Institution.",
+                "By direct appointment of a candidate possessing OND or who has Successfully completed the two-Ye& training course for Assistant Livestock Superintendent in a recognized Veterinary School or Animal Health Institution."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Livestock Superintendent"
+            }
+          },
+          {
+            "Livestock Superintendent Grade Level 07": {
+            
+              "EntryRequirements": [
+                "By advancement of a suitable Assistant Livestock who has successfully completed the Diploma Course for Livestock SupeTintet1t in recognised Veterinary School or Animal Health Husbandry, Institution.",
+                "By promotion of a confirmed and suitable Assistant Livestock Supeintend0 who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Higher Livestock Superintendent"
+            }
+          },
+          {
+            "Higher Livestock Superintendent Grade level 08": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture."
+              ],
+              "AdvancementPath": "Promotion to Senior Livestock Superintendent"
+            }
+          },
+          {
+            "Senior Livestock Superintendent Grade Level 09": {
+            
+              "EntryRequirements": [
+              "By promotion of a confirmed and suitable Higher Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade II"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade II Grade Level 10": {
+            
+              "EntryRequirements": [
+               "By promotion of a confirmed and suitable Senior Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least six  years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade I"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion a confirmed and suitable Principal Livestock Superintendent who Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Livestock Superintendent Grade Level 13": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Livestock Superintendent Grade I who spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Chief Livestock Superintendent Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Livestock Superintendent who spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Livestock Superintendent",
+        "Grades": [
+          {
+            "Assistant Livestock Superintendent-In-Training Grade Level 04": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following;General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes at two sittings preferably, including cats Natural Science subject or Senior Secondary School Certificate or West African School Certificate, preferably including one Natural Science subject"
+              ],
+              "AdvancementPath": "Promotion to Assistant Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Livestock Superintendent Grade Level 06": {
+            
+              "EntryRequirements": [
+
+                "By advancement of a suitable Assistant Livestock Superintendent-in-Training or  livestock overseer who has successfully completed the training for Assistant Livestock Superintendent at a recognized Veterinary School or Animal Health Institution.",
+                "By direct appointment of a candidate possessing OND or who has Successfully completed the two-Ye& training course for Assistant Livestock Superintendent in a recognized Veterinary School or Animal Health Institution."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Livestock Superintendent"
+            }
+          },
+          {
+            "Livestock Superintendent Grade Level 07": {
+            
+              "EntryRequirements": [
+                "By advancement of a suitable Assistant Livestock who has successfully completed the Diploma Course for Livestock SupeTintet1t in recognised Veterinary School or Animal Health Husbandry, Institution.",
+                "By promotion of a confirmed and suitable Assistant Livestock Supeintend0 who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Higher Livestock Superintendent"
+            }
+          },
+          {
+            "Higher Livestock Superintendent Grade level 08": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture."
+              ],
+              "AdvancementPath": "Promotion to Senior Livestock Superintendent"
+            }
+          },
+          {
+            "Senior Livestock Superintendent Grade Level 09": {
+            
+              "EntryRequirements": [
+              "By promotion of a confirmed and suitable Higher Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade II"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade II Grade Level 10": {
+            
+              "EntryRequirements": [
+               "By promotion of a confirmed and suitable Senior Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least six  years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade I"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion a confirmed and suitable Principal Livestock Superintendent who Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Livestock Superintendent Grade Level 13": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Livestock Superintendent Grade I who spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Chief Livestock Superintendent Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Livestock Superintendent who spent at least three years on the grade."
+              ],
+              "AdvancementPath": ""
+            }
+          }
+        ]
+      },
+
+
+      {
+        "Cadre": "Livestock Superintendent",
+        "Grades": [
+          {
+            "Assistant Livestock Superintendent-In-Training Grade Level 04": {
+            
+              "EntryRequirements": [
+                "By direct appointment of a candidate possessing any of the following;General Certificate of Education (Ordinary Level) with four credit passes obtained at one sitting or five credit passes at two sittings preferably, including cats Natural Science subject or Senior Secondary School Certificate or West African School Certificate, preferably including one Natural Science subject"
+              ],
+              "AdvancementPath": "Promotion to Assistant Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Livestock Superintendent Grade Level 06": {
+            
+              "EntryRequirements": [
+
+                "By advancement of a suitable Assistant Livestock Superintendent-in-Training or  livestock overseer who has successfully completed the training for Assistant Livestock Superintendent at a recognized Veterinary School or Animal Health Institution.",
+                "By direct appointment of a candidate possessing OND or who has Successfully completed the two-Ye& training course for Assistant Livestock Superintendent in a recognized Veterinary School or Animal Health Institution."
+              
+              
+              ],
+              "AdvancementPath": "Promotion to Livestock Superintendent"
+            }
+          },
+          {
+            "Livestock Superintendent Grade Level 07": {
+            
+              "EntryRequirements": [
+                "By advancement of a suitable Assistant Livestock who has successfully completed the Diploma Course for Livestock SupeTintet1t in recognised Veterinary School or Animal Health Husbandry, Institution.",
+                "By promotion of a confirmed and suitable Assistant Livestock Supeintend0 who has spent at least two years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Higher Livestock Superintendent"
+            }
+          },
+          {
+            "Higher Livestock Superintendent Grade level 08": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture."
+              ],
+              "AdvancementPath": "Promotion to Senior Livestock Superintendent"
+            }
+          },
+          {
+            "Senior Livestock Superintendent Grade Level 09": {
+            
+              "EntryRequirements": [
+              "By promotion of a confirmed and suitable Higher Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade II"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade II Grade Level 10": {
+            
+              "EntryRequirements": [
+               "By promotion of a confirmed and suitable Senior Livestock Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least six  years’ post-qualification cognate experience"
+              ],
+              "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade I"
+            }
+          },
+          {
+            "Principal Livestock Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion a confirmed and suitable Principal Livestock Superintendent who Grade II who has spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Livestock Superintendent Grade Level 13": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Principal Livestock Superintendent Grade I who spent at least three years on the grade."
+              ],
+              "AdvancementPath": "Promotion to Chief Livestock Superintendent"
+            }
+          },
+          {
+            "Chief Livestock Superintendent Grade Level 14": {
+            
+              "EntryRequirements": [
+                "By promotion of a suitable Assistant Chief Livestock Superintendent who spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
           }
         ]
       }
+
 
     ],
 
