@@ -1,0 +1,706 @@
+
+{
+  "document_metadata": {
+    "title": "Federal Government Public Service Rules",
+    "edition": "2008 Edition",
+    "publication_info": {
+      "gazette": "Federal Republic of Nigeria Official Gazette",
+      "issue_number": "No. 57",
+      "date": "25th August, 2009",
+      "volume": "Vol. 96",
+      "government_notice": "Government Notice No. 278",
+      "publisher": "Federal Government Printer, Abuja, Nigeria",
+      "reference_code": "FGP 85/820091700(OL 51)"
+    },
+    "subscription_info": {
+      "annual_local": "N 15,000.00",
+      "annual_overseas_surface": "N 21,500.00",
+      "annual_overseas_air": "N 24,500.00",
+      "single_issue": "N 1,000.00 per copy"
+    }
+  },
+  "foreword": {
+    "author": "Umar Musa Yar'Adua, GCFR",
+    "position": "President of the Federal Republic of Nigeria",
+    "date": "State House, Abuja",
+    "content": "This Edition of the Public Service Rule is a review of the 2007 Edition, which is principally intended to update the rules, regulations and procedures in the Public Service and bring them in line with the current trend in governance. The revision of this strategic document of the Public Service on a regular basis is necessary in order to make the service conform with changing times and circumstances. The objective, therefore, is to effectively reposition the service for higher level of efficiency, effectiveness and enhanced service delivery.\n\nThe main thrust of the 2008 Edition of the Public Service Rules is to ensure that the fundamental ethical issues in the Public Service are strictly adhered to. It is, therefore, aimed at entrenching the issues of transparency, accountability, justice, equity, due process, and the rule of law. All these are very paramount to the conduct of Government business, which all Public Servants must imbibe.\n\nAs the machinery through which Government articulates and implements its policies and programmes, the Public Service needs to be provided with the enabling environment to play this pivotal role effectively; although the removal of obsolete rules and regulations as well as the entrenchment of the core values and professional standards of the Service. The long term goals of this review, therefore, is to achieve our national development agenda and collective goal of becoming one of the 20 leading industrialized nations of the world by 2020 through a focused and vibrant Public Service.\n\nI, therefore, urge all Public Servants to acquaint themselves with these Rules and Regulations as well as other extant laws for effective Public Service administration and to ensure their application in a manner that would enhance the smooth functioning of the Public Service."
+  },
+  "preamble": {
+    "author": "A. I. Pepple, CFR",
+    "position": "Head of the Civil Service of the Federation, The Presidency, Abuja",
+    "content": "This particular edition has codified changes that became necessary as a result of the implementation of the social, economic and administrative reform programme that this Administration has been undertaking since its advent in May 1999. These reforms include the contributory pension scheme; monetization; due process; public sector procurement; wage and salaries adjustments and awards; etc.\n\nPublic Servants are implored to study and imbibe these Rules and their associated and complementary Instructions and Notices, and to become familiar with all Laws and Procedures guiding the conduct of public administration and financial management in order to ensure due process and probity in the conduct of Government business.\n\nThe following should be taken into account while going through these Rules:\n1. Method of Numbering: Each rule has been given a number containing six digits. The first two indicate the Chapter; the next two, the Section; and the last two, the Rule Number.\n2. Arrangement of Chapters, Sections and Rules: There are sixteen(16) Chapters arranged as listed in the Table of Contents. Under each Chapter, is written the Sections ranging from 01-09. At the right hand corner, the titles of the rules are indicated. Except where otherwise indicated by the context, the Index at the back contains the list of topics with their corresponding rule numbers.\n3. Amendments: Further amendments to these Rules shall be made through Circulars, which will be issued from time to time.\n4. Review of the Public Service Rules: Public Service Rules shall be reviewed every five years to update the provisions of the rules.\n\nThis Public Service Rules should be widely circulated to all categories of Public Servants, and Nigerian citizens from all walks of life are also encouraged to avail themselves of its contents."
+  },
+  "table_of_contents": [
+    {
+      "chapter": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter": 2,
+      "title": "Appointments and Leaving the Service"
+    },
+    {
+      "chapter": 3,
+      "title": "Discipline"
+    },
+    {
+      "chapter": 4,
+      "title": "Emoluments and Increments"
+    },
+    {
+      "chapter": 5,
+      "title": "Annual Performance Evaluation Reports(APER) and Certificate of Service"
+    },
+    {
+      "chapter": 6,
+      "title": "Examinations in Law and Official Publications"
+    },
+    {
+      "chapter": 7,
+      "title": "Medical and Dental Procedures"
+    },
+    {
+      "chapter": 8,
+      "title": "Compensation, Insurance and Personal Effects"
+    },
+    {
+      "chapter": 9,
+      "title": "Petitions and Appeals"
+    },
+    {
+      "chapter": 10,
+      "title": "Leave"
+    },
+    {
+      "chapter": 11,
+      "title": "Free Transport Facilities within Nigeria"
+    },
+    {
+      "chapter": 12,
+      "title": "Courses of Instruction Within and Outside Nigeria"
+    },
+    {
+      "chapter": 13,
+      "title": "Allowances"
+    },
+    {
+      "chapter": 14,
+      "title": "Petitions and Award Committee"
+    },
+    {
+      "chapter": 15,
+      "title": "Reward or Outstanding Service"
+    },
+    {
+      "chapter": 16,
+      "title": "Application of Public Service Rules to Federal Government Parastatals"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction",
+      "rules": [
+        {
+          "rule_number": "010101",
+          "title": "Application",
+          "content": "It shall be the duty of every officer to acquaint himself/herself with the Public Service Rules, other regulations and extant circulars. These Public Service Rules apply to all officers except where they conflict with specific terms approved by the Federal Government and written into the contract of employment or letters of appointment. In so far as the holders of the offices of: The President; The Vice President; Chief Justice of Nigeria; Justices of the Supreme Court; President and Justices of the Court of Appeal; Chief Judge and Judges of the High Court of the Federal Capital Territory; Grand Khadi and Khadis of the Sharia Court of Appeal of the Federal Capital Territory; President and Judges of the Customary Court of Appeal of the Federal Capital Territory; The Chairmen and Members of the following statutory bodies, namely: The Code of Conduct Bureau; The Federal Civil Service Commission; The Independent National Electoral Commission; The Federal Character Commission; The Code of Conduct Tribunal; The Revenue Mobilisation, Allocation and Fiscal Commission; The National Population Commission; The Police Service Commission; The Auditor-General for the Federation; And any other similar organs that derive their appointments from the Constitution of the Federal Republic of Nigeria are concerned, these Rules apply only to the extent that they are not inconsistent with the provisions of the Constitution of the Federal Republic of Nigeria in so far as their conditions of service and any other law applicable to these officers are concerned."
+        },
+        {
+          "rule_number": "010102",
+          "title": "Special Definitions",
+          "content": "The special meanings with which various words and terms are used for the purpose of particular Chapters and Sections in these Public Service Rules are quoted at the beginning of such Chapters or Sections."
+        },
+        {
+          "rule_number": "010103",
+          "title": "General Definitions",
+          "content": "Except where otherwise indicated by the context or in special definitions for particular Chapters the following words and terms are used with the following meanings wherever they occur in these Public Service Rules.",
+          "definitions": [
+            {
+              "term": "Accredited Representative of the Federal Republic of Nigeria",
+              "definition": "means the Diplomatic or Consular Representative of the Federal Republic of Nigeria within the area."
+            },
+            {
+              "term": "Emolument",
+              "definition": "is the total remuneration package as conveyed in the letter of appointment."
+            },
+            {
+              "term": "Child(of a Public Servant)",
+              "definition": "means a child who: (a) is under the age of 18 years; and (b)(i) is the officer's biological off-spring; or (ii) the officer's step-child being the biological offspring of a spouse of the officer; or (iii) a child adopted by the officer in accordance with any statutory provision; and (c) is entirely dependent on the officer."
+            },
+            {
+              "term": "Civil Service",
+              "definition": "is a body or organ which enjoys continuity of existence. Essentially, it covers Ministries and Extra-Ministerial Offices."
+            },
+            {
+              "term": "Classified Correspondence",
+              "definition": "means correspondence which has been graded Restricted, Confidential, Secret or Top Secret."
+            },
+            {
+              "term": "Established Post",
+              "definition": "means a post provided for under the Personal Emoluments sub-head of the estimates."
+            },
+            {
+              "term": "Gazette",
+              "definition": "means the Federal Republic of Nigeria Official Gazette"
+            },
+            {
+              "term": "General Executive Cadre",
+              "definition": "Comprises Officers holding post of: Chief Executive Officer, GL.14; Assistant Chief Executive Officer GL.13; Principal Executive Officer I, GL.12; Principal Executive Officer II, GL.10; Senior Executive Officer, GL.09; Higher Executive Officer, GL.08; Executive Officer, GL.07; Assistant Executive Officer, GL.06. It also includes officers holding corresponding\"Executive\" posts, e.g. Executive Officer(Accounts)."
+            },
+            {
+              "term": "Head of Department",
+              "definition": "means a Permanent Secretary/Head of Extra-Ministerial Office."
+            },
+            {
+              "term": "Junior Officer",
+              "definition": "means a pensionable officer on GL. 06, and below."
+            },
+            {
+              "term": "Junior Posts",
+              "definition": "are posts in Ministries/ Extra Ministerial Offices attracting emoluments on Grade Level 06 and below."
+            },
+            {
+              "term": "Ministry",
+              "definition": "includes Extra-Ministerial Offices."
+            },
+            {
+              "term": "Monthly-Rated",
+              "definition": "means employment on monthly rates of pay."
+            },
+            {
+              "term": "Nigerian Home Place",
+              "definition": "means the place in Nigeria accepted in writing by Government as the place to which a staff would naturally wish to return when spending his leave in Nigeria."
+            },
+            {
+              "term": "Nigerian Officer",
+              "definition": "means an officer other than an expatriate."
+            },
+            {
+              "term": "Officer",
+              "definition": "when used without qualification means staff in an established post, either on pensionable or contract terms"
+            },
+            {
+              "term": "Expatriate Officer",
+              "definition": "means a staff who ranks as such for the purpose of pension in accordance with the Pension Reform Act 2004"
+            },
+            {
+              "term": "Secretarial Pool",
+              "definition": "is a pool of stenographic officers for posting to any ministry or extra-ministerial office as required. It is controlled by the Permanent Secretary, Public Service Office, Office of the Head of Civil Service of the Federation"
+            },
+            {
+              "term": "Senior Posts",
+              "definition": "are posts attracting emoluments on Grade Level GL.07 and above and other posts attracting fixed emoluments of equivalent Grade Levels in Ministries/Extra-Ministerial Offices."
+            },
+            {
+              "term": "Staff",
+              "definition": "means a person employed by the Federal Government."
+            },
+            {
+              "term": "Temporary Officer",
+              "definition": "means a staff employed temporarily in an established post on non-pensionable terms."
+            },
+            {
+              "term": "Trainee",
+              "definition": "means a person appointed to a training post in any grade; it includes\"pupil\"."
+            },
+            {
+              "term": "Wife/Husband(of an officer)",
+              "definition": "means a spouse married under the Marriage Act, Customary Law or Islamic Law."
+            },
+            {
+              "term": "Interdiction",
+              "definition": "When a serious case that may lead to dismissal has been instituted against an officer, the Permanent Secretary may interdict and place him on half pay pending the determination of the case."
+            },
+            {
+              "term": "Suspension",
+              "definition": "When disciplinary proceeding for a criminal case has been instituted or is about to be instituted against an officer, he shall be suspended from office without salary pending the determination of the case."
+            }
+          ]
+        },
+        {
+          "rule_number": "010104",
+          "title": "Application",
+          "content": "Nothing in these Public Service Rules shall be construed as limiting the powers of the Federal Government to amend or revoke any of its provisions at any time."
+        },
+        {
+          "rule_number": "010105",
+          "title": "Application of Public Service Rules to Female Servants",
+          "content": "Notwithstanding that throughout the Public Service Rules the terms'Officer' and'Staff are referred to in the masculine gender, the provisions of the Rules apply equally to Female Public Servants."
+        },
+        {
+          "rule_number": "010106",
+          "title": "Public Service Rules to form part of inventory items",
+          "content": "A copy of the Public Service Rules shall form part of the inventory of items in all offices of the Public Service."
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "Appointments and Leaving the Service",
+      "sections": [
+        {
+          "section_number": "01",
+          "title": "GENERAL APPOINTMENT",
+          "rules": [
+            {
+              "rule_number": "020101",
+              "title": "Authority for Appointment",
+              "content": "Appointments to public offices in the Federal Civil Service are made on the authority of the Federal Civil Service Commission. These appointments are made either: (a) by letter written under the direction of the Federal Civil Service Commission; or (b) by formal agreement between the officer and the Federal Government or its appointed agents. Subject to Rules 020205, 020206 and 020207- Permanent Secretaries/Heads of Extra-Ministerial Offices are authorized to appoint eligible candidates to posts in respect of which the powers of appointment have been delegated to them."
+            },
+            {
+              "rule_number": "020102",
+              "title": "Appointment by Federal Civil Service Commission",
+              "content": "(i) The Federal Civil Service Commission shall make appointment to posts graded GL.12- 17. Such appointment shall be made as the need arises into the available vacancies after advertisement. Officers intending to transfer their services shall take part in the annual Public Service Examinations for post GLS 07-10. (ii) Subject to modalities to be prescribed by the Federal Civil Service Commission from time to time, each Ministry/Extra-Ministerial Office shall select from the pool of successful candidates at the Civil Service Examination prescribed in Rule 020102. (iii) This shall be handled by the appropriate committees of each Ministry with the representatives of the Federal Civil Service Commission and Head of the Civil Service of the Federation at the meeting of the committees. (iv) There shall be an annual competitive Civil Service Entry Examination for posts graded GL. 07-10 for new entrants and serving Officers wishing to transfer from other scheduled services. This examination shall be conducted by the Federal Civil Service Commission in conjunction with the Office of the Head of Civil Service of the Federation, Administrative Staff College of Nigeria, and the Public Service Institute of Nigeria. (v) To qualify for this examination candidates must possess an Honours Degree or Higher National Diploma not below upper credit in relevant disciplines as provided for in the Schemes of Service. Final selection shall be made by the line Ministries/Extra Ministerial Offices in line with their requirements."
+            },
+            {
+              "rule_number": "020103",
+              "title": "Appointments into posts GL.06 and below",
+              "content": "(a) Each Ministries/Extra Ministerial Office shall appoint Junior Staff on GL. 06 and below. This shall be handled by the Junior Staff Committee of each Ministry/Office, with a representative of the Federal Civil Service Commission and the Head of the Civil Service of the Federation at any meeting of the committee, subject to the approval of the Permanent Secretary/Head of Extra Ministerial offices, (b) Appointment in the Federal Ministries/Extra-Ministerial Offices in the States shall be from the residents of that State who possess the qualifications prescribed in the approved Schemes of Service; (c) Each Ministries/Extra-Ministerial Office shall work out the actual establishment or requirements for each State Office. The Junior Staff Committee(Local) shall conduct the interview to appoint the officers, subject to approval of the Permanent Secretary/Head of Extra Ministerial offices."
+            },
+            {
+              "rule_number": "020104",
+              "title": "Promotions to all Posts",
+              "content": "Promotions to all posts in the Federal Public Service other than those of Permanent Secretaries are vested in the Federal Civil Service Commission which, has however, authorized Permanent Secretaries/ Heads of Extra- Ministerial Offices to promote eligible candidates to posts in respect of which the powers of appointment have been delegated."
+            },
+            {
+              "rule_number": "020105",
+              "title": "Incremental Date",
+              "content": "The incremental date of an officer appointed or promoted to a post in the Federal Public Service shall be 1st January of every year provided such officer has spent at least six(6) months on the Grade with good performance before enjoying the increment."
+            },
+            {
+              "rule_number": "020106",
+              "title": "Seniority",
+              "content": "Seniority in any department shall be determined by the entry date/the assumption of duty certified by an authorized officer as reflected in the appropriate register."
+            },
+            {
+              "rule_number": "020107",
+              "title": "Unpaid Staff Prohibited",
+              "content": "The employment of unpaid staff is prohibited."
+            },
+            {
+              "rule_number": "020108",
+              "title": "Personal Records",
+              "content": "(i) Permanent Secretaries/Heads of Extra-Ministerial Offices shall keep an up-to-date record of every officer under their control. Staff Record. Form Gen 60 shall be used and one copy must be sent to the Central Staff Records Office in the Office of the Head of Civil Service of the Federation, Offices of the Accountant General of the Federation and Auditor General for the Federation, National Pension Commission within one month of the appointment. Form Gen 60 shall be completed in ink. (ii) Date of birth recorded on appointment by an officer shall not be changed throughout the career of the officer. Any contravention shall be regarded as an act of serious misconduct"
+            }
+          ]
+        },
+        {
+          "section_number": "02",
+          "title": "RECRUITMENT",
+          "rules": [
+            {
+              "rule_number": "020201",
+              "title": "Definition",
+              "content": "\"Recruitment\" means the filling of vacancies by the appointment of persons not already in the Public Service of the Federal Republic of Nigeria. It, however, excludes the transfer of officers from other Public Service in the Federation to the Federal Public Service."
+            },
+            {
+              "rule_number": "020202",
+              "title": "Types of Appointment",
+              "content": "Direct appointment to the Federal Public Service may be in any of the following categories: (a) as trainees or pupils, (b) on probation in a pensionable post; (c) on non-pensionable contract to a non-pensionable post, or against a pensionable post for a specified period. (d) on temporary basis other than(c). When posts prove difficult to fill, they shall normally be advertised."
+            },
+            {
+              "rule_number": "020203",
+              "title": "Trainee",
+              "content": "(a) When a candidate for employment requires additional professional experience before he can be regarded as fully qualified for appointment to a specific post, the candidate may be appointed as a trainee or pupil for a normal service of two years in the post. This period may however, be reduced in special circumstances. On completion of the \"trainee period\" the pupil may be appointed to the full grade on probation and will not be eligible for confirmation in the service until he/she has fulfilled the conditions laid down in Rule 020302 where applicable. (b) A confirmed officer who is advanced to the training grade for the purpose of acquiring the necessary experience to qualify him/her for substantive promotion to a senior post will be treated as if he/she had been seconded thereto and the period of such secondment will not normally exceed the period laid down for the training except with the special advice of the Office of Establishments and Pension."
+            },
+            {
+              "rule_number": "020204",
+              "title": "Probation",
+              "content": "Except where the Federal Civil Service Commission decides otherwise, all first appointments to the pensionable establishment in posts other than trainee post(see Rule 020203) will be on probation. An officer confirmed in a lower pensionable office will not however be regarded as on probation in a higher post to which he/she is promoted nor will an officer seconded or transferred as confirmed officer from pensionable service elsewhere."
+            },
+            {
+              "rule_number": "020205",
+              "title": "Eligibility for Appointment",
+              "content": "To be eligible for appointment into the Federal Public Service, every applicant must: (a) not be less than 18 years and not more than 50 years of age; (b) possess such minimum qualification as may be specified from time to time including computer literacy.; (c) be certified by an authorized HealthCare Provider as medically fit for Government Service; (d) possess a testimonial of good conduct from last employer or if not previously employed, from the last school or college attended; and (e) possess requisite qualifications as provided for in the scheme of service. (f) No officer shall be appointed into the Federal Public Service without authorization for appointment from the Office of the Head of the Civil Service of the Federation and supervisory Boards in the case of Parastatals."
+            },
+            {
+              "rule_number": "020206",
+              "title": "Prior Approval in Certain Cases",
+              "content": "(a) no candidate shall be appointed to any post in the Federal Public Service without the prior specific approval of the Federal Civil Service Commission if: (i) the candidate has been convicted of a criminal offence; or (ii) he/she has previously been employed in government Service and been dismissed or called upon to resign or retire there from. Such approval must always be obtained irrespective of any delegation of the Commission's powers (iii) In view of Rule(a) above, every applicant for employment by Government must state: (i) Whether he/she has been convicted of a criminal offence; (ii) all employment he/she has engaged in; and (a) if he/she has left any employment, why he/ she did so; or (b) if he/she is still in any employment and whether he/she is under any obligation to remain in it; (iii) whether he/she is free from financial embarrassment."
+            },
+            {
+              "rule_number": "020207",
+              "title": "Procedure for Appointment",
+              "content": "(a) All applicants for senior posts shall complete form FC.2 to be submitted to the Federal Civil Service Commission. The Commission shall process these forms and publish short listed names for the examination prescribed in Rule 020102(iii). (b) For appointment to pensionable establishment. Form No. Gen. 60 should accompany the copy of Form No. Gen 69C sent to the Office of the Head of the Civil Service of the Federation, offices of the Accountant of the Federation and Auditor-General for the Federation and National Pensions Commission."
+            },
+            {
+              "rule_number": "020208",
+              "title": "Personal Particulars",
+              "content": "Immediately a newly appointed officer assumes duty, he/she shall be required to enter his/her personal particulars on Form Gen. 60 (Staff Records Form) a copy of which shall be attached to the appropriate documents forwarded to the Pension Fund Administrator/National Pension Commission and other relevant Offices/Departments."
+            },
+            {
+              "rule_number": "020209",
+              "title": "Oath of Secrecy",
+              "content": "It is the duty of every Permanent Secretary/Head of Extra Ministerial Office to ensure that all officers/staff in his/her Ministry/Extra-Ministerial Office sign an Oath of Secrecy on Security Form 1 and that the oath so signed are carefully preserved."
+            },
+            {
+              "rule_number": "020210",
+              "title": "Secret Society Prohibition of Membership",
+              "content": "No public officer shall become a member of any secret society. Any public officer who is a member of such society shall renounce his membership forthwith by making a statutory declaration to that effect, or resign his appointment, or retire from the service."
+            },
+            {
+              "rule_number": "020211",
+              "title": "Contravention",
+              "content": "Contravention of Rule 020210 shall be regarded as an act of serious misconduct and shall attract appropriate disciplinary action which may include dismissal from service."
+            }
+          ]
+        },
+        {
+          "section_number": "03",
+          "title": "RULES FOR APPOINTMENT ON PROBATION",
+          "rules": [
+            {
+              "rule_number": "020301",
+              "title": "Period of Probation",
+              "content": "Officers on probation will be required to serve for two years before being confirmed in the service. This period may however be reduced to not less than six months by deduction of any previous period of Public Service rendered satisfactorily in posts of cognate status involving similar duties. The period of probation shall not exceed two years unless an extension is approved by the Federal Civil Service Commission; such extension may result in the incremental penalty referred to in Rule 040206, if the Commission so decides."
+            },
+            {
+              "rule_number": "020302",
+              "title": "Compulsory Examination",
+              "content": "Within his probationary period an officer is required to pass the prescribed examination appropriate to his appointment. (a) For officers holding senior posts, the prescribed examinations are those described in Chapter 6 and such other examinations as may be specified in individual offer of appointment. (b) For clerical grade officers, the prescribed examination is the promotion/confirmation examination. (c) The examinations for technical grades are those prescribed in the Scheme of Service applicable to the particular post."
+            },
+            {
+              "rule_number": "020303",
+              "title": "Confirmation or Termination at the end of probationary period",
+              "content": "To be eligible for confirmation in the Permanent Establishment, an officer appointed on probation is required to pass the prescribed examination, if any, during his probationary period and to complete his probationary period to the satisfaction of the authority empowered to appoint him. At the end of the period of probation the officer will, unless his probationary appointment is terminated or extended, be confirmed in his appointment."
+            },
+            {
+              "rule_number": "020304",
+              "title": "Confirmation of Officer holding Senior Post",
+              "content": "Recommendations of Permanent Secretaries/Heads of Extra Ministerial Offices regarding the confirmation of all officers holding senior posts shall be made in the progress report prescribed in Chapter 5 of the Rules."
+            }
+          ]
+        },
+        {
+          "section_number": "04",
+          "title": "RULES FOR APPOINTMENT ON CONTRACT",
+          "rules": [
+            {
+              "rule_number": "020401",
+              "title": "Definition",
+              "content": "A contract appointment is a temporary appointment(which does not provide for the payment of a pension) to a post of the level to which appointment is made by the Federal Civil Service Commission for a specific period as opposed to appointment on pensionable terms and temporary employment. The contract appointment must be recorded in a formal document of agreement."
+            },
+            {
+              "rule_number": "020402",
+              "title": "Rules for Appointment on Contract",
+              "content": "(a) The conditions of service of a contract officer are those provided for in his/her contract and the privileges, emoluments or allowances described in these Rules do not apply to him/her unless they are specifically so stated in the contract itself. Any question of the interpretation of a contract affecting his/her conditions of service should be referred to the Office of the Head of the Civil Service of the Federation. (b)(i) Contract appointments may be offered to expatriates only when suitable Nigerians are not available. Nigerians may be appointed on contract terms if: (a) they are pensioners; (b) they are 50 years of age or over at the time they are being appointed; (c) they specifically request to be employed on contract terms and it is deemed in the best interest of the service; and (d) the candidate possesses specialized competencies or skills and provided such posts are duly advertised in at least three national newspapers. (ii) For non-Nigerians, the provisions of the Public Service Rules regarding contract appointments shall apply in all cases, except for those persons married to Nigerians (See Appendix 1). (iv) Spouses married to Nigerians should remain on contract until granted Nigerian citizenship before being considered for appointment.(See Appendix I)"
+            },
+            {
+              "rule_number": "020403",
+              "title": "Duration of Appointment",
+              "content": "The duration of a contract appointment is limited to the period specified in the contract itself and any further employment of the officer concerned must be made subject of a new contract."
+            },
+            {
+              "rule_number": "020404",
+              "title": "Termination during current contract",
+              "content": "(a) An appointments on contract may be terminated by the Government at any time in accordance with the terms specified in the contract itself. A recommendation to the Federal Civil Service Commission for the termination of the appointment of a contract officer shall be accompanied by a full statement of the consideration which has prompted it. On receipt of the recommendation, the Federal Civil Service Commission will decide in its discretion whether the appointment shall be terminated forthwith in accordance with the terms of the contract or whether the officer should be offered an opportunity, to submit any formal representation if he/she so wishes before a final decision is taken. (b) The termination of contract appointment by the holder is subject to the terms of the contract and any question concerning the waiving of any of the penalty under a contract agreement shall be referred to the Office of the Head of Civil Service of the Federation."
+            },
+            {
+              "rule_number": "020405",
+              "title": "Re-engagement (responsibility of Contract officer)",
+              "content": "An officer serving on contract who desires re-engagement, shall so inform the government in writing through the Permanent Secretary/Head of Extra- Ministerial Office not less than four months before his/her leave is due. In the absence of such notification it may be assumed that an officer serving on contract does not desire re-engagement."
+            },
+            {
+              "rule_number": "020406",
+              "title": "Re-engagement (responsibility of Permanent Secretary)",
+              "content": "On receipt of such notification expressing an officer's wish to be re-engaged, the Permanent Secretary/Head of Extra- Ministerial Office will obtain the consent of the Office of the Head of the Civil Service of the Federation to the re-engagement before forwarding recommendation to the Federal Civil Service Commission enclosing an up-to-date confidential report on the officer(unless such report has been forwarded within the previous two months). In reply the Permanent Secretary/Head of Extra-Ministerial Office will receive any of the following: (a) authority to inform the officer that arrangements will be made to offer him re-engagement during the course of his leave, and the details of the terms proposed. The Permanent Secretary/Head of Extra-Ministerial Office shall inform the officer accordingly without delay. (b) the original and duplicate of the re-engagement contract duly signed on behalf of government. In this case the Permanent Secretary/Head of Extra-Ministerial Office shall obtain the officer's witnessed signature to both copies, deliver the duplicate to the officer, and return the original to the Office of the Head of the Civil Service of the Federation."
+            },
+            {
+              "rule_number": "020407",
+              "title": "Earlier Notification of Non-Re-engagement",
+              "content": "As soon as it is clear to a Permanent Secretary/Head of Extra -Ministerial Office that he/she will be unable for whatever reasons, to recommend the re-engagement of an officer serving on contract, he will seek the approval of the Federal Civil Service Commission to inform the officer that he/she will not be re-engaged and, on receipt of such approval, will inform the officer without delay."
+            },
+            {
+              "rule_number": "020408",
+              "title": "Continuity of Contract Service",
+              "content": "Provided re-engagement is completed by the signing of a new contract before the end of vacation leave granted under an expiring contract, service under the new contract will be treated as continuous."
+            },
+            {
+              "rule_number": "020409",
+              "title": "Deferred Leave",
+              "content": "If a re-engaged contract officer is required to return to duty under his new contract before the expiration of the leave due under the former contract, the leave foregone will be treated as deferred leave to be enjoyed under the conditions of the new contract."
+            },
+            {
+              "rule_number": "020410",
+              "title": "Incremental Date",
+              "content": "When an officer on contract is re-engaged in his/her former office without a break in service and on the same emoluments, he will retain the incremental date enjoyed under his/her former contract. In other cases of re-engagement without break in service, the incremental date of a re-engaged contract officer will be fixed in accordance with such rules as may be applicable in the circumstance on the basis that the commencing date of the new contract is the date on which he/she resumes duty there under."
+            },
+            {
+              "rule_number": "020411",
+              "title": "Appointment of retired officers on contract",
+              "content": "Retired officers may only be re-engaged into career posts on grade levels immediately below that on which they retired,"
+            },
+            {
+              "rule_number": "020412",
+              "title": "Promotion",
+              "content": "Reference should be made to Rule 020708."
+            }
+          ]
+        },
+        {
+          "section_number": "05",
+          "title": "TRANSFERS AND SECONDMENTS",
+          "rules": [
+            {
+              "rule_number": "020501",
+              "title": "Definition",
+              "content": "(a) Transfer is the permanent release of an officer from one Scheduled service to another or from one class to another within the same service. (b) Secondment means the temporary release of an officer to the service of another Government, approved body or any recognized International Organisation or body for a specified period."
+            },
+            {
+              "rule_number": "020502",
+              "title": "Procedure for Transfer/Secondment",
+              "content": "Inter-Service Transfer/Secondment: The following procedures shall apply in processing inter- service transfer and secondment: (i) Applications for Transfer/Secondment to posts graded GL06 and below shall be determined by the Ministry/Extra-Ministerial Office of the applicant's choice. (ii) That applicant for Transfer/Secondment to post graded GL 07-10 in any Ministry/Extra-Ministerial Office shall be determined by the Federal Civil Service Commission. Since GL 07- 10 is an entry point, Officers seeking transfer from scheduled establishments are required to sit for the Annual Competitive Civil Service Entry Examination. (iii) Confidential reports covering the last three years(or whole service if less than three years) of the officer's service shall be furnished. (iv) Secondment of an officer to the service of another Government, or Approved Body or recognized International Organization at his own request shall be for a maximum period of two years in the first instance after which the officer must apply for extension, seek for transfer or return to his former post. All extensions must be approved by the appropriate Committees and the Federal Civil Service Commission. The total period of such secondment must not exceed four(4) years. (v) If it is in the public interest to second an officer to the service of another Government, approved body or recognized International Organisation, the period of secondment shall not be limited and the officer shall continue to hold his substantive post and be entitled to increment and promotion and will be treated as having been posted on special duty. (vi) During the period of such Secondment the benefiting organization shall be responsible for the officer ' s personal emoluments."
+            },
+            {
+              "rule_number": "020503",
+              "title": "Inter-Departmental Transfers",
+              "content": "(a) Senior Posts- Transfers from one senior post to another or from one class to another within the Federal Public Service require the prior approval of the Federal Civil Service Commission and an officer must have served for a minimum period of 6 months in his original Department before seeking transfer to another Department, An application for such transfer must be submitted to the Permanent Secretary/Head of Extra-Ministerial Office of the applicant and must state the applicant's reasons for desiring a transfer and his qualifications for the work to be undertaken. Such application should be forwarded to the Federal Civil Service Commission by the Permanent Secretary/Head of Extra-Ministerial Office together with a statement as to: (i) how the applicant has performed his/her duties; (ii) whether the applicant is considered to be well qualified for the post desired; (iii) recommendations as to the grant or refusal of the application. (b) Junior Posts- Transfers from one junior post to another within the Federal Public Service or from one Department to another may be arranged, with the consent of the officers being considered for transfer, at the mutual discretion of their Permanent Secretaries/Heads of Extra-Ministerial Offices."
+            },
+            {
+              "rule_number": "020504",
+              "title": "Transfer from Clerical Assistant to Clerical Officer",
+              "content": "To be eligible for transfer from the post of Clerical Assistant to the Clerical Officer Grade, an officer must have: (a) obtained the full minimum educational qualifications for direct appointment to the Clerical Officer Grade; or (b) passed the Clerical Confirmation/Promotion test at promotion level."
+            },
+            {
+              "rule_number": "020505",
+              "title": "Salary on Transfer",
+              "content": "The emoluments and incremental date at which a Clerical Assistant enters the scale of the Clerical Officer Grade on transfer is governed by Rule 040103."
+            },
+            {
+              "rule_number": "020506",
+              "title": "Condition to be met for transfer",
+              "content": "(i) No applicant shall be considered for. transfer- on-promotion to any Ministry/Extra-Ministerial Office except in response to an advertised post.(i) An applicant shall be considered for transfer: (a) if he/she has been confirmed in his previous service and his qualifications, experience and career progression are in accordance with the scheme of service of the grade; (b) provided the contemplated transfer would in no way jeopardize the promotion prospects of serving officers; (c) where the Ministry is satisfied that there are vacancies not only in the relevant grade but also in the applicant's discipline or area of specialty; (d) if he has served in his current grade for the stipulated minimum number of years prescribed for promotion to an advertised post. (ii) Posting of officers within the Ministry to posts outside their professional cadres should be prohibited."
+            }
+          ]
+        },
+        {
+          "section_number": "06",
+          "title": "ACTING APPOINTMENT",
+          "rules": [
+            {
+              "rule_number": "020601",
+              "title": "When made",
+              "content": "When it is necessary that a particular duty post(of status not lower than Senior Clerical Officer) should continue to be filled at a time when no officer of corresponding substantive rank is available for posting thereto, some other officer may, with the approval of the Federal Civil Service Commission, be formally appointed, by notice in the gazette, to act in the duty post and assume either fully or in part, the duties and responsibilities thereof."
+            },
+            {
+              "rule_number": "020602",
+              "title": "Not made Unless Necessary",
+              "content": "The mere fact that the substantive holder of a duty post will be absent there from for a short period(e.g. on casual leave or on sick leave) does not in itself justify an acting appointment; there may however be circumstances(such as compliance with statutory provisions) which necessitate the making of an acting appointment for a relatively brief period. The decision whether an acting appointment is necessary or desirable in any particular case will rest with the Federal Civil Service Commission."
+            },
+            {
+              "rule_number": "020603",
+              "title": "Not a form of trial promotion",
+              "content": "Acting appointments are not intended as a means of testing the suitability of officers for promotion; they will normally be made only in order to fill posts that are temporarily vacant and their duration should be limited accordingly."
+            },
+            {
+              "rule_number": "020604",
+              "title": "Procedure",
+              "content": "Recommendations for acting appointments must be forwarded to the Federal Civil Service Commission on General Form 66 and must include thereon a certificate to the effect that the acting officer will assume the full duties and responsibilities of the post in question. Approved acting appointment will be gazetted by the Federal Civil Service Commission but it will on no account be back-dated to a period in excess of six months of the date of receipt of the recommendation by the Commission"
+            },
+            {
+              "rule_number": "020605",
+              "title": "Date of Commencement",
+              "content": "The date on which an acting appointment commences will be indicated in the gazette notice authorizing the appointment. Normally the gazette date of commencement will be that on which the acting officer takes over the duties and responsibilities of the post, except that if he takes over from the substantive holder the gazetted date of commencement will not be earlier than that on which the latter, after handing over: (a) leaves the station or the post (b) takes over substantively or himself commences to act in another post in the same station, or (c) commences vacation leave in the same station, whichever'is applicable according to circumstances."
+            },
+            {
+              "rule_number": "020606",
+              "title": "Date of Cessation",
+              "content": "The date on which an acting appointment ceases will be indicated in the gazette notice reverting the officer's appointment. Normally, the gazetted date of cessation will be that on which the acting officer relinquishes the duties and responsibilities of the post, except that if he hands over to the substantive holder, the gazetted date of cessation will not normally be later than the date on which the latter, before taking over: (a) arrives the station, (b) ceases to hold substantively, or act in another post in the same station, (c) ceases vacation leave in the same station, whichever is applicable according to circumstances; and (d) Ministries shall be required to notify the Federal Civil Service Commission when officers revert from acting appointments by completion of Form No. Gen. 15A which shall be forwarded not less than two weeks before cessation of the acting appointment."
+            },
+            {
+              "rule_number": "020607",
+              "title": "Effect of Casual or Special Leave",
+              "content": "An acting officer will not be regarded as relinquishing the duties and responsibilities of his acting appointment by proceeding on casual or special leave within the country, provided he spends such leave in Nigeria(or on a sea voyage between Nigerian ports) and provided it is not necessary during any such leave to appoint another officer to act in the duty post in question."
+            }
+          ]
+        },
+        {
+          "section_number": "07",
+          "title": "PROMOTIONS",
+          "rules": [
+            {
+              "rule_number": "020701",
+              "title": "Eligibility",
+              "content": "(a) Except where powers of appointment or promotion have been delegated, no promotion shall become effective until they have been approved by the Federal Civil Service Commission. (b) All officers who fall within the field of selection for any promotion exercise shall be considered except those who are under disciplinary action. The minimum number of years that an officer must spend in a post before being considered eligible for promotion shall be as follows: Grade Level of Staff 06 and below - Minimum of 2 years; 07-14 - Minimum of 3 years; 15-17 - Minimum of 4 years (c) Promotions shall be made strictly on the basis of competitive merit from amongst all eligible candidates. (i) In assessing the merit of officers, a clear distinction shall be made between their records of performance or efficiency in lower grades and their potential for promotion, i.e. ability and competence to perform the duties and responsibilities of the higher post efficiently. (ii) Seniority and previous records of performance will be taken into account in choosing between candidates with equal potential for promotion. (iii) In all cases, however, a generally satisfactory record of conduct shall also be considered. (d) The responsibility for the promotion of officers shall be as follows: (i) GL.06 and below- by the Ministry/Extra-Ministerial Office. (ii) GL.07- 14- by the Ministry/Extra-Ministerial Office or the relevant Staff pool subject to confirmation by Federal Civil Service Commission. (iii)GL.15- 17- by the Federal Civil Service Commission on recommendation from Ministry/Extra-Ministerial Office or the relevant pool routed through the Head of the Civil Service. (e) All promotions are subject to satisfying minimum requirements declared by Federal Civil Service Commission and availability of vacancies."
+            },
+            {
+              "rule_number": "020702",
+              "title": "Procedure",
+              "content": "Before each promotion exercise, the appropriate office shall compile a list of all eligible candidates to be considered, the list being prepared on the basis of the job requirement or set of criteria established for the post by the Office of the Head of the Civil Service of the Federation, e.g. qualification/experience, age, training, performance, etc., as contained in the scheme of service. Furthermore: (a) There shall be structured and sustained training for career progression in the service including continuous professional training and development. (b) Officers shall qualify for promotion to higher grade after acquiring the skill and competence as provided in the scheme of service for the particular cadre."
+            },
+            {
+              "rule_number": "020703",
+              "title": "From junior to Senior post",
+              "content": "The appropriate committee shall meet to interview and consider to officers holding junior appointments in the Ministry/Extra-Ministerial Office who may be recommended to the Federal Civil Service commission which shall examine the suitability of the officers so recommended and offer them promotion to existing vacancies."
+            },
+            {
+              "rule_number": "020704",
+              "title": "Effective Date",
+              "content": "The effective date of all promotions shall be 1st January of the year for which the promotion exercise was conducted or as may be determined by the Federal Civil Service Commission."
+            },
+            {
+              "rule_number": "020705",
+              "title": "From one junior post to another",
+              "content": "Permanent Secretaries/Heads of Extra-Ministerial Offices shall fill one junior vacancies on posts on GL. 06 and below on the recommendation of the Junior post Staff Committee."
+            },
+            {
+              "rule_number": "020706",
+              "title": "Officers on leave of absence, secondment etc. to sit for promotion examination",
+              "content": "Officers on approved Leave of Absence, Secondment, approved Leave with Pay, Special Assignment, etc., shall not be granted notional promotion. Such officers shall sit for promotion interviews/examinations at designated centres nearest to them."
+            },
+            {
+              "rule_number": "020707",
+              "title": "Notional Promotions",
+              "content": "An Officer who has passed the compulsory examination for confirmation in the service shall be eligible for promotion notwithstanding the fact that he has not completed the probationary period specified in Rule 020301."
+            },
+            {
+              "rule_number": "020708",
+              "title": "Promotion of a Contract Officer",
+              "content": "Under normal circumstances, no contract officer will be considered for promotion except where there is no suitable pensionable officer available or where he possesses exceptional qualification and suitable experience. He could, however, be considered for an enhanced appointment during the renegotiation of his contract."
+            }
+          ]
+        },
+        {
+          "section_number": "08",
+          "title": "LEAVING THE SERVICE",
+          "rules": [
+            {
+              "rule_number": "020801",
+              "title": "Termination of appointment during probationary period",
+              "content": "If within his probationary period it is established to the satisfaction of the authority empowered to appoint an officer that he is not qualified for efficient service, his appointment may be terminated by that authority at any time without any further compensation than free transport to the place from which he was engaged and such free transport will be granted only if his conduct has been good. Provided the termination is not due to misconduct on the officer's part, it will be effected by means of a month's notice and, subject to the same proviso, if the officer is eligible for vacation leave in respect of his/her service to date, such leave may be granted together with(if the officer so desires) normal vacation leave transport grant in lieu of the free transport mentioned above. Such leave, if any, shall be so arranged as to take place within the period of notice and, if possible, to expire on the same day as the notice. The position regarding the refund of the cost of any training given the officer is governed by the bond relating to such training."
+            },
+            {
+              "rule_number": "020802",
+              "title": "Relinquishment of Appointment during probation period",
+              "content": "If an officer relinquishes his/her appointment within the period of his/her probationary service he may be required to refund any expenditure by government in transporting him, his/her family, servant and baggage to and from the place at which he/she has been employed and he/she will not be eligible for any facilities from government towards transport from the station at which he/she is then serving. The position regarding the refund of the cost of any training given the Officer is governed by the bond relating to such training"
+            },
+            {
+              "rule_number": "020803",
+              "title": "Termination",
+              "content": "The appointment of an officer on probation who fails to secure confirmation in the pensionable establishment at the expiration of his/her probationary period, including such extension thereof as prescribed under Rule 020301, may be terminated in the manner specified in Rule 020801."
+            },
+            {
+              "rule_number": "020804",
+              "title": "Resignation",
+              "content": "(a) An Officer who resigns will be liable to: (i) forfeit all claims to vacation leave; any vacation leave or passage privileges granted will be ex-gratia; (ii) refund to the Government in full any sum of money which he/she may be owing to Government or which, under the provisions of other Rules or agreements entered into with Government, is refundable to Government for his/her not discharging the obligations set out in such agreement; provided that any or all of such refunds may be waived at the discretion of the Government. (b) By virtue of the provisions of Regulation 15 of the Pension Reform Act 2004, all previous pensionable service is forfeited on resignation and cannot be taken into account for pension purposes if the officer is subsequently re-employed except where, under certain circumstances, such a break in service has been condoned by the Office of Establishments and Pension."
+            },
+            {
+              "rule_number": "020805",
+              "title": "Leaving the Service during a leave year",
+              "content": "An Officer who leaves the service other than by resignation or dismissal will be eligible for proportionate leave in accordance with Rule 100211. If he/she has enjoyed more leave during the leave year than he/she is eligible to receive under that Rule, he/she will be required to refund salary at the rate at which it was paid for the number of working days' leave enjoyed in excess of what he/she was eligible to receive, the days in respect of which salary is refunded being treated as leave without pay for pension purposes. This provision will be waived in the case of an officer who dies in the service"
+            },
+            {
+              "rule_number": "020806",
+              "title": "Leaving the Service on grounds of failing an examination or abolition of office or reorganisation",
+              "content": "(i) Officers who fail promotion examination on three(3) consecutive attempts on the same grade and whose on-the-job performance has been assessed to be below average shall be required to leave the service, (ii) An Officer whose service is no longer required in the event of abolition of office, re-organisation of the office or redundancy shall be required to leave the service."
+            },
+            {
+              "rule_number": "020807",
+              "title": "Compulsory Contributions",
+              "content": "All Pensionable officers shall participate in the Contributory Pension Scheme as provided for in the Pension Reform Act, 2004."
+            },
+            {
+              "rule_number": "020808",
+              "title": "Processing of retirement benefits",
+              "content": "In order to ensure that officers receive their retirement benefits promptly, Departmental Pension Officers are required to forward the up-to-date record of service of these officers accompanied with the under-listed documents: (a) Pension Form Gen. 62(in duplicate) with two recent colour passport photographs; (b) Birth certificate or sworn Declaration of Age; (c) Record of Service; (d) Acceptance of retirement letter; (e) Letter of Appointment or Gazette Publication of First Appointment; (f) Letter of Confirmation of Appointment or gazette publication; (g) Clearance Certificate signed by the Director of Administration/ Personnel Management; (h) Clearance Certificate of Non-Indebtedness signed by the Director of Administration/Personnel Management; (i) Evidence of last promotion (j) Current Personnel Emolument Card/Last Pay Certificate; (k) Evidence of Transfer of Service(where applicable); (l) Evidence of condonation and merger of Service(where applicable); (m) Carbon copy of audited computation sheet of terminal benefits; (n) Signed payment voucher for receipt of gratuity(if applicable); and (o) Stamped Death Certificate(for deceased officers)."
+            },
+            {
+              "rule_number": "020809",
+              "title": "Forwarding of Departmental Files",
+              "content": "Forwarding of Departmental Files and other documents not expressly mentioned in Rule 020808 shall no longer be a condition for processing of retirements benefits."
+            },
+            {
+              "rule_number": "020810",
+              "title": "Compulsory retirement",
+              "content": "(i) The compulsory retirement age for all grades in the Service shall be 60 years or 35 years of pensionable service whichever is earlier. (ii) No officer shall be allowed to remain in service after attaining the retirement age of 60 years or 35 years of pensionable service whichever is earlier. (iii) The provision of(i) and(ii) of the Rule is without prejudice to prevailing requirements for Judicial officers and Academic Staff of Universities who retire at 70 and 65 years respectively. (iv) Provided the officer would not have attained the retirement age of 60 years or spent 35 years of pensionable service, whichever is earlier; (a) a Director shall compulsorily retire upon serving eight years on the post; and (b) a Permanent Secretary shall hold office for a term of four years and renewable for a further term of four years, subject to satisfactory performance, and no more."
+            }
+          ]
+        },
+        {
+          "section_number": "09",
+          "title": "CERTIFICATES OF SERVICE",
+          "rules": [
+            {
+              "rule_number": "020901",
+              "title": "Application",
+              "content": "All officers including those on non-pensionable appointments shall be issued, on leaving the service, Certificate of Service."
+            },
+            {
+              "rule_number": "020902",
+              "title": "Authority",
+              "content": "Certificates of Service should be issued to officers holding senior posts on GL. 07 and above, require the countersignature of the Permanent Secretary of the retiring officer, Permanent Secretary, Federal Civil Service Commission; those to be issued to officers holding junior posts GL. 06 and below, require the countersignature of the Permanent Secretary of the retiring officer and the Permanent Secretary Establishments and Pension Office."
+            },
+            {
+              "rule_number": "020903",
+              "title": "Object",
+              "content": "The main purpose of a Certificate of Service is that it may be used as a reference covering the holder's public service when seeking other employment. Accordingly, a Permanent Secretary/Head of Extra Ministerial Office should, when completing a Certificate give in it that information which he himself, were he in a position of a prospective employer, might fairly expect to obtain from the person who has previously employed the holder."
+            },
+            {
+              "rule_number": "020904",
+              "title": "Forms",
+              "content": "Certificate of Service shall be rendered in triplicate on the approved Forms as follows: For Officers on G.L. 07 and above- Form Gen. 58; For Officers on G.L. 06 and below- Forms Gen. 58A"
+            },
+            {
+              "rule_number": "020905",
+              "title": "Timing",
+              "content": "Action to complete the issue of a Certificate of Service should be taken in time for the Certificate to be handed to the recipient before he proceeds on leave prior to leaving the service. If it is necessary to include in the Certificate of Service of any Officer any adverse comment on his work or conduct, the Certificate of Service must be completed and handed to him in time to permit him to make, before leaving the service, any representations on the subject that he may desire to put forward for Government ' s consideration"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "appendices": [
+    {
+      "appendix_id": "A",
+      "title": "Schedule of Replacement Sheets",
+      "content": "Note: The sheets which are replaced should be reinserted behind this schedule."
+    },
+    {
+      "appendix_id": "B",
+      "title": "Schedule of Minor Amendments",
+      "content": "Note: The actual amendment slips should be pasted over the blank pages behind this schedule in serial order."
+    },
+    {
+      "appendix_id": "C",
+      "title": "Nigerian Foreign Service Regulations",
+      "content": "Contains regulations specific to the Nigerian Foreign Service including structure, ranks, training, promotion, discipline, allowances, and other special provisions for diplomatic staff."
+    },
+    {
+      "appendix_id": "1",
+      "title": "Contract Agreement for Expatriate Men/Women Married to Nigerians",
+      "form_number": "FC 3379",
+      "content": "Standard contract agreement form for expatriates married to Nigerian citizens who are employed in the Federal Civil Service."
+    },
+    {
+      "appendix_id": "II",
+      "title": "Preliminary Letter Format",
+      "content": "Template for issuing preliminary letters to officers regarding unsatisfactory work/conduct before disciplinary proceedings."
+    },
+    {
+      "appendix_id": "III",
+      "title": "Official Secrets Act, Cap. 335",
+      "content": "Full text of the Official Secrets Act providing legal framework for protection of classified information."
+    },
+    {
+      "appendix_id": "V",
+      "title": "Summary of Reports Required",
+      "content": "Summary table showing the reports required on officers holding senior posts at various stages of their service together with the number of copies of such reports and their destinations."
+    }
+  ],
+  "index": {
+    "description": "The index contains a comprehensive list of topics with their corresponding rule numbers for easy reference. Topics include: Appointments, Discipline, Emoluments, Leave, Allowances, Medical Procedures, Transfers, Promotions, Certificates of Service, and many other aspects of public service administration.",
+    "sample_entries": [
+      "APPOINTMENTS AND LEAVING THE SERVICE - 020101",
+      "DISCIPLINE - 030101",
+      "EMOLUMENTS AND INCREMENTS - 040101",
+      "LEAVE - 100101",
+      "ALLOWANCES - 130101",
+      "PROMOTION - 020701",
+      "RETIREMENT - 020810",
+      "SECRET SOCIETY - 020210",
+      "OATH OF SECRECY - 020209"
+    ]
+  }
+}
