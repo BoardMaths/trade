@@ -71,15 +71,6 @@
               ],
               "AdvancementPath": ""
             }
-          },
-          {
-            "Head Watchman Grade Level 04": {
-           
-              "EntryRequirements": [
-                "By promotion of Senior Watchman who has spent at least two years on the grade."
-              ],
-              "AdvancementPath": ""
-            }
           }
         ]
       },
@@ -109,7 +100,7 @@
             "Senior Security Guard Grade Level 05": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Security Guard, Grade II who has spent at least two years on the grade"
+                "By promotion of a confirmed and suitable Security Guard, Grade I who has spent at least two years on the grade"
               ],
               "AdvancementPath": "Promotion to Head Security Guard"
             }
