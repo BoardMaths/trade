@@ -3326,16 +3326,16 @@
             "Principal Irrigation Superintendent Grade I Grade Level 12": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Ranger who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Principal Irrigation Superintendent Grade II who has spent at least three years on the grade."
               ],
-              "AdvancementPath": ""
+              "AdvancementPath": "Promotion to Assistant chief Irrigation Superintendent"
             }
           },
           {
-            "Assistant thief Irrigation Superintendent Grade Level 13": {
+            "Assistant chief Irrigation Superintendent Grade Level 13": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Irrigation Superintendent Grade II who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Principal Irrigation Superintendent Grade I who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Irrigation Superintendent"
             }
@@ -3344,7 +3344,7 @@
             "Chief Irrigation Superintendent Grade Level 14": {
             
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Irrigation Superintendent spent at least three years on the grade."
+                "By promotion of a suitable Assistant Chief Irrigation Superintendent who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -3459,7 +3459,8 @@
               "EntryRequirements": [
 
 
-                "By promotion of a confirmed and suitable Livestock Attendant Grade III who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Livestock Attendant Grade III who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing the First School Leaving Certificate."
               
               
               ],
@@ -3493,7 +3494,7 @@
             "Livestock Overseer Grade Level 04": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Livestock Overseer who has successfully completed the training course specified in paragraph 2.1.1. above.",
+                "By promotion of a confirmed and suitable Assistant Livestock Overseer who has successfully completed the training course specified in their level",
 
                 "By direct appointment of a candidate possessing any of the following qua1ificatons:West African School Certificate or Senior Secondary School Certificate or General Certificate of Education (Ordinary Level) with four credit or passes obtained at one sitting or five credit passes obtained at tow sittings preferably including Biology or Agriculture Science.",
                 "By promotion of a confirmed and suitable Livestock Attendant Grade I who has passed the Livestock Overseers Confirmation/ Promotion Test at promotion 1ev (i.e. 50%)."
@@ -3552,7 +3553,7 @@
               "EntryRequirements": [
 
                 "By advancement of a suitable Assistant Livestock Superintendent-in-Training or  livestock overseer who has successfully completed the training for Assistant Livestock Superintendent at a recognized Veterinary School or Animal Health Institution.",
-                "By direct appointment of a candidate possessing OND or who has Successfully completed the two-Ye& training course for Assistant Livestock Superintendent in a recognized Veterinary School or Animal Health Institution."
+                "By direct appointment of a candidate possessing OND or who has Successfully completed the two-Year training course for Assistant Livestock Superintendent in a recognized Veterinary School or Animal Health Institution."
               
               
               ],
@@ -3563,7 +3564,7 @@
             "Livestock Superintendent Grade Level 07": {
             
               "EntryRequirements": [
-                "By advancement of a suitable Assistant Livestock who has successfully completed the Diploma Course for Livestock SupeTintet1t in recognised Veterinary School or Animal Health Husbandry, Institution.",
+                "By advancement of a suitable Assistant Livestock Superintendent who has successfully completed the Diploma Course for Livestock Superintendent in recognised Veterinary School or Animal Health Husbandry, Institution.",
                 "By promotion of a confirmed and suitable Assistant Livestock Supeintend0 who has spent at least two years on the grade."
               ],
               "AdvancementPath": "Promotion to Higher Livestock Superintendent"
@@ -3603,7 +3604,7 @@
             "Principal Livestock Superintendent Grade I Grade Level 12": {
             
               "EntryRequirements": [
-                "By promotion a confirmed and suitable Principal Livestock Superintendent who Grade II who has spent at least three years on the grade."
+                "By promotion a confirmed and suitable Principal Livestock Superintendent Grade II who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Assistant Chief Livestock Superintendent"
             }
@@ -3635,7 +3636,7 @@
             "Livestock Officer/Livestock Development Officer Grade II Grade Level 08": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing a degree in Animal Science Animal Husbandry/Animal Production, Agriculture or Range Management a recognised University."
+                "By direct appointment of a candidate possessing a degree in Animal Science, Animal Husbandry/Animal Production, Agriculture or Range Management a recognised University."
               ],
               "AdvancementPath": "Promotion to Livestock Officer/Livestock Development Officer Grade I"
             }
@@ -3645,7 +3646,7 @@
             
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Livestock Officer Livestock Development Officer Grade 11 who has spent at least three years on the grade.",
+                "By promotion of a confirmed and suitable Livestock Officer/Livestock Development Officer Grade II who has spent at least three years on the grade.",
                 "By direct appointment of a candidate possessing a degree in Animal Science Animal Husbandry/Animal Production, Agriculture or Range Management a recognised University. plus at least three years’ post-qualification cognate experience."
               
               
@@ -3659,33 +3660,32 @@
             "Senior Livestock Officer/Senior Livestock Development Officer Grade Level 10": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Livestock Officer Livestock Development Officer Grade 1 who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a degree in Animal Science Animal Husbandry/Animal Production, Agriculture or Range Management a recognised University. plus at least six years’ post-qualification cognate experience."
-              
+                "By promotion of a confirmed and suitable Livestock Officer/Livestock Development Officer Grade I who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing a degree in Animal Science, Animal Husbandry/Animal Production, Agriculture or Range Management a recognised University. plus at least six years’ post-qualification cognate experience."
               
               ],
-              "AdvancementPath": "Promotion to Principal Livestock Officer/Assistant Chief Livestock Development"
+              "AdvancementPath": "Promotion to Principal Livestock Officer/Principal Livestock Development"
            
             }
           },
           {
-            "Principal Livestock Officer/Assistant Chief Livestock Development Grade Level 12": {
+            "Principal Livestock Officer/Principal Livestock Development Grade Level 12": {
             
               "EntryRequirements": [
 
                 "By promotion of a confirmed and suitable Senior Livestock Officer/Senior Livestock Development Officer who has spent at least three years on the grade"
               ],
-              "AdvancementPath": "Promotion to Senior Livestock Superintendent"
+              "AdvancementPath": "Promotion to Assistant Chief Livestock Officer/Assistant Chief Livestock Development Officer"
             }
           },
           {
             "Assistant Chief Livestock Officer/Assistant Chief Livestock Development Officer Grade level 13": {
             
               "EntryRequirements": [
-              "By promotion of a confirmed and suitable Higher Livestock Superintendent who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three years’ post-qualification cognate experience"
-              ],
-              "AdvancementPath": "Promotion to Assistant Chief Livestock Officer/Assistant Chief Livestock Development Officer"
+              "By promotion of a confirmed and suitable Principal Livestock Officer/Principal Livestock Development Officer who has spent at least three years on the grade."
+
+            ],
+              "AdvancementPath": "Promotion to Chief Livestock Officer/Assistant Chief Livestock Development Officer"
             }
           },
           {
@@ -3807,7 +3807,7 @@
             "Deputy Director/ Director (States) Grade Level 16": {
             
               "EntryRequirements": [
-                "By promotion of a suitable’ Assistant Director who has spent at least four on the grade."
+                "By promotion of a suitable’ Assistant Director who has spent at least four years on the grade."
               ],
               "AdvancementPath": "Promotion to Director"
             }
@@ -3929,7 +3929,7 @@
 
                 "By advancement of suitable Assistant Produce Superintendent-in-Training has successfully completed the training course specified in their grade level",
                 "By promotion of a confirmed and outstanding Senior Produce/Pest Control Inspector Grade II.",
-                "By direct appointment of a candidate possessing the General Certif1C Education (Advanced Level) in two subjects preferably including Economic, Agriculture, Biology, Physics, Chemistry, Geography or Mathematics obtain at one sitting or three subjects at two sittings."
+                "By direct appointment of a candidate possessing the General Certificate of Education (Advanced Level) in two subjects preferably including Economic, Agriculture, Biology, Physics, Chemistry, Geography or Mathematics obtain at one sitting or three subjects at two sittings."
               
               
               ],
@@ -3940,7 +3940,7 @@
             "Produce Superintendent Grade Level 07": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Produce Superintendent has spent at least two years on the grade.",
+                "By promotion of a confirmed and suitable Assistant Produce Superintendent who has spent at least two years on the grade.",
                 "By promotion of a confirmed and suitable Senior Produce/Pest Control Inspector Grade I or lateral transfer of a suitable Chief Produce/Pest Control Inspector"
               ],
               "AdvancementPath": "Promotion to Higher Produce Superintendent"
@@ -3970,8 +3970,8 @@
             "Principal Produce Superintendent Grade II Grade Level 10": {
             
               "EntryRequirements": [
-               "By promotion of a confirmed and suitable Senior Livestock Superintendent who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least six  years’ post-qualification cognate experience"
+               "By promotion of a confirmed and suitable Senior Produce Superintendent who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing HND from a recognised School of Agriculture. plus at least three  years’ post-qualification cognate experience"
               ],
               "AdvancementPath": "Promotion to Principal Livestock Superintendent Grade I"
             }
@@ -4012,7 +4012,7 @@
             "Produce Officer Grade II Grade Level 08": {
             
               "EntryRequirements": [
-                "By direct appointment .f a candidate possessing a degree in Agriculture or Biological Science from a recognized University."
+                "By direct appointment of a candidate possessing a degree in Agriculture or Biological Science from a recognized University."
               ],
               "AdvancementPath": "Promotion to Produce Officer Grade I"
             }
@@ -4023,7 +4023,7 @@
               "EntryRequirements": [
 
                 "By promotion of a confirmed and suitable Produce Officer Grade II who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a degree in Agriculture Biological Science from a recognized University plus at least three year’s Post- qualification cognate experience."
+                "By direct appointment of a candidate possessing a degree in Agriculture, Biological Science from a recognized University plus at least three year’s Post- qualification cognate experience."
               
               
               ],
@@ -4035,7 +4035,7 @@
             
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Produce Officer Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing a degree in Agriculture Biological Science from a recognized University plus at least six year’s Post- qualification cognate experience."
+                "By direct appointment of a candidate possessing a degree in Agriculture, Biological Science from a recognized University plus at least six year’s Post- qualification cognate experience."
               
               
               ],
@@ -4047,7 +4047,7 @@
             
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Senior Produce Officer who has at least three years on the grade."
+                "By promotion of a confirmed and suitable Senior Produce Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Assistant Chief Produce Officer"
             }
@@ -4076,7 +4076,7 @@
             "Assistant Director Grade Level 15": {
             
               "EntryRequirements": [
-                "By promotion of a suitable Chief Produce Officer who has spent at least years on the grade."
+                "By promotion of a suitable Chief Produce Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Deputy Director/Director (States)"
             }
@@ -4085,7 +4085,7 @@
             "Deputy Director/Director (States) Grade Level 16": {
             
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Director who has spent at least four on the grade."
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
               ],
               "AdvancementPath": "Promotion to Director"
             }
@@ -4094,7 +4094,7 @@
             "Director Grade Level 17": {
             
               "EntryRequirements": [
-                "By promotion of a suitable Deputy Director who has spent at least four year the grade."
+                "By promotion of a suitable Deputy Director who has spent at least four year on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -4146,7 +4146,7 @@
             "Assistant Tsetse Fly Control Overseer Grade Level 03": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications.Evidence of con Action of a full course in a Government approved Secondary School or S. 75 or JSSC. or General Certificate of Education (Ordinary Level) with three credit passes obtained at one or two sittings."
+                "By direct appointment of a candidate possessing any of the following qualifications.Evidence of completion of a full course in a Government approved Secondary School or S. 75 or JSSC. or General Certificate of Education (Ordinary Level) with three credit passes obtained at one or two sittings."
               ],
               "AdvancementPath": "Promotion to Tsetse Fly Control overseer"
             }
@@ -4169,7 +4169,7 @@
             "Senior Tsetse Fly Control Overseer Grade Level 05": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Tsetse Fly Control Overseer who his spent at least two years on the grade.",
+                "By promotion of a confirmed and suitable Tsetse Fly Control Overseer who has spent at least two years on the grade.",
                 "By direct appointment of a candidate possessing the West African School Certificate/Senior Secondary School Certificate or the General Certificate of Education (Ordinary Level) with four credit passes or five credit passes obtained at one or two sittings respectively. plus at least two years cognate experience."
               ],
               "AdvancementPath": "Promotion to Assistant Chief Tsetse Fly Control Overseer Grade I"
@@ -4204,7 +4204,7 @@
             "Assistant Tsetse Fly Control Superintendent-In-Training Grade Level 04": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the of qualifications:-West African School Certificate or Senior Secondary School C preferably including Chemistry. or General Certificate of Education (Ordinary Level) with four credit obtained at one sitting or five credits obtained at two sittings preferably including Chemistry."
+                "By direct appointment of a candidate possessing any of the of qualifications:-West African School Certificate or Senior Secondary School Certificate preferably including Chemistry. or General Certificate of Education (Ordinary Level) with four credit obtained at one sitting or five credits obtained at two sittings preferably including Chemistry."
               ],
               "AdvancementPath": "Promotion to Assistant Tsetse Fly Control Superintendent"
             }
@@ -4296,7 +4296,7 @@
         "Cadre": "Veterinary Laboratory/Clinic Attendant",
         "Grades": [
           {
-            "Veterinary Laboratory/Clinic attendant Grade II Grade Level 01": {
+            "Veterinary Laboratory/Clinic attendant Grade III Grade Level 01": {
             
               "EntryRequirements": [
                 "By Direct appointment of a candidate who is mentally and physically fit."
@@ -4337,7 +4337,8 @@
             "Veterinary Laboratory Assistant Grade Level 03": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the qualifications; Evidence of completion of a full Course in a Govemfltt1ent Secondary School or S. 75 with a bias for Science subjects. or General Certificate of Education (Ordinary Level) with four or five credit passes obtained at one or two sittings respectively preferably including Mathematics, Chemistry, Biology or Health Science. or By transfer of a confirmed and outstanding Veterinary Laboratory/ Clinic Attendant Grade 1 who has passed the prescribed Departmental Test at the end of the two years’ in-service training Course in Laboratory Work or the National Certificate Examination of the Institute of Medial Laboratory of Nigeria for Laboratory Assistants."
+                "By direct appointment of a candidate possessing any of the qualifications; Evidence of completion of a full Course in a Government Secondary School or S. 75 with a bias for Science subjects. or General Certificate of Education (Ordinary Level) with four or five credit passes obtained at one or two sittings respectively preferably including Mathematics, Chemistry, Biology or Health Science.",
+                "By transfer of a confirmed and outstanding Veterinary Laboratory/ Clinic Attendant Grade 1 who has passed the prescribed Departmental Test at the end of the two years’ in-service training Course in Laboratory Work or the National Certificate Examination of the Institute of Medial Laboratory of Nigeria for Laboratory Assistants."
               ],
               "AdvancementPath": "Promotion to Senior Veterinary Laboratory Assistant"
             }
@@ -4346,12 +4347,7 @@
             "Senior Veterinary Laboratory Assistant Grade Level 04": {
             
               "EntryRequirements": [
-
-
-
-                "By promotion of a confirmed and suitable Veterinary Laboratory Assistant who has spent at least two years on the grade."
-              
-              
+                "By promotion of a confirmed and suitable Veterinary Laboratory Assistant who has spent at least two years on the grade."             
               ],
               "AdvancementPath": ""
             }
@@ -4376,12 +4372,9 @@
             "Veterinary Laboratory Technician Grade Level 06": {
             
               "EntryRequirements": [
-
-
                 "By promotion of a confirmed and suitable Veterinary Laboratory Technician-In-Training who has successfully completed the prescribed two-year training in a recognised Institution.",
                 "By direct appointment of a candidate possessing the Laboratory Technician Certificate in Veterinary Laboratory Technique awarded by a recognise Veterinary School or Veterinary Laboratory or Medical Laboratory."
-              
-              
+                            
               ],
               "AdvancementPath": "Promotion to Senior Veterinary Laboratory Technician"
             }
@@ -4444,7 +4437,7 @@
             
               "EntryRequirements": [
 
-                "By promotion of a confirmed mid suitable Senior Veterinary Laboratory Technologist who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Senior Veterinary Laboratory Technologist who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Assistant Chief Veterinary Laboratory Technologist"
             }
@@ -4491,8 +4484,7 @@
                 "By promotion of a confirmed and suitable Assistant Zoo Keeper who successfully completed the training course specified in their level",
                 "By direct appointment of a candidate possessing any of the any of the following qualifications:West African School Certificate or Senior Secondary School or General Certificate of Education (Ordinary Level) with four passes obtained at one sitting or five credits obtained at two sittings.",
                 "By promotion, of a confirmed and suitable Zoo Attendant Grade I who passed the Zoo Keepers Confirmation/Promotion Test at promotion level (i.e. 50%)"
-              
-              
+                            
               ],
               "AdvancementPath": "Promotion to Senior Zoo Keeper"
             }
@@ -4501,7 +4493,7 @@
             "Senior Zoo Keeper Grade Level 05": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Zoo Keeper who has spent at least years on the grade.",
+                "By promotion of a confirmed and suitable Zoo Keeper who has spent at least two years on the grade.",
                 "By direct appointment of a candidate possessing any of the any of the following qualifications:West African School Certificate or Senior Secondary School or General Certificate of Education (Ordinary Level) with four passes obtained at one sitting or five credits obtained at two sittings. plus at least two years post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Assistant Chief Zoo Keeper"
@@ -4546,7 +4538,7 @@
             
               "EntryRequirements": [
 
-                "By promotion of a confirmed end suitable Zoo Curator who has spent at least three years on the grade.",
+                "By promotion of a confirmed and suitable Zoo Curator who has spent at least three years on the grade.",
 
                 "By direct appointment of a candidate possessing HND in Zoology or Biology Ecology or Wild Life Management from a recognised Institution."
               
@@ -4562,7 +4554,7 @@
               "EntryRequirements": [
               "By promotion of a confirmed end suitable Higher Zoo Curator who has spent at least three years on the grade.",
 
-                "By direct appointment of a candidate possessing HND in Zoology or Biology Ecology or Wild Life Management from a recognised Institution. plus it least three years’ post- qualification cognate experience."
+                "By direct appointment of a candidate possessing HND in Zoology or Biology Ecology or Wild Life Management from a recognised Institution. plus at least three years’ post- qualification cognate experience."
               
               
               ],
@@ -4574,9 +4566,9 @@
             "Principal Zoo Curator Grade II Grade Level 10": {
             
               "EntryRequirements": [
-               "By promotion of a confirmed end suitable Senior Zoo Curator who has spent at least three years on the grade.",
+               "By promotion of a confirmed and suitable Senior Zoo Curator who has spent at least two years on the grade.",
 
-                "By direct appointment of a candidate possessing HND in Zoology or Biology Ecology or Wild Life Management from a recognised Institution. plus it least six years’ post- qualification cognate experience."
+                "By direct appointment of a candidate possessing HND in Zoology or Biology Ecology or Wild Life Management from a recognised Institution. plus at least six years’ post- qualification cognate experience."
               
               
               ],
@@ -4600,7 +4592,7 @@
             
               "EntryRequirements": [
 
-                "By promotion of a suitable Principal Zoo Curator Grade I who has spent three years on the grade."
+                "By promotion of a suitable Principal Zoo Curator Grade I who has spent atleast three years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Zoo Curator"
             }
@@ -4658,7 +4650,7 @@
             "Assistant Signals Superintendent-In-Training Grade Level 04": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the qualifications West African School Certificate or Senior Secondary School Certificate preferably with credits in Mathematics and Physics or Certificate of Education (Ordinary Level) with, four credits obtained one sitting or five credits obtained at two sittings preferably Mathematics and Physics. Trade  Centre Diploma in Radio and Telecommunications obtained after a regular attendance at a recognised Trade Centre City and Guilds of London institute Technicians’ International Certificate in Radio and Communication obtained after a "       ],
+                "By direct appointment of a candidate possessing any of the qualifications; West African School Certificate or Senior Secondary School Certificate preferably with credits in Mathematics and Physics or Certificate of Education (Ordinary Level) with, four credits obtained one sitting or five credits obtained at two sittings preferably Mathematics and Physics. or Trade  Centre Diploma in Radio and Telecommunications obtained after a regular attendance at a recognised Trade Centre or City and Guilds of London institute Technicians’ International Certificate in Radio and Communication obtained after a regular attendance at an approved Institution"       ],
               "AdvancementPath": "Promotion to Assistant Signals Superintendent "
             }
           },
@@ -4666,9 +4658,9 @@
             "Assistant Signals Superintendent Grade Level 06 (Step 2)": {
            
               "EntryRequirements": [
-                "By advancement of an Assistant Signals Superintendent-in-Training who has successfully completed the course",
+                "By advancement of an Assistant Signals Superintendent-in-Training who has successfully completed the course specified in their level",
                 "By direct appointment of a candidate who has successfully completed the course stipulated in previous level",
-                " By direct appointment of a candidate possessing any of the qualifications: National Diploma (Ordinary National Diploma) in Radio and Telecommunications from a recognised Institution. Pull Technological Certificate (Craft) of the City and Guilds of London Institute in Radio and Telecommunications."
+                " By direct appointment of a candidate possessing any of the qualifications: National Diploma (Ordinary National Diploma) in Radio and Telecommunications from a recognised Institution. or Pull Technological Certificate (Craft) of the City and Guilds of London Institute in Radio and Telecommunications."
               ],
               "AdvancementPath": "Promotion to Signals Superintendent"
             }
@@ -4678,8 +4670,8 @@
            
               "EntryRequirements": [
                 "By promotion of a suitable Assistant Signals Superintendent who has spent at least two years on the grade.",
-                "By advancement of an Assistant Signals Superintendent possessing the qualification specified in the previous level who has spent twelve months on the grade.",
-                "By direct appointment of a candidate possessing any of the qualification specified in the previous level plus at least one year post-qualification cognate experience."
+                "By advancement of an Assistant Signals Superintendent possessing the qualification National Diploma (Ordinary National Diploma) in Radio and Telecommunications from a recognised Institution. Pull Technological Certificate (Craft) of the City and Guilds of London Institute in Radio and Telecommunications. who has spent twelve months on the grade.",
+                "By direct appointment of a candidate possessing any of the qualification National Diploma (Ordinary National Diploma) in Radio and Telecommunications from a recognised Institution. Pull Technological Certificate (Craft) of the City and Guilds of London Institute in Radio and Telecommunications. plus at least one year post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Higher Signals Superintendent"
             }
@@ -4688,9 +4680,10 @@
             "Higher Signals Superintendent Grade Level 08": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Signals Superintendent who has at least three years on the grade.",
-                "By advancement of an Assistant Signals Superintendent possessing the qualification specified in Assistant Signals Superintendent level above plus at least four years’ post-qualification cognate experience.",
+                "By promotion of a confirmed and suitable Signals Superintendent who has at least spent three years on the grade.",
+                "By direct appointment of a candidate possessing any of the qualification National Diploma (Ordinary National Diploma) in Radio and Telecommunications from a recognised Institution. Pull Technological Certificate (Craft) of the City and Guilds of London Institute in Radio and Telecommunications. plus at least four year post-qualification cognate experience.",
                 "By direct appointment of a candidate possessing the Higher National Diploma in Electronics from a recognised Institution or the Full Technological Certificate (Technician) of the City and Guilds of London Institute in Radio and Telecommunication"
+             
               ],
               "AdvancementPath": "Promotion to Senior Signals Superintendent"
             }
@@ -4700,7 +4693,8 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Signals Superintendent who has spent at least three years on the grade.",
-                "By advancement of an Assistant Signals Superintendent possessing the qualification specified in Assistant Signals Superintendent level above plus at least seven years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Electronics from a recognised Institution or the Full Technological Certificate (Technician) of the City and Guilds of London Institute in Radio and Telecommunication plus at Least three years’ post-qualification cognate experience. "
+ "By direct appointment of a candidate possessing any of the qualification National Diploma (Ordinary National Diploma) in Radio and Telecommunications from a recognised Institution. Pull Technological Certificate (Craft) of the City and Guilds of London Institute in Radio and Telecommunications. plus at least seven year post-qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Electronics from a recognised Institution or the Full Technological Certificate (Technician) of the City and Guilds of London Institute in Radio and Telecommunication plus at least three year post-qualification cognate experience"
+             
               ],
               "AdvancementPath": "Promotion to Principal Signals Superintendent Grade II"
             }
@@ -4710,7 +4704,7 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Senior Signals Superintendent who has spent at least three years on the grade.",
-                "By advancement of an Assistant Signals Superintendent possessing the qualification specified in Assistant Signals Superintendent level above plus at least ten years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Electronics from a recognised Institution or the Full Technological Certificate (Technician) of the City and Guilds of London Institute in Radio and Telecommunication plus at Least six years’ post-qualification cognate experience. "
+                "By direct appointment of a candidate possessing any of the qualification National Diploma (Ordinary National Diploma) in Radio and Telecommunications from a recognised Institution. Pull Technological Certificate (Craft) of the City and Guilds of London Institute in Radio and Telecommunications. plus at least ten year post-qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Electronics from a recognised Institution or the Full Technological Certificate (Technician) of the City and Guilds of London Institute in Radio and Telecommunication plus at least six year post-qualification cognate experience"
          ],
               "AdvancementPath": "Promotion to Principal Signals Superintendent Grade I"
             }
@@ -4730,7 +4724,7 @@
               "EntryRequirements": [
                 "By promotion of a suitable Principal Signals Superintendent Grade I who has spent at least three years on the grade."
               ],
-              "AdvancementPath": "Promotion to  Cook Grade Level 02"
+              "AdvancementPath": "Promotion to Chief Signals Superintendent"
             }
           },
           {
@@ -4754,7 +4748,7 @@
             "Assistant communications Officer Grade Level 06(Step 2)": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following equivalent qualifications: Ordinary National Diploma in Electronics from a recognize Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in relevant subjects."
+                "By direct appointment of a candidate possessing any of the following equivalent qualifications: Ordinary National Diploma in Electronics from a recognize Institution. or Full Technological Certificate (Craft) of the City and Guilds of London Institute in relevant subjects."
               ],
               "AdvancementPath": "Promotion to Communications Officer"
             }
@@ -4775,9 +4769,10 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Communications Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the qualifications specified in Assistant communications Officer Grade Level 06(Step 2). plus at least four year post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing any of the following equivalent qualifications:Ordinary National Diploma in Electronics from a recognize Institution. or Full Technological Certificate (Craft) of the City and Guilds of London Institute in relevant subjects. plus at least four year post-qualification cognate experience.",
                 "By direct appointment of a candidate possessing the Higher National Diploma in Electronics from a recognised Institution"       ],
-              "AdvancementPath": "Promotion to Senior Communications Officer"
+              
+                "AdvancementPath": "Promotion to Senior Communications Officer"
             }
           },
           {
@@ -4785,8 +4780,9 @@
               
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Communications Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the qualifications specified in Assistant communications Officer Grade Level 06(Step 2). plus at least seven year post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Electronics from a recognised Institution plus at least three year post-qualification cognate experience "       
-       
+ "By direct appointment of a candidate possessing any of the following equivalent qualifications:Ordinary National Diploma in Electronics from a recognize Institution. or Full Technological Certificate (Craft) of the City and Guilds of London Institute in relevant subjects. plus at least seven year post-qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Electronics from a recognised Institution plus at least three years’ post-qualification cognate experience"       
+              
+                
               ],
               "AdvancementPath": "Promotion to Principal Communications Officer Grade II"
             }
@@ -4799,11 +4795,11 @@
                  "By direct appointment of a candidate possessing any of the qualifications specified in Assistant communications Officer Grade Level 06(Step 2). plus at least ten year post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Electronics from a recognised Institution plus at least six year post-qualification cognate experience "       
              
               ],
-              "AdvancementPath": "Promotion to Principal Communications Officer Grade 1"
+              "AdvancementPath": "Promotion to Principal Communications Officer Grade I"
             }
           },
           {
-            "Principal Communications Officer Grade 1 Grade Level 12": {
+            "Principal Communications Officer Grade I Grade Level 12": {
           
               "EntryRequirements": [
                 "By promotion of a Principal Communications Officer Grade II who has spent at least three years on the grade."
@@ -4825,7 +4821,7 @@
             "Chief Communication Officer Grade Level 14": {
             
               "EntryRequirements": [
-                "By promotion of an Assistant Chief Communications Officer who has spent at least three years cii the grade."
+                "By promotion of an Assistant Chief Communications Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -4849,7 +4845,7 @@
             "Air Traffic Controller Grade I Grade Level 09": {
              
               "EntryRequirements": [
-                "By advancement of an Air Traffic Controller Grade II who has successfully completed the training programmes specified in previous level above and obtained Aerodrome and Approach Diploma for Air Traffic Controllers."
+                "By advancement of an Air Traffic Controller Grade II who has successfully completed the training programmes specified in their level and obtained Aerodrome and Approach Diploma for Air Traffic Controllers."
               ],
               "AdvancementPath": "Promotion to Senior Air Traffic Controller"
             }
@@ -4899,10 +4895,6 @@
               "AdvancementPath": "Promotion to Deputy Director"
             }
           },
-
-
-
-
           {
             "Deputy Director Grade Level 16 ": {
           
@@ -4916,9 +4908,9 @@
             "Director Grade Level 17.": {
               
               "EntryRequirements": [
-                "Bypromotion of a confirmed and suitable Senior Steward who has spent at two years on the grade."
+                "By promotion of a confirmed and suitable Deputy Director who has spent at least four years on the grade."
               ],
-              "AdvancementPath": "By promotion of a confirmed and suitable Deputy Director who has spent at least four years on the grade."
+              "AdvancementPath": ""
             }
           }
         ]
@@ -4931,7 +4923,7 @@
             "Aeronautical Information Services Assistant Grade II Grade Level 04": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing West African Certificate/Senior Secondary School Certificate or the General Certificate Education (Ordinary Level) with four credits obtained at one sitting of rive credits obtained at two sittings.,"
+                "By direct appointment of a candidate possessing West African Certificate/Senior Secondary School Certificate or the General Certificate Education (Ordinary Level) with four credits obtained at one sitting of five credits obtained at two sittings.,"
               ],
               "AdvancementPath": "Promotion to Aeronautical Information Services Assistant Grade 1 "
             }
@@ -4941,7 +4933,7 @@
               
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Aeronautical Information Assistant Grade II who has spent at Least two years on the grade and Departmental Confirmation/ Promotion Test at promotion level (i.e. 50%).",
-                "By direct appointment of a candidate possessing West African Certificate/Senior Secondary School Certificate or the General Certificate Education (Ordinary Level) with four credits obtained at one sitting of rive credits obtained at two sittings., plus at least two years’ post-qualification cognate experience."
+                "By direct appointment of a candidate possessing; West African Certificate/Senior Secondary School Certificate or the General Certificate Education (Ordinary Level) with four credits obtained at one sitting of five credits obtained at two sittings., plus at least two years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Senior Aeronautical Information Services Assistant"
             }
@@ -4950,9 +4942,9 @@
             "Senior Aeronautical Information Services Assistant Grade Level 06": {
           
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Aeronautical Information S” Assistant Grade I who has spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Aeronautical Information Assistant Grade I who has spent at least two years on the grade."
               ],
-              "AdvancementPath": "Promotion to Chief Aeronautical Information Services Assistantor or by promotion to Aeronautical Information Services Officer or Lateral transfer to Assistant Aeronautical Information Services Officer  "
+              "AdvancementPath": "Promotion to Chief Aeronautical Information Services Assistant or by promotion to Aeronautical Information Services Officer or Lateral transfer to Assistant Aeronautical Information Services Officer  "
             }
           },
 
@@ -4960,7 +4952,7 @@
             "Chief Aeronautical Information Services Assistant Grade Level 07": {
              
               "EntryRequirements": [
-                "By promotion of a suitable senior Aeronautic1 Information Services Assistant who has spent at least two years on the grade."
+                "By promotion of a suitable senior Aeronautic Information Services Assistant who has spent at least two years on the grade."
               ],
               "AdvancementPath": "Lateral transfer to Aeronautical Information Services Officer"
             }
@@ -5102,8 +5094,8 @@
             "Assistant Meteorological Officer Grade Level 06": {
              
               "EntryRequirements": [
-                "By advancement of a confirmed and suitable Meteorological Assistant who has successfully completed the course specified in previous level an obtained the Classes IV and III Meteorological Certificates from an approve Meteorological Training Institute.",
-                "By direct appointment of a candidate possessing the General Certificate Education (Advanced Level) in two subjects obtained at one sitting or m the subjects obtained at two sittings preferably including Mathematics and Physical or Geography.",
+                "By advancement of a confirmed and suitable Meteorological Assistant who has successfully completed the course specified in their level and obtained the Classes IV and III Meteorological Certificates from an approve Meteorological Training Institute.",
+                "By direct appointment of a candidate possessing the General Certificate Education (Advanced Level) in two subjects obtained at one sitting or three subjects obtained at two sittings preferably including Mathematics and Physical or Geography.",
                 "By direct appointment of a candidate possessing Ordinary National Diploma in relevant subjects."
               ],
               "AdvancementPath": "Promotion to Meteorological Officer or Promotion to Higher Meteorological Officer "
@@ -5122,7 +5114,7 @@
             "Higher Meteorological Officer Grade Level 08": {
              
               "EntryRequirements": [
-                "By advancement of a confirmed and suitable Assistant Meteorological Officer who has successfully completed the prescribed two-year training course hi approved Institution and obtained the Class II Certificate.",
+                "By advancement of a confirmed and suitable Assistant Meteorological Officer who has successfully completed the prescribed two-year training course in an approved Institution and obtained the Class II Certificate.",
                 "By promotion of a confirmed and suitable Meteorological Officer who has spent at least three years on the grade.",
                 "By direct appointment of a candidate possessing the Higher National Diploma a relevant subject from a recognized Institution."
               ],
@@ -5144,7 +5136,7 @@
             "Principal Meteorological Officer Grade 11 Grade Level 10": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Meteorological Offices has spent at least three years on the grade.",
+                "By promotion of a confirmed and suitable Senior Meteorological Offices who has spent at least three years on the grade.",
                 "By direct appointment of a candidate possessing the Higher National Diploma a relevant subject from a recognized Institution. plus at least six years post-qualification co experience."
             
               ],
@@ -5164,7 +5156,7 @@
             "Assistant Chief Meteorological Officer Grade Level 13": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Principal Meteorological Officer Grade I whoSpent at least three years on the grade."
+                "By promotion of a suitable Principal Meteorological Officer Grade I who has Spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Meteorological Officer"
             }
@@ -5174,7 +5166,7 @@
             "Chief Meteorological Officer Grade Level 14": {
              
               "EntryRequirements": [
-                "Promotion of a suitable Assists Chief Meteorological Officer who has spent at least three years on the grade."
+                "Promotion of a suitable Assistant Chief Meteorological Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -5198,10 +5190,10 @@
             "Meteorologist Grade I Grade Level 09": {
              
               "EntryRequirements": [
-                "Bypromotion of a confirmed and suitable Meteorologist Grade II who has spent at least three years on the grade.",
+                "By promotion of a confirmed and suitable Meteorologist Grade II who has spent at least three years on the grade.",
                   "By direct appointment of a candidate possessing a degree in any of the following disciplines from a recognised University ;Meteorology or Physics or Mathematics or Statistics or Computer Science or Electronics or Agricultural Science or Geography plus at least three years’ postqualification cognate experience."
      ,
-                "By direct appointment of a candidate possessing a relevant Master s degreefrom a recognized University plus at least one-year post qualification cognate experience."
+                "By direct appointment of a candidate possessing a relevant Master s degree from a recognized University plus at least one-year post qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Senior Meteorologist"
             }
@@ -5210,7 +5202,7 @@
             "Senior Meteorologist Grade Level 10": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Meteorologist Grade I who has spentat least three years oil the grade.",
+                "By promotion of a confirmed and suitable Meteorologist Grade I who has spent at least three years on the grade.",
               "By direct appointment of a candidate possessing a degree in any of the following disciplines from a recognised University ;Meteorology or Physics or Mathematics or Statistics or Computer Science or Electronics or Agricultural Science or Geography plus at least six years’ postqualification cognate experience."
      ,
            
@@ -5243,7 +5235,7 @@
             "Chief Meteorologist Grade Level 14": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Meteorologist who has spent at least threeyears on the grade."
+                "By promotion of a suitable Assistant Meteorologist who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Assistant Director"
             }
@@ -5286,7 +5278,7 @@
             "Assistant Electrical Superintendent Grade Level 06": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Electrical Engineering from a recognized Institution. Final Certificate of the City and Guilds of London Institute in Electrical Engineering plus at least two years’ post-qualification cognate experience. Full technological Certificate (Craft) of the City and Guilds of London Institute in the relevant trade."
+                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Electrical Engineering from a recognized Institution. or Final Certificate of the City and Guilds of London Institute in Electrical Engineering plus at least two years’ post-qualification cognate experience. or Full technological Certificate (Craft) of the City and Guilds of London Institute in the relevant trade."
               ],
               "AdvancementPath": "Promotion to Electrical Superintendent"
             }
@@ -5305,11 +5297,9 @@
             "Higher Electrical Superintendent Grade Level 08": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Electrical superintendent who has spentat least three years on the grade"
+                "By promotion of a confirmed and suitable Electrical superintendent who has spent at least three years on the grade"
                 ,"By direct appointment of a candidate possessing the Higher National Diploma in Electrical Engineering from a recognised Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Electrical Engineering from a recognized Institution. Full technological Certificate (Craft) of the City and Guilds of London Institute in the relevant trade plus at least four years or Final Certificate of the City and Guilds of London Institute in Electrical Engineering plus at least seven years’ post-qualification cognate experience."
-
-             
+                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Electrical Engineering from a recognized Institution. or Full technological Certificate (Craft) of the City and Guilds of London Institute in the relevant trade plus at least four years or Final Certificate of the City and Guilds of London Institute in Electrical Engineering plus at least seven years’ post-qualification cognate experience."             
               ],
               "AdvancementPath": "Promotion to Senior Electrical Superintendent"
             }
@@ -5332,8 +5322,6 @@
                 "By promotion of a confirmed and suitable Senior Electrical Superintendent who has spent at least three years on the grade.",
                "By direct appointment of a candidate possessing the Higher National Diploma in Electrical Engineering from a recognised Institution. plus at least six years’ post-qualification cognate experience."
            
-              
-              
               ],
               "AdvancementPath": "Promotion to Principal Electrical Superintendent Grade I"
             }
@@ -5351,7 +5339,7 @@
             "Assistant Chief electrical Superintendent Grade Level 13": {
              
               "EntryRequirements": [
-                "Bypromotion of a confirmed and suitable Principal Electrical Grade I who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Principal Electrical Grade I who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Electrical Superintendent"
             }
@@ -5363,7 +5351,7 @@
             "Chief Electrical Superintendent Grade Level 14": {
              
               "EntryRequirements": [
-                "By promotion of an Assistant Chief Electrical Superintendent who has spentleast three years on the grade."
+                "By promotion of an Assistant Chief Electrical Superintendent who has spent least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -5386,7 +5374,7 @@
             "Trade Assistant Grade Level 04": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate. General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings."
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate. or General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings."
 
                         ],
               "AdvancementPath": "Promotion to Senior Trade Assistant Grade II"
@@ -5397,7 +5385,7 @@
               
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Trade Assistant who has spent at least two years on the grade.",
-             "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate. General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings. plus at least two years’ post-qualification"
+             "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate or Senior Secondary School Certificate. or General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings. plus at least two years’ post-qualification"
 
               ],
               "AdvancementPath": "Promotion to Senior Trade Assistant Grade I"
@@ -5407,7 +5395,7 @@
             "Senior Trade Assistant Grade I Grade Level 06": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Trade Assistant Grade II whohas spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Senior Trade Assistant Grade II who has spent at least two years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Trade Assistant"
             }
@@ -5431,7 +5419,7 @@
             "Assistant Trade Officer Grade Level 06": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings."
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings."
               
               ], 
                 "AdvancementPath": "Promotion to Trade Officer "
@@ -5454,7 +5442,7 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Trade Officer who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma or Higher National Certificate in Business Studies or Marketing from a recognizedInstitution plus at least five years post-qualification cognate  or By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings. plus at least three years’ post-qualification cognate experience."
+                "By direct appointment of a candidate possessing the Higher National Diploma or Higher National Certificate in Business Studies or Marketing from a recognized Institution plus at least five years post-qualification cognate  or By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings. plus at least three years’ post-qualification cognate experience."
              
               ],
               "AdvancementPath": "Promotion to Senior Trade Officer"
@@ -5465,7 +5453,7 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Trade Officer who has spent at least three years on the grade.",
-                  "By direct appointment of a candidate possessing the Higher National Diploma or Higher National Certificate in Business Studies or Marketing from a recognizedInstitution plus at least eight years post-qualification cognate  or By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings. plus at least six years’ post-qualification cognate experience."
+                  "By direct appointment of a candidate possessing the Higher National Diploma or Higher National Certificate in Business Studies or Marketing from a recognized Institution plus at least eight years post-qualification cognate  or By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings. plus at least six years’ post-qualification cognate experience."
                
               ],
               "AdvancementPath": "Promotion to Principal Trade Officer"
@@ -5475,8 +5463,8 @@
             "Principal Trade Officer Grade Level 10": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed-and suitable Senior Trade Officer who ins spent at least three years on the grade.",
-                 "By direct appointment of a candidate possessing the Higher National Diploma or Higher National Certificate in Business Studies or Marketing from a recognizedInstitution plus at least eleven years post-qualification cognate  or By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings. plus at least nine years’ post-qualification cognate experience."
+                "By promotion of a confirmed-and suitable Senior Trade Officer who has spent at least three years on the grade.",
+                 "By direct appointment of a candidate possessing the Higher National Diploma or Higher National Certificate in Business Studies or Marketing from a recognized Institution plus at least eleven years post-qualification cognate  or By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings. plus at least nine years’ post-qualification cognate experience."
                
               ],
               "AdvancementPath": "Promotion to Assistant Chief Trade Officer"
@@ -5486,7 +5474,7 @@
             "Assistant Chief Trade Officer Grade Level 12": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Trade Officer who hasspentat least three -years on the grade. "
+                "By promotion of a confirmed and suitable Principal Trade Officer who has spent at least three -years on the grade. "
          ],
               "AdvancementPath": "Promotion to Chief Trade Officer"
             }
@@ -5495,7 +5483,7 @@
             "Chief Trade Officer Grade Level 13": {
            
               "EntryRequirements": [
-                "Bypromotion of a suitable Assistant Chief Trade Officer who has spent at leastthreeyears on the grade."
+                "By promotion of a suitable Assistant Chief Trade Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -5512,7 +5500,7 @@
             "Assistant Inspector Grade Level 06": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subject passed at one sitting or three subjects at two sittings, preferably including Physics and Mathematics. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject. Ordinary National Diploma in a relevant subject from a recognized Institution."
+                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subject passed at one sitting or three subjects at two sittings, preferably including Physics and Mathematics. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject. or Ordinary National Diploma in a relevant subject from a recognized Institution."
               
               ],
               "AdvancementPath": "Promotion to Inspector"
@@ -5524,7 +5512,7 @@
             
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Assistant Inspector who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subject passed at one sitting or three subjects at two sittings, preferably including Physics and Mathematics. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject. Ordinary National Diploma in a relevant subject from a recognized Institution. plus-at least two yearn’ post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subject passed at one sitting or three subjects at two sittings, preferably including Physics and Mathematics. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject. or Ordinary National Diploma in a relevant subject from a recognized Institution. plus-at least two years post-qualification cognate experience.",
                "By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. Higher National Diploma in a relevant subject from a recognized Institution."
               
               
@@ -5537,10 +5525,9 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Inspector who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subject passed at one sitting or three subjects at two sittings, preferably including Physics and Mathematics. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject. Ordinary National Diploma in a relevant subject from a recognized Institution. plus-at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. Higher National Diploma in a relevant subject from a recognized Institution. plus at least three years post-qualification cognate experience."
+                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subject passed at one sitting or three subjects at two sittings, preferably including Physics and Mathematics. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject. or Ordinary National Diploma in a relevant subject from a recognized Institution. plus-at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. or Higher National Diploma in a relevant subject from a recognized Institution. plus at least three years post-qualification cognate experience."
               
               ],
-              
               
                 "AdvancementPath": "Promotion to Senior Inspector"
             }
@@ -5550,7 +5537,7 @@
               
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Inspector who has spent at least three years on the grade.",
-                  "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subject passed at one sitting or three subjects at two sittings, preferably including Physics and Mathematics. Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject. Ordinary National Diploma in a relevant subject from a recognized Institution. plus-at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. Higher National Diploma in a relevant subject from a recognized Institution. plus at least six years post-qualification cognate experience."
+                  "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subject passed at one sitting or three subjects at two sittings, preferably including Physics and Mathematics. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject. or Ordinary National Diploma in a relevant subject from a recognized Institution. plus-at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. or Higher National Diploma in a relevant subject from a recognized Institution. plus at least six years post-qualification cognate experience."
             
               ],
               "AdvancementPath": "Promotion to Principal Inspector Grade II"
@@ -5561,7 +5548,7 @@
               
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Senior Inspector who has spent atleast three years on the grade.",
-                   "By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. Higher National Diploma in a relevant subject from a recognized Institution. plus at least nine years post-qualification cognate experience."
+                   "By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. or Higher National Diploma in a relevant subject from a recognized Institution. plus at least nine years post-qualification cognate experience."
             
               ],
               "AdvancementPath": "Promotion to Principal Inspector  Grade 1"
@@ -5669,10 +5656,6 @@
               "AdvancementPath": "Promotion to Deputy Director"
             }
           },
-
-
-
-
           {
             "Deputy Director/Director (States) Grade Level 16 ": {
           
@@ -5734,7 +5717,7 @@
             "Cultural Assistant Grade Level 04": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate/Senior Secondary School Certificate General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or in five credits at two sittings."    
+                "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate/Senior Secondary School Certificate or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or in five credits at two sittings."    
                 
               ],
               "AdvancementPath": "Promotion to Senior Cultural Assistant Grade II"
@@ -5745,7 +5728,7 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Cultural Assistant who has spent at least two years on the grade.",
-               "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate/Senior Secondary School Certificate General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or in five credits at two sittings. plus at least two years’ post-qualification cognate experience."    
+               "By direct appointment of a candidate possessing any of the following qualifications: West African School Certificate/Senior Secondary School Certificate or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or in five credits at two sittings. plus at least two years’ post-qualification cognate experience."    
                
               ],
               "AdvancementPath": "Promotion to Senior Cultural Assistant Grade I"
@@ -5781,7 +5764,7 @@
             "Assistant Executive Officer Grade 06": {
               
               "EntryRequirements": [
-               "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjectsobtained at one sitting or in three subjects obtained at two sittings. Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution."
+               "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution."
              
               ],
               "AdvancementPath": "Promotion to Executive Officer"
@@ -5793,7 +5776,7 @@
             
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Assistant Executive Officer (Culture) who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjectsobtained at one sitting or in three subjects obtained at two sittings. Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. plus at least two years’ post-qualification cognateexperience."
+                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. plus at least two years’ post-qualification cognate experience."
              ,  "By direct appointment of a candidate possessing the Higher National Diploma in Fine Arts, Drama, Music or Journalism obtained from a recognized Institution."
               
               ],
@@ -5804,10 +5787,8 @@
             "Higher Executive Officer Grade Level 08": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Executive Officer (Culture) who has spent at least three years onthe grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjectsobtained at one sitting or in three subjects obtained at two sittings. Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. plus at least five years’ post-qualification cognateexperience or By direct appointment of a candidate possessing the Higher National Diploma in Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. above plus at least three years’ post- qualification cognate experience"
-              
-              
+                "By promotion of a confirmed and suitable Executive Officer (Culture) who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. plus at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. above plus at least three years’ post- qualification cognate experience"
               ],
               "AdvancementPath": "Promotion to Senior Executive Officer"
             }
@@ -5818,7 +5799,7 @@
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Executive Officer (Culture)who has spent at least three years on the grade.",
                 
-               "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjectsobtained at one sitting or in three subjects obtained at two sittings. Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. plus at least eight years’ post-qualification cognateexperience or By direct appointment of a candidate possessing the Higher National Diploma in Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. above plus at least six years’ post- qualification cognate experience"
+               "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. plus at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. above plus at least six years’ post- qualification cognate experience"
               
               ],
               "AdvancementPath": "Promotion to Principal Executive Officer Grade II"
@@ -5829,12 +5810,10 @@
               
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Senior Executive Officer (Culture) who has spent at least three years on the grade.",
-                
-                
-                 "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjectsobtained at one sitting or in three subjects obtained at two sittings. Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. plus at least eleven years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. above plus at least nine years’ post- qualification cognate experience"
+                 "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subjects obtained at one sitting or in three subjects obtained at two sittings. or Ordinary National Diploma in a Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. plus at least eleven years’ post-qualification cognate experience or By direct appointment of a candidate possessing the Higher National Diploma in Fine Arts, Drama, Music or Journalism obtained from a recognized Institution. above plus at least nine years’ post- qualification cognate experience"
               
               ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade 1"
+              "AdvancementPath": "Promotion to Principal Executive Officer Grade I"
             }
           },
           {
