@@ -5430,8 +5430,8 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Assistant Trade Officer who has spent at least two-years on the grade.",
-                "By direct appointment of a candidate possessing the Higher National Diploma or Higher National Certificate in Business Studies or Marketing from a recognizedInstitution.",
-                 "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings. plus at least two years’ post-qualification cognate experience."
+                "By direct appointment of a candidate possessing the Higher National Diploma or Higher National Certificate in Business Studies or Marketing from a recognized Institution.",
+                 "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in Business Administration or Marketing from a recognized Institution. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings. plus at least two years’ post-qualification cognate experience."
              
               ],
               "AdvancementPath": "Promotion to Higher Trade Officer "
@@ -5513,7 +5513,7 @@
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Assistant Inspector who has spent at least two years on the grade.",
                 "By direct appointment of a candidate possessing any of the following qualifications: General Certificate of Education (Advanced Level) in two subject passed at one sitting or three subjects at two sittings, preferably including Physics and Mathematics. or Full Technological Certificate (Craft) of the City and Guilds Institute of London in a relevant subject. or Ordinary National Diploma in a relevant subject from a recognized Institution. plus-at least two years post-qualification cognate experience.",
-               "By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. Higher National Diploma in a relevant subject from a recognized Institution."
+               "By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. or Higher National Diploma in a relevant subject from a recognized Institution."
               
               
               ],
@@ -5551,7 +5551,7 @@
                    "By direct appointment of a candidate possessing any of the following qualifications: Testamur Certificate of Weights and Measures. or Higher National Diploma in a relevant subject from a recognized Institution. plus at least nine years post-qualification cognate experience."
             
               ],
-              "AdvancementPath": "Promotion to Principal Inspector  Grade 1"
+              "AdvancementPath": "Promotion to Principal Inspector  Grade I"
             }
           },
           {
@@ -5702,7 +5702,7 @@
             "Head Cultural Attendant Grade Level 03": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Cultural Attendant who has -spent atleast two years on the grade."
+                "By promotion of a confirmed and suitable Cultural Attendant who has spent atleast two years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -5918,13 +5918,9 @@
               "EntryRequirements": [
                 "By promotion of a suitable Chief Cultural Officer who has spent at least three years on the grade."
               ],
-              "AdvancementPath": "Promotion to Deputy Director"
+              "AdvancementPath": "Promotion to Deputy Director/Director (States)"
             }
           },
-
-
-
-
           {
             "Deputy Director/Director (States) Grade Level 16": {
           
@@ -5938,7 +5934,7 @@
             "Director Grade Level 17.": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Steward who has spent at two years on the grade."
+                "By promotion of a suitable Deputy Director who has spent at least four years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -6054,7 +6050,7 @@
             "Tourist Guide Assistant Grade Level 03": {
              
               "EntryRequirements": [
-               "By direct appointment of a candidate possessing any of the following qualifications; Evidence of completion of a full course in a Government approved Secondary School or S.75 Junior Secondary School Certificate. General certificate of Education (Ordinary Level) with three credits passed at one sitting or four credits at two sittings."
+               "By direct appointment of a candidate possessing any of the following qualifications; Evidence of completion of a full course in a Government approved Secondary School or S.75 or Junior Secondary School Certificate. or General certificate of Education (Ordinary Level) with three credits passed at one sitting or four credits at two sittings."
                 
 
               ],
@@ -6066,7 +6062,7 @@
              
               "EntryRequirements": [
                    "By promotion of a confirmed and suitable Tourist Guide Assistant who has spent at least two years on the grade and passed the Departmental Confirmation/Promotion Test for Tourist, Guides/Hostesses at promotion level (i.e. 50%).",
-                    "By direct appointment of a candidate possessing any of the following qualifications:- West African School Certificate or Senior Secondary School Certificate (WASC/SSSC). General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings."
+                    "By direct appointment of a candidate possessing any of the following qualifications:- West African School Certificate or Senior Secondary School Certificate (WASC/SSSC). or General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings."
 
                   
               ],
@@ -6078,7 +6074,7 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Tourist Guide who has spent at least two years on the grade.",
-                  "By direct appointment of a candidate possessing any of the following qualifications:- West African School Certificate or Senior Secondary School Certificate (WASC/SSSC). General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
+                  "By direct appointment of a candidate possessing any of the following qualifications:- West African School Certificate or Senior Secondary School Certificate (WASC/SSSC). or General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
 
               ],
               "AdvancementPath": "Promotion to Senior Tourist Guide Grade I"
@@ -6160,7 +6156,6 @@
                 "By promotion of a confirmed and suitable Senior Executive Officer who has spent at least three years on the grade.",
                  "By direct appointment of a candidate possessing Ordinary National Diploma in Tourism, Social Work or Catering and Hotel Management from a recognized Institution plus at least eleven years post-qualification cognate experience. or By direct appointment of a candidate possessing the Higher National Diploma in Tourism, Social Work or Catering and Hotel Management from a recognized Institution plus at least nine years post-qualification cognate experience. "    
              
-             
               ],
               "AdvancementPath": "Promotion to Principal Executive Officer Grade I"
             }
@@ -6213,7 +6208,7 @@
             "Tourism Officer Grade I Grade Level 09": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Tourism Officer Grade II who hasspent at least three years on the grade.",
+                "By promotion of a confirmed and suitable Tourism Officer Grade II who has spent at least three years on the grade.",
                 "By direct appointment of a candidate possessing a degree preferably in Arts, Tourism or Social Science obtained from a recognized University plus at least three years post-qualification cognate experience.",
                 
                 "By direct appointment of a candidate possessing a recognized Masters’ degree in Tourism plus at least one-year post-qualification cognate experience."
@@ -6236,7 +6231,7 @@
             "Principal Tourism Officer Grade Level 12": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Tourism Officer who hasspent at least three years onthe grade."
+                "By promotion of a confirmed and suitable Senior Tourism Officer who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Assistant Chief Tourism Officer"
             }
@@ -6245,7 +6240,7 @@
             "Assistant Chief Tourism Officer Grade Level 13": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Tourism Officer who hasspentatleastthreeyearsonthegrade."
+                "By promotion of a confirmed and suitable Principal Tourism Officer who has spent at least three years on the grade."
               
               ],
               "AdvancementPath": "Promotion to Chief Tourism Officer"
@@ -6255,7 +6250,7 @@
             "Chief Tourism Officer Grade Level 14": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Tourism Officer who has spent atleastthreeyearsonthegrade."
+                "By promotion of a suitable Assistant Chief Tourism Officer who has spent at least three years on the grade."
             
               ],
               "AdvancementPath": "Promotion to Assistant Director"
@@ -6309,7 +6304,7 @@
             "Data Processing Assistant Grade II Grade Level 03": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications:- Evidence of completion of a fill course in a Government approved Secondary School or S.75. Junior Secondary School Certificate. General Certificate of Education (Ordinary Level) with three credits obtained at one sitting or four credits at two sittings."
+                "By direct appointment of a candidate possessing any of the following qualifications:- Evidence of completion of a fill course in a Government approved Secondary School or S.75. or Junior Secondary School Certificate. or General Certificate of Education (Ordinary Level) with three credits obtained at one sitting or four credits at two sittings."
 
               ],
               "AdvancementPath": "Promotion to Data Processing Assistant Grade I"
@@ -6319,8 +6314,8 @@
             "Data Processing Assistant Grade I Grade Level 04": {
               
               "EntryRequirements": [
-                "By promotion of a continued and suitable Data Processing Assistant Grade II who has spent at least two 3eais on the grade and passed the Departmental Confirmation/Promotion Examination at promotion level (i.e. 50 percent).",
-                "By direct appointment of a candidate possessing any of following qualifications: West African School Certificate or Senior Secondary School Certificate preferably with a pass in Mathematics. General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five &edits at two sittings, preferably withpass in Mathematics."
+                "By promotion of a continued and suitable Data Processing Assistant Grade II who has spent at least two years on the grade and passed the Departmental Confirmation/Promotion Examination at promotion level (i.e. 50 percent).",
+                "By direct appointment of a candidate possessing any of following qualifications: West African School Certificate or Senior Secondary School Certificate preferably with a pass in Mathematics. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five &edits at two sittings, preferably withpass in Mathematics."
 
               ],
               "AdvancementPath": "Promotion to Senior Data Processing Assistant Grade II"
@@ -6331,7 +6326,7 @@
               
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Data Processing Assistant Grade I who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of following qualifications: West African School Certificate or Senior Secondary School Certificate preferably with a pass in Mathematics. General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five &edits at two sittings, preferably withpass in Mathematics. plus at least two years’post-qualification cognate experience."
+                "By direct appointment of a candidate possessing any of following qualifications: West African School Certificate or Senior Secondary School Certificate preferably with a pass in Mathematics. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five &edits at two sittings, preferably with pass in Mathematics. plus at least two years’post-qualification cognate experience."
 
 
               ],
@@ -6431,7 +6426,7 @@
             "Chief Data Processing Officer Grade Level 13": {
            
               "EntryRequirements": [
-              "By promotion of a suitable Assistant Chief Data Processing Officer who hasspent at least three years on the grade."    
+              "By promotion of a suitable Assistant Chief Data Processing Officer who has spent at least three years on the grade."    
             ],
               "AdvancementPath": ""
             }
@@ -6448,7 +6443,7 @@
             "Programme Analyst Grade II Grade Level 08": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing a degree in Computer Scienceor Statistics with a post-graduate Diploma in Computer Science from a recognized University."
+                "By direct appointment of a candidate possessing a degree in Computer Science or Statistics with a post-graduate Diploma in Computer Science from a recognized University."
 
               ],
               "AdvancementPath": "Promotion to Programme Analyst Grade I"
@@ -6469,7 +6464,7 @@
             "Senior Programme Analyst Grade Level 10": {
              
               "EntryRequirements": [
-             "By promotion of a confirmed and suitable ProgrammeAnalyst Grade I who has least three years on the grade.",
+             "By promotion of a confirmed and suitable Programme Analyst Grade I who has least three years on the grade.",
                 "By direct appointment of a candidate possessing a degree in Computer Scienceor Statistics with a post-graduate Diploma in Computer Science from a recognized University. plus at least six years’ post-qualification cognate experience."],
               "AdvancementPath": "Promotion to Principal Programme Analyst"
             }
@@ -6487,7 +6482,7 @@
             "Assistant Chief Programme Analyst Grade Level 13": {
               
               "EntryRequirements": [
-                "By promotion of a suitable Principal ProgrammeAnalyst who has spent at least threeyearson the grade."
+                "By promotion of a suitable Principal Programme Analyst who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Programme Analyst"
             }
@@ -6496,7 +6491,7 @@
             "Chief Programme Analyst Grade Level 14": {
           
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Programme Analyst who has spent at least threeyears on the grade."
+                "By promotion of a suitable Assistant Chief Programme Analyst who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Assistant Director"
             }
@@ -6505,7 +6500,7 @@
             "Assistant Director Grade Level 15": {
               
               "EntryRequirements": [
-                "By promotion of a suitable Chief Programme Analystwho has spent at least three years on the grade."
+                "By promotion of a suitable Chief Programme Analyst who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Deputy Director/Director (States)"
             }
@@ -6541,7 +6536,7 @@
             "Assistant Enumerator Grade Level 03": {
              
               "EntryRequirements": [
-                  "By direct appointment of a candidate possessing any of the following qualifications:Junior Secondary School Certificate. General Certificate of Education (Ordinary Level) with three credits obtained at one sitting or four credits at two sittings, Evidence of completion of a full course in a Government approved Secondary School or S.75."
+                  "By direct appointment of a candidate possessing any of the following qualifications:Junior Secondary School Certificate. or General Certificate of Education (Ordinary Level) with three credits obtained at one sitting or four credits at two sittings, or Evidence of completion of a full course in a Government approved Secondary School or S.75."
               ],
               "AdvancementPath": "Promotion to Enumerator/Field Assistant"
             }
@@ -6550,8 +6545,8 @@
             "Enumerator/Field Assistant Grade Level 04": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Enumerator who has spent at least twoyears on the grade and passed the Confirmation/Promotion Examination atpromotion level i.e. 50 percent.",
-                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate,preferably with a pass in Mathematics. General Certificate of Education (Ordinary Level) with four creditsobtained at one sitting or five credits at two sittings, preferably with apass in Mathematics."
+                "By promotion of a suitable Assistant Enumerator who has spent at least two years on the grade and passed the Confirmation/Promotion Examination at promotion level i.e. 50 percent.",
+                "By direct appointment of a candidate possessing any of the following qualifications:Senior Secondary School Certificate or West African School Certificate,preferably with a pass in Mathematics. General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings, preferably with a pass in Mathematics."
 
               ],
               "AdvancementPath": "Promotion to Senior Field Assistant Grade II or  promotion to Assistant Statistical Officer Assistant Field Superintendent(if successfully completed Parts I and II of the Statistical Assistants Course at a recognised Institution.)"
@@ -6561,8 +6556,8 @@
             "Senior Field Assistant Grade II Grade Level 05": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Enumerator/Field Assistant whohas spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary School Certificate or West African School Certificate,preferably with a pass in Mathematics. General Certificate of Education (Ordinary Level) with four creditsobtained at one sitting or five credits at two sittings, preferably with apass in Mathematics. plus at least two years’ post-qualification cognate experience."
+                "By promotion of a confirmed and suitable Enumerator/Field Assistant who has spent at least two years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Senior Secondary School Certificate or West African School Certificate,preferably with a pass in Mathematics. or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings, preferably with a pass in Mathematics. plus at least two years’ post-qualification cognate experience."
 
               ],
               "AdvancementPath": "Promotion to Senior Field Assistant Grade I"
@@ -6581,7 +6576,7 @@
             "Chief Field Assistant Grade Level 07 ": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Field Assistant Grade I whohas spent at least two years on the grade."
+                "By promotion of a confirmed and suitable Senior Field Assistant Grade I who has spent at least two years on the grade."
               ],
               "AdvancementPath": "lateral transfer to Statistical Officer/Field Superintendent(if successfully completed the Part II of the Statistical Assistant Course.)"
             }
@@ -6596,7 +6591,7 @@
             "Statistical Assistant Grade Level 04": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the fol1owing qualifications including a pass in Mathematics: West African School Certificate or Senior Secondary School Certificate General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings."
+                "By direct appointment of a candidate possessing any of the fol1owing qualifications including a pass in Mathematics: West African School Certificate or Senior Secondary School Certificate or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings."
               ],
               "AdvancementPath": "Promotion to Senior Statistical Assistant Grade II "
             }
@@ -6606,8 +6601,8 @@
               
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Statistical Assistant who has spent at least two years on the grade.",
-               "By direct appointment of a candidate possessing any of the following qualifications:- A pass in the Preliminary Stage of the Institute of Statistics Examination. A pass in Part I of the Regular Statistical Assistant Course at the Federal Office of Statistics Training School or any other approved Institution.",
-                "By direct appointment of a candidate possessing any of the fol1owing qualifications including a pass in Mathematics: West African School Certificate or Senior Secondary School Certificate General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
+               "By direct appointment of a candidate possessing any of the following qualifications:- A pass in the Preliminary Stage of the Institute of Statistics Examination.or  A pass in Part I of the Regular Statistical Assistant Course at the Federal Office of Statistics Training School or any other approved Institution.",
+                "By direct appointment of a candidate possessing any of the following qualifications including a pass in Mathematics: West African School Certificate or Senior Secondary School Certificate or General Certificate of Education (Ordinary Level) with four credits obtained at one sitting or five credits at two sittings. plus at least two years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Senior Statistics Assistant Grade I"
             }
@@ -6616,8 +6611,8 @@
             "Senior Statistics Assistant Grade I Grade Level 06": {
           
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Statistical Assistant Grade who has spent at least two years on the grade.",
-               "By direct appointment of a candidate possessing any of the following qualifications:- A pass in the Preliminary Stage of the Institute of Statistics Examination. A pass in Part I of the Regular Statistical Assistant Course at the Federal Office of Statistics Training School or any other approved Institution. plus at least two years’ post-qualification cogitate experience."
+                "By promotion of a confirmed and suitable Senior Statistical Assistant Grade II who has spent at least two years on the grade.",
+               "By direct appointment of a candidate possessing any of the following qualifications:- A pass in the Preliminary Stage of the Institute of Statistics Examination. or A pass in Part I of the Regular Statistical Assistant Course at the Federal Office of Statistics Training School or any other approved Institution. plus at least two years’ post-qualification cogitate experience."
               ],
               "AdvancementPath": "Promotion to Chief Statistical Assistant or lateral transfer to Assistant Statistical Officer Assistant Field Superintendent(if successfully completed the Part II of the Statistical Assistants Course.)"
             }
@@ -6643,9 +6638,9 @@
             "Assistant Statistical Officer/Assistant Field Superintendent Grade Level 06": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and outstanding Statistical Assistant aEnumerator/Field Assistant who has successfully completed Parts I and II of the Statistical Assistants Course at a recosnised Institution.",
+                "By promotion of a confirmed and outstanding Statistical Assistant Enumerator/Field Assistant who has successfully completed Parts I and II of the Statistical Assistants Course at a recognised Institution.",
                 "By lateral transfer of a Senior Field Assistant Grade I or Senior StatisticAssistant Grade I who has successfully completed the Part II of the Statistical Assistants Course.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of StatisticiansLondon. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. Ordinary National Diploma in Statistics obtained from an accredited Institution."
+                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of StatisticiansLondon. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. or Ordinary National Diploma in Statistics obtained from an accredited Institution."
             
               ],
               "AdvancementPath": "Promotion to Statistical Officer/Field Superintendent"
@@ -6656,8 +6651,8 @@
              
               "EntryRequirements": [
                   "By promotion of a confirmed and suitable Assistant Statistical Officer/Assistant Field Superintendent who has spent at least two years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of StatisticiansLondon. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. Ordinary National Diploma in Statistics obtained from an accredited Institution. plus at least two years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Diploma Certificate in Statistics of the University of Ibadan. StageI certificateof the Instituteof Statisticians, London. Higher National Diploma in Statistics from an accredited Institution",
+                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of StatisticiansLondon. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. or Ordinary National Diploma in Statistics obtained from an accredited Institution. plus at least two years’ post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing any of the following qualifications: Diploma Certificate in Statistics of the University of Ibadan. or Stage I certificate of the Institute of Statisticians, London. or Higher National Diploma in Statistics from an accredited Institution",
                 "By lateral transfer of a Chief Field Assistant or Chief Statistical Assistant has successfully completed the Part II of the Statistical Assistant Course."
 
               ],
@@ -6669,10 +6664,7 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Statistical Officer Superintendent who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of Statisticians London. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. Ordinary National Diploma in Statistics obtained from an accredited Institution above plus at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Diploma Certificate in Statistics of the University of Ibadan. Stage I certificate of the Institute of Statisticians, London. Higher National Diploma in Statistics from an accredited Institution plus at least three post- qualification cognate experiences."
-
-                
-
+                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of Statisticians London. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. or Ordinary National Diploma in Statistics obtained from an accredited Institution above plus at least five years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Diploma Certificate in Statistics of the University of Ibadan. or Stage I certificate of the Institute of Statisticians, London. or Higher National Diploma in Statistics from an accredited Institution plus at least three post- qualification cognate experiences."
               ],
               "AdvancementPath": "Promotion to Senior Statistical Officer/Senior Field Superintendent"
             }
@@ -6682,41 +6674,46 @@
           
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Statistical Officer/Higher Superintendent who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of Statisticians London. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. Ordinary National Diploma in Statistics obtained from an accredited Institution above plus at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Diploma Certificate in Statistics of the University of Ibadan. Stage I certificate of the Institute of Statisticians, London. Higher National Diploma in Statistics from an accredited Institution plus at least six post- qualification cognate experiences."
-
-                
+                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of Statisticians London. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. or Ordinary National Diploma in Statistics obtained from an accredited Institution above plus at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Diploma Certificate in Statistics of the University of Ibadan. or Stage I certificate of the Institute of Statisticians, London. or Higher National Diploma in Statistics from an accredited Institution plus at least six post- qualification cognate experiences."    
               ],
               "AdvancementPath": "Promotion to Principal Statistical Officer/Principal Field Superintendent"
             }
           },
           {
-            "Principal Statistical Officer/Principal Field Superintendent Grade Level 10": {
+            "Principal Statistical Officer Grade II / Principal Field Superintendent Grade II Grade Level 10": {
             
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Senior Statistical Officer/Senior Superintendent who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of Statisticians London. General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. Ordinary National Diploma in Statistics obtained from an accredited Institution above plus at least eleven years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Diploma Certificate in Statistics of the University of Ibadan. Stage I certificate of the Institute of Statisticians, London. Higher National Diploma in Statistics from an accredited Institution plus at least nine post- qualification cognate experiences."
+                "By direct appointment of a candidate possessing any of the following qualifications: Stage I Certificate of the Institute of Statisticians London. or General Certificate of Education (Advanced Level) in two subjects passed at one sitting or three subjects at two sittings preferably including Mathematics. or Ordinary National Diploma in Statistics obtained from an accredited Institution above plus at least eleven years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Diploma Certificate in Statistics of the University of Ibadan. or Stage I certificate of the Institute of Statisticians, London. or Higher National Diploma in Statistics from an accredited Institution plus at least nine post- qualification cognate experiences."
                           
               ],
-              "AdvancementPath": "Promotion to Assistant Chief Statistical Officer/Asst. Chief Field Superintendent"
+              "AdvancementPath": "Promotion to Principal Statistical Officer Grade I / Principal Field Superintendent Grade I "
             }
           },
           {
-            "Assistant Chief Statistical Officer/Asst. Chief Field Superintendent Grade Level 12": {
+            "Principal Statistical Officer Grade I / Principal Field Superintendent Grade I Grade Level 12": {
+            
+              "EntryRequirements": [
+                "By promotion of a confirmed and suitable Principal Statistical Officer Grade II / Principal Field Superintendent Grade II who has spent at least three years on the grade."                          
+              ],
+              "AdvancementPath": "Promotion to Assistant Chief Statistical Officer/Assistant Chief Field Superintendent"
+            }
+          },
+          {
+            "Assistant Chief Statistical Officer/Assistant Chief Field Superintendent Grade Level 13": {
             
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Principal Statistical Officer/Principal Field Superintendent who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Principal Statistical Officer Grade I / Principal Field Superintendent Grade I who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Statistical Officer/Chief Field Superintendent "
             }
           },
-         
-          
           {
-            "Chief Statistical Officer/Chief Field Superintendent Grade Level 13": {
+            "Chief Statistical Officer/Chief Field Superintendent Grade Level 14": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Statistical Officer/Assistant ChiefField Superintendent who has spent at least three years on the grade."
+                "By promotion of a suitable Assistant Chief Statistical Officer/Assistant Chief Field Superintendent who has spent at least three years on the grade."
               ],
               "AdvancementPath": ""
             }
@@ -6733,7 +6730,7 @@
             "Statistician Grade II Grade Level 08": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Statistics as a special subject from a recognized University A degree from a recognized University in Social Science or Mathematics without Statistics plus a Post-graduate Diploma in Statistics. A pass in the Final examination of the Institute of Statisticians"
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Statistics as a special subject from a recognized University or A degree from a recognized University in Social Science or Mathematics without Statistics plus a Post-graduate Diploma in Statistics. or A pass in the Final examination of the Institute of Statisticians"
               ],
               "AdvancementPath": "Promotion to Statistician"
             }
@@ -6744,10 +6741,7 @@
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Statistician Grade II who has spent at least three years on the grade.",
                 "By direct appointment of a candidate possessing a Master’s degree in statistics, Demography, Mathematics or Social Science with Statistics plus at least one year post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Statistics as a special subject from a recognized University A degree from a recognized University in Social Science or Mathematics without Statistics plus a Post-graduate Diploma in Statistics. A pass in the Final examination of the Institute of Statisticians plus at least three years’ post- qualifications cognate experience."
-
-
-
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Statistics as a special subject from a recognized University or A degree from a recognized University in Social Science or Mathematics without Statistics plus a Post-graduate Diploma in Statistics. or A pass in the Final examination of the Institute of Statisticians plus at least three years’ post- qualifications cognate experience."
               ],
               "AdvancementPath": "Promotion to Senior Statistician"
             }
@@ -6757,7 +6751,7 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Statistician Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Statistics as a special subject from a recognized University A degree from a recognized University in Social Science or Mathematics without Statistics plus a Post-graduate Diploma in Statistics. A pass in the Final examination of the Institute of Statisticians plus at least six years’ post- qualifications cognate experience or By direct appointment of a candidate possessing a Master’s degree in statistics, Demography, Mathematics or Social Science with Statistics plus at least four year post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Statistics as a special subject from a recognized University or A degree from a recognized University in Social Science or Mathematics without Statistics plus a Post-graduate Diploma in Statistics. or A pass in the Final examination of the Institute of Statisticians plus at least six years’ post- qualifications cognate experience or By direct appointment of a candidate possessing a Master’s degree in statistics, Demography, Mathematics or Social Science with Statistics plus at least four year post-qualification cognate experience.",
                 "By direct appointment of a candidate possessing a relevant Doctorate degree in at least one-year post-qualification cognate experience."
 
               ],
@@ -6778,7 +6772,7 @@
             "Assistant Chief Statistician Grade Level 13": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Statistician who hasspent at least three years on the grade."
+                "By promotion of a confirmed and suitable Principal Statistician who has spent at least three years on the grade."
 
               ],
               "AdvancementPath": "Promotion to Chief Statistician"
@@ -6788,7 +6782,7 @@
             "Chief Statistician Grade Level 14": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Chief Statistician who hasspent at least three years on the grade."
+                "By promotion of a confirmed and suitable Assistant Chief Statistician who has spent at least three years on the grade."
 
               ],
               "AdvancementPath": "Promotion to Assistant Director"
@@ -6798,7 +6792,7 @@
             "Assistant Director Grade Level 15": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Chief Statistician who has spent at least three yearson the grade."
+                "By promotion of a suitable Chief Statistician who has spent at least three years on the grade."
 
               ],
               "AdvancementPath": "Promotion to Deputy Director/Director (States)"
@@ -6808,7 +6802,7 @@
             "Deputy Director/Director (States) Grade Level 16": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Director who has spent at least four yearson the grade."
+                "By promotion of a suitable Assistant Director who has spent at least four years on the grade."
 
               ],
               "AdvancementPath": "Promotion to Director"
@@ -6835,9 +6829,7 @@
             "Planning Officer Grade II Grade Level 08": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Economic preferably with Statistics, Econometrics Development Planning as a subject from a recognized University. A degree plus Post-Graduate Diploma in Economic Planning, Economic Development or Project Preparation from a recognized University."
-
-
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Economic preferably with Statistics, Econometrics Development Planning as a subject from a recognized University. or A degree plus Post-Graduate Diploma in Economic Planning, Economic Development or Project Preparation from a recognized University."
               ],
               "AdvancementPath": "Promotion to Planning Officer Grade I"
             }
@@ -6846,8 +6838,8 @@
             "Planning Officer Grade I Grade Level 09": {
              
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Planning Officer Grade II who spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Economic preferably with Statistics, Econometrics Development Planning as a subject from a recognized University. A degree plus Post-Graduate Diploma in Economic Planning, Economic Development or Project Preparation from a recognized University. plus at least three years’ qualification cognate experience.",
+                "By promotion of a confirmed and suitable Planning Officer Grade II who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Economic preferably with Statistics, Econometrics Development Planning as a subject from a recognized University. or A degree plus Post-Graduate Diploma in Economic Planning, Economic Development or Project Preparation from a recognized University. plus at least three years’ qualification cognate experience.",
                 "By direct appointment of a candidate possessing a relevant Master’s degree in at least one-year post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Senior Planning Officer"
@@ -6858,11 +6850,9 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Planning Officer Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Economic preferably with Statistics, Econometrics Development Planning as a subject from a recognized University. A degree plus Post-Graduate Diploma in Economic Planning, Economic Development or Project Preparation from a recognized University. plus at least six years’ qualification cognate experience.",
+                "By direct appointment of a candidate possessing any of the following qualifications: A degree in Economic preferably with Statistics, Econometrics Development Planning as a subject from a recognized University. or A degree plus Post-Graduate Diploma in Economic Planning, Economic Development or Project Preparation from a recognized University. plus at least six years’ qualification cognate experience.",
                 "By direct appointment of a candidate possessing a relevant Master’s degree plus at least four years’ post-qualification cognate experience.",
-                "By direct appointment of a candidate possessing a relevant Doctorate degree plus at least one-year post-qualification cognate experience."
-              
-              
+                "By direct appointment of a candidate possessing a relevant Doctorate degree plus at least one-year post-qualification cognate experience."      
               ],
               "AdvancementPath": "Promotion to Principal Planning Officer"
             }
@@ -6955,8 +6945,8 @@
             "Teacher Grade I/Headmaster Grade III/Master Grade III Grade Level 07": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Teacher Grade II, possessing Teachers’ Grade II Certificate only, who has spent at least four years on the grade or advancement of a Teacher Grade II who has spent two years on the gradeafter obtaining Associate Certificate in Education.",
-                "By direct appointment/promotion of a candidate possessing any of the following qualifications: Teachers’ Grade II Certificate plus successful completion of a two years Rural Science Course at a recognized Institution. Teacher’s Grade II Certificate plus Associateship Certificate Education and at least two years’ post-qualification cognate experience. National Certificate of Education (NCE).",
+                "By promotion of a confirmed and suitable Teacher Grade II, possessing Teachers’ Grade II Certificate only, who has spent at least four years on the grade or advancement of a Teacher Grade II who has spent two years on the grade after obtaining Associate Certificate in Education.",
+                "By direct appointment/promotion of a candidate possessing any of the following qualifications: Teachers’ Grade II Certificate plus successful completion of a two years Rural Science Course at a recognized Institution. or Teacher’s Grade II Certificate plus Associateship Certificate Education and at least two years’ post-qualification cognate experience. or National Certificate of Education (NCE).",
                 "By direct appointment of a candidate possessing Teachers’ Grade II Certificate plus at least four years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Headmaster Grade II/Master Grade II"
@@ -6966,11 +6956,8 @@
             "Headmaster Grade II/Master Grade II Grade Level 08": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Teacher Grade I/Master Grade II who has spent at least three yen on the grade.",
-                "By direct appointment/promotion of a candidate possessing any of the following qualifications: Teachers’ Grade II Certificate plus successful completion of a two years Rural Science Course at a recognized Institution. Teacher’s Grade II Certificate plus Associateship Certificate Education and at least two years’ post-qualification cognate experience. National Certificate of Education (NCE) plus at least three years’ post- qualification cognate experience  or By direct appointment of a candidate possessing Teachers’ Grade II Certificate plus at least seven years’ post-qualification cognate experience. "
-
-
-
+                "By promotion of a confirmed and suitable Teacher Grade I/Master Grade II who has spent at least three year on the grade.",
+                "By direct appointment/promotion of a candidate possessing any of the following qualifications: Teachers’ Grade II Certificate plus successful completion of a two years Rural Science Course at a recognized Institution. or Teacher’s Grade II Certificate plus Associateship Certificate Education or National Certificate of Education (NCE) plus at least three years’ post- qualification cognate experience  or By direct appointment of a candidate possessing Teachers’ Grade II Certificate plus at least seven years’ post-qualification cognate experience. "
               ],
               "AdvancementPath": "Promotion to Headmaster Grade I/Master Grade I"
             }
@@ -6991,7 +6978,7 @@
             "Headmaster (Special Grade)/Senior Master Grade II Grade Level 10": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Headmaster Grade I/Master Grade Iwho has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Headmaster Grade I/Master Grade I who has spent at least three years on the grade."
 
               ],
               "AdvancementPath": ""
@@ -7017,7 +7004,7 @@
             "Higher Assistant Education Officer Grade Level 08": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Assistant Education Officer who hasspent at least three years on the grade.",
+                "By promotion of a confirmed and suitable Assistant Education Officer who has spent at least three years on the grade.",
                 "By direct appointment of a candidate possessing the National Certificate of Education plus at least three years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Senior Assistant Education Officer"
@@ -7027,8 +7014,8 @@
             "Senior Assistant Education Officer Grade Level 09": {
            
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Higher Assistant Education Officewho has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the National Certificate ofEducation plus at least six years’ post-qualification cognate experience."
+                "By promotion of a confirmed and suitable Higher Assistant Education Office who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing the National Certificate of Education plus at least six years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Principal Assistant Education Officer Grade II"
             }
@@ -7049,7 +7036,7 @@
            
               "EntryRequirements": [
 
-                "By promotion of a confirmed and suitable Principal Assistant EducationOfficer Grade II who has spent at least three years on the grade."
+                "By promotion of a confirmed and suitable Principal Assistant Education Officer Grade II who has spent at least three years on the grade."
               ],
               "AdvancementPath": "Promotion to Chief Assistant Education Officer"
             }
@@ -7058,7 +7045,7 @@
             "Chief Assistant Education Officer Grade Level 13": {
            
               "EntryRequirements": [
-                "By promotion of a suitable Principal Assistant Education Officer Grade I whohas spent at least three years on the grade."
+                "By promotion of a suitable Principal Assistant Education Officer Grade I who has spent at least three years on the grade."
 
               ],
               "AdvancementPath": ""
@@ -7075,7 +7062,7 @@
             "Education Officer Grade II Grade Level 08": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the fall qualifications A degree in Education or in any other relevant subject from a recognized University. A degree in a relevant subject plus a postgraduate Diploma Certificate Education."
+                "By direct appointment of a candidate possessing any of the following qualifications; A degree in Education or in any other relevant subject from a recognized University. or A degree in a relevant subject plus a postgraduate Diploma Certificate Education."
               ],
               "AdvancementPath": "Promotion to Education Officer Grade I"
             }
@@ -7086,7 +7073,7 @@
             
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Education Officer Grade II who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the fall qualifications A degree in Education or in any other relevant subject from a recognized University. A degree in a relevant subject plus a postgraduate Diploma Certificate Education plus at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications; A degree in Education or in any other relevant subject from a recognized University. or A degree in a relevant subject plus a postgraduate Diploma Certificate Education plus at least three years on the grade.",
                 "By direct appointment of a candidate possessing a relevant Masters’ degree from a recognized University plus at least one-year post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Senior Education Officer"
@@ -7098,8 +7085,8 @@
             
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Education Officer Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the fall qualifications A degree in Education or in any other relevant subject from a recognized University. A degree in a relevant subject plus a postgraduate Diploma Certificate Education plus at least five years on the grade.",
-                "By direct appointment of a candidate possessing a relevant Masters’ degree from a recognized University plus at least three-year post-qualification cognate experience."
+                "By direct appointment of a candidate possessing any of the following qualifications; A degree in Education or in any other relevant subject from a recognized University. or A degree in a relevant subject plus a postgraduate Diploma Certificate Education plus at least six years on the grade.",
+                "By direct appointment of a candidate possessing a relevant Doctorate degree from a recognized University plus at least one-year post-qualification cognate experience. or By direct appointment of a candidate possessing a relevant Masters degree from a recognized University plus at least four-year post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Principal Education Officer"
             }
@@ -7187,9 +7174,8 @@
             "Handicraftsman Grade Level 04": {
              
               "EntryRequirements": [
-                  "By the promotion of a confirmed and suitable Handicraftsman (GL. 03) who has spent a minimum of two years in that grade and has demonstrated competence in their craft."
-              ,
-              "By direct appointment of a candidate possessing any of the following qualifications:- West African School Certificate or Senior Secondary School Certificate (WASC/SSSC). General Certificate of Education (Ordinary Level) with four credits passed at one sitting or five credits at two sittings."              
+                  "By the promotion of a confirmed and suitable Assistant Handicraftsman who has spent a minimum of two years in that grade and has demonstrated competence in their craft.",
+   "By direct appointment of a candidate possessing a minimum of First School Leaving Certificate plus at least two years’ practical experience Handcraftsmanship in a reputable organization plus at least four years’ relevant practical experience or By direct appointment of a talented blind candidate who has successfully undergone training in a recognized Vocational Training Centre. plus at least two years’ relevant practical experience"
                 ],
               "AdvancementPath": "Promotion to Senior Handicraftsman Grade II "
             }
@@ -7199,7 +7185,7 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Handicraftsman who has spent at least two years on the grade.",
-                  "By direct appointment of a candidate possessing a minimum of First School Leaving Certificate plus at least six years’ practical experience Handcraftsmanship in a reputable organization. orBy direct appointment of a talented blind candidate who has successfully undergone training in a recognized Vocational Training Centre. plus at least four years’ relevant practical experience"
+                  "By direct appointment of a candidate possessing a minimum of First School Leaving Certificate plus at least six years’ practical experience Handcraftsmanship in a reputable organization. or By direct appointment of a talented blind candidate who has successfully undergone training in a recognized Vocational Training Centre. plus at least four years’ relevant practical experience"
             
 
               ],
@@ -7234,7 +7220,7 @@
             "Instructor Grade Level 07": {
             
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: Royal society of Art Teachers’ Certificate in shorthand and Typewriting. National Technical Teachers Certificate in Stenography National Certificate of Education in relevant subjectsHigher National Diploma in relevant subject from a recognized Institution."
+                "By direct appointment of a candidate possessing any of the following qualifications: Royal society of Art Teachers’ Certificate in shorthand and Typewriting. or National Technical Teachers Certificate in Stenography or National Certificate of Education in relevant subjects or Higher National Diploma in relevant subject from a recognized Institution."
 
               ],
               "AdvancementPath": "Promotion to Higher Instructor"
@@ -7245,8 +7231,7 @@
               
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Instructor who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Royal society of Art Teachers’ Certificate in shorthand and Typewriting. National Technical Teachers Certificate in Stenography National Certificate of Education in relevant subjectsHigher National Diploma in relevant subject from a recognized Institution. plus at least six years’ post-qualification cognate experience."
-
+                "By direct appointment of a candidate possessing any of the following qualifications: Royal society of Art Teachers’ Certificate in shorthand and Typewriting. or National Technical Teachers Certificate in Stenography or National Certificate of Education in relevant subjects or Higher National Diploma in relevant subject from a recognized Institution. plus at least three years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Senior Instructor"
             }
@@ -7256,7 +7241,7 @@
           
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Higher Instructor who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Royal society of Art Teachers’ Certificate in shorthand and Typewriting. National Technical Teachers Certificate in Stenography National Certificate of Education in relevant subjectsHigher National Diploma in relevant subject from a recognized Institution. plus at least six years’ post-qualification cognate experience."
+                "By direct appointment of a candidate possessing any of the following qualifications: Royal society of Art Teachers’ Certificate in shorthand and Typewriting. or National Technical Teachers Certificate in Stenography or National Certificate of Education in relevant subjects or Higher National Diploma in relevant subject from a recognized Institution. plus at least six years’ post-qualification cognate experience."
 
               ],
               "AdvancementPath": "Promotion to Principal instructor Grade II"
@@ -7268,7 +7253,7 @@
              
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Senior Instructor who has spent at least three years on the grade.",
-              "By direct appointment of a candidate possessing any of the following qualifications: Royal society of Art Teachers’ Certificate in shorthand and Typewriting. National Technical Teachers Certificate in Stenography National Certificate of Education in relevant subjectsHigher National Diploma in relevant subject from a recognized Institution. plus at least six years’ post-qualification cognate experience."
+              "By direct appointment of a candidate possessing any of the following qualifications: Royal society of Art Teachers’ Certificate in shorthand and Typewriting. or National Technical Teachers Certificate in Stenography or National Certificate of Education in relevant subjects or Higher National Diploma in relevant subject from a recognized Institution. plus at least nine years’ post-qualification cognate experience."
 
               ],
               "AdvancementPath": "Promotion to Principal Instructor Grade I"
@@ -7289,7 +7274,7 @@
             "Assistant Chief Instructor Grade Level 13": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Principal Instructor Grade I who has spent at least three years on the grade and successfully completed the course specified in previous level"
+                "By promotion of a suitable Principal Instructor Grade I who has spent at least three years on the grade and successfully completed the course specified in their level"
               ],
               "AdvancementPath": "Promotion to Chief Instructor"
             }
@@ -7298,7 +7283,7 @@
             "Chief Instructor Grade Level 14": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Assistant Chief Instructor who has spent at least three years on the grade and successfully completed the course specified in Principal Instructor Grade I"
+                "By promotion of a suitable Assistant Chief Instructor who has spent at least three years on the grade and successfully completed the course specified in Principal Instructor Grade I grade level"
 
               ],
               "AdvancementPath": ""
@@ -7317,10 +7302,8 @@
             "Assistant Technical Officer Grade Level 06": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in the relevant subject from a recognized Institution. Full Technological Certificate (Craft) of the City and Guilds of London Institute in the relevant subject.",
-                "By direct appointment of a candidate possessing Final Certificate of the CityGuilds of London Institute in the relevant subject plus at least two years’ post-qualification cognate experience."
-
-                
+                "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in the relevant subject from a recognized Institution. or Full Technological Certificate (Craft) of the City and Guilds of London Institute in the relevant subject.",
+                "By direct appointment of a candidate possessing Final Certificate of the City Guilds of London Institute in the relevant subject plus at least two years’ post-qualification cognate experience."       
               ],
               "AdvancementPath": "Promotion to Technical Officer"
             }
@@ -7331,10 +7314,7 @@
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Assistant Technical Officer who has spent at least two years on the grade.",
                 "By advancement of a suitable Assistant Technical Officer possessing the qualification Ordinary National Diploma in the relevant subject from a recognized Institution. or Full Technological Certificate (Craft) of the City and Guilds of London Institute in the relevant subject. after twelve months experience on the grade.",                
-                 "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in the relevant subject from a recognized Institution. or Full Technological Certificate (Craft) of the City and Guilds of London Institute in the relevant subject plus at least one year post-qualification cognate experience  or By direct appointment of a candidate possessing Final Certificate of the CityGuilds of London Institute in the relevant subject plus at least four years’ post-qualification cognate experience."
-
-
-                
+                 "By direct appointment of a candidate possessing any of the following qualifications: Ordinary National Diploma in the relevant subject from a recognized Institution. or Full Technological Certificate (Craft) of the City and Guilds of London Institute in the relevant subject plus at least one year post-qualification cognate experience  or By direct appointment of a candidate possessing Final Certificate of the CityGuilds of London Institute in the relevant subject plus at least four years’ post-qualification cognate experience."    
               ],
               "AdvancementPath": "Promotion to Higher Technical Officer"
             }
@@ -7366,7 +7346,7 @@
             "Principal Technical Officer Grade II Grade Level 10": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Technical Officer who has at least three years on the grade",
+                "By promotion of a confirmed and suitable Senior Technical Officer who has spent at least three years on the grade",
                 "By direct appointment of a candidate possessing the Higher National Diploma relevant subject from a recognized Institution or the Full Technical Certificate (Technician) of the City and Guilds of London Institute in relevant subject. plus at least six years’ post-qualification cognate experience."                            
                           
               ],
@@ -7423,7 +7403,7 @@
             "Assistant Executive Officer Grade Level 06": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Accountancy or Business Administration with accountancy as one of the subjects obtained from a recognized Institution. A pass in the intermediate Examination of any of the recognised Professional Accountancy bodies.  R.S.A Stage I (Advanced) in Accounts and Bookkeeping.",
+                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Accountancy or Business Administration with accountancy as one of the subjects obtained from a recognized Institution. or A pass in the intermediate Examination of any of the recognised Professional Accountancy bodies. or Intermediate Certificate of the Chartered Institute of Secretaries and Administrations. or  R.S.A Stage I (Advanced) in Accounts and Bookkeeping.",
                 "By advancement of a confirmed Clerical Officer who has successfully completed Treasury Stage III Course."
 
               ],
@@ -7434,11 +7414,9 @@
             "Executive Officer Grade Level 07": {
               
               "EntryRequirements": [
-                "Bypromotion of a confirmed and suitable Assistant Executive Officer who has spent at least two years on the grade.",
+                "By promotion of a confirmed and suitable Assistant Executive Officer who has spent at least two years on the grade.",
                 "By advancement of an Assistant Executive Officer who has successfully completed the Treasury Stage II Course.",
-                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Accountancy or Business Administration with accountancy as one of the subjects obtained from a recognized Institution. A pass in the intermediate Examination of any of the recognised Professional Accountancy bodies.  R.S.A Stage I (Advanced) in Accounts and Bookkeeping. plus at least two years post-qualification cognate experience."
-
-
+                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Accountancy or Business Administration with accountancy as one of the subjects obtained from a recognized Institution. or A pass in the intermediate Examination of any of the recognised Professional Accountancy bodies. or R.S.A Stage I (Advanced) in Accounts and Bookkeeping. plus at least two years post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Higher Executive Officer"
             }
@@ -7447,10 +7425,10 @@
             "Higher Executive Officer Grade Level 08": {
               
               "EntryRequirements": [
-                "By promotionof a confirmed and suitable Executive Officer who has spent at least three years on the grade.",
+                "By promotion of a confirmed and suitable Executive Officer who has spent at least three years on the grade.",
                 "By advancement of an Executive Officer who has successfully completed the Treasury Stage I Course.",
-                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Accountancy or Business Administration with accounting subjects obtained from a recognized institution. Associate Membership of the Chartered Institute of Secretaries and Administrators in Accountancy.",
-                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Accountancy or Business Administration with accountancy as one of the subjects obtained from a recognized Institution. A pass in the intermediate Examination of any of the recognised Professional Accountancy bodies.  R.S.A Stage I (Advanced) in Accounts and Bookkeeping. plus at least five years’ post- qualification cognate experience."
+                "By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Accountancy or Business Administration with accounting subjects obtained from a recognized institution. or Associate Membership of the Chartered Institute of Secretaries and Administrators in Accountancy.",
+                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Accountancy or Business Administration with accountancy as one of the subjects obtained from a recognized Institution. or A pass in the intermediate Examination of any of the recognised Professional Accountancy bodies. or R.S.A Stage I (Advanced) in Accounts and Bookkeeping. plus at least five years’ post- qualification cognate experience."
               
               ],
               "AdvancementPath": "Promotion to Senior Executive Officer"
@@ -7460,8 +7438,8 @@
             "Senior Executive Officer Grade Level 09": {
               
               "EntryRequirements": [
-                "Bypromotionofa confirmed and suitable Higher Executive Officer who hasspent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Accountancy or Business Administration with accountancy as one of the subjects obtained from a recognized Institution. A pass in the intermediate Examination of any of the recognised Professional Accountancy bodies.  R.S.A Stage I (Advanced) in Accounts and Bookkeeping. plus at least eight years’ post- qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Accountancy or Business Administration with accounting subjects obtained from a recognized institution. Associate Membership of the Chartered Institute of Secretaries and Administrators in Accountancy. above plus at least three years post-qualification cognate experience"
+                "By promotion of a confirmed and suitable Higher Executive Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Accountancy or Business Administration with accountancy as one of the subjects obtained from a recognized Institution. or A pass in the intermediate Examination of any of the recognised Professional Accountancy bodies. or R.S.A Stage I (Advanced) in Accounts and Bookkeeping. plus at least eight years’ post- qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Accountancy or Business Administration with accounting subjects obtained from a recognized institution. or Associate Membership of the Chartered Institute of Secretaries and Administrators in Accountancy. plus at least three years post-qualification cognate experience"
 
               ],
               "AdvancementPath": "Promotion to Principal Executive Officer Grade II"
@@ -7480,7 +7458,7 @@
             }
           },
           {
-            "Principal Executive Officer Grade 1 Grade Level 12": {
+            "Principal Executive Officer Grade I Grade Level 12": {
               
               "EntryRequirements": [
                 " By promotion of a confirmed and suitable Principal Executive Officer Grade II who has spent at least three years on the grade."
@@ -7516,7 +7494,7 @@
             "Auditor Grade II Grade Level 08": {
              
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing a degree in Accountancy from arecognized University"
+                "By direct appointment of a candidate possessing a degree in Accountancy from a recognized University"
 
                               ],
               "AdvancementPath": "Promotion to Auditor Grade I"
@@ -7527,7 +7505,7 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Auditor Grade II who has spent atleast three years on the grade",
-                "By direct appointment of a candidate possessing a degree in Accountancy from arecognized University plus at least three years’ post-qualification cognate experience.",
+                "By direct appointment of a candidate possessing a degree in Accountancy from a recognized University plus at least three years’ post-qualification cognate experience.",
                 "By direct appointment of a candidate possessing a minimum of first degree or Higher National Diploma plus the Professional Diploma of the Association of National Accountants of Nigeria (ANAN)."
               ],
               "AdvancementPath": "Promotion to Senior Auditor"
@@ -7538,8 +7516,8 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Auditor Grade I who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing the Financial Certificate of any of the following professional Accountancy bodies on their equivalent. Institute of Chartered Accountants of Nigeria (ICAN). Association of Certified and Corporate Accountants (ACCA). Chartered Institute of Public Finance (CIPF). Institute of Cost and Management Accountants (ACCA). Institute of Certified Public Accountants (ICPA).",
-"By direct appointment of a candidate possessing a degree in Accountancy from arecognized University plus at least six years’ post- qualification cognate experience or By direct appointment of a candidate possessing a minimum of first degree or Higher National Diploma plus the Professional Diploma of the Association of National Accountants of Nigeria (ANAN) plus at least three years’ post- qualification cognate experience "
+                "By direct appointment of a candidate possessing the Financial Certificate of any of the following professional Accountancy bodies on their equivalent. Institute of Chartered Accountants of Nigeria (ICAN). or Association of Certified and Corporate Accountants (ACCA). or Chartered Institute of Public Finance (CIPF). or Institute of Cost and Management Accountants (ACCA). or Institute of Certified Public Accountants (ICPA).",
+"By direct appointment of a candidate possessing a degree in Accountancy from a recognized University plus at least six years’ post- qualification cognate experience or By direct appointment of a candidate possessing a minimum of first degree or Higher National Diploma plus the Professional Diploma of the Association of National Accountants of Nigeria (ANAN) plus at least three years’ post- qualification cognate experience "
               ],
               "AdvancementPath": "Promotion to Principal Auditor"
             }
@@ -7549,8 +7527,6 @@
            
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Senior Auditor who has spent at least three years on the grade."
-
-
               ],
               "AdvancementPath": "Promotion to Assistant Chief Auditor "
             }
@@ -7616,7 +7592,7 @@
             "Assistant Executive Officer Grade Level 06": {
               
               "EntryRequirements": [
-                "By direct appointment of a candidate possessing any of the following qualifications By direct appointment of a candidate possessing any of the following qualifications A pass in Sections I and II (Intermediate) of the Association of Certified and Corporate Accountants. Intermediate Certificate of the Institute of Chartered Secretaries andAdministrators. Ordinary National Diploma in Accountancy orBusiness Administration obtained from a recognized Institution. R.S.A. Stage III (Advanced) In Accounts and other related subjects.",
+                "By direct appointment of a candidate possessing any of the following qualifications; A pass in Sections I and II (Intermediate) of the Association of Certified and Corporate Accountants. or Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or Ordinary National Diploma in Accountancy or Business Administration obtained from a recognized Institution. or R.S.A. Stage III (Advanced) In Accounts and other related subjects.",
 
                 "By advancement of a confirmed Clerical Officer who has successfully completed Treasury Stage I Course."
 
@@ -7628,12 +7604,9 @@
             "Executive Officer Grade Level 07": {
               
               "EntryRequirements": [
-                "Bypromotion of a confirmed and suitable Assistant Executive Officer who has spent at least two years on the grade.",
-                "By advancement of an Assistant Executive Officer who has successfully completed the Treasury Stage II Course.",
-                "By direct appointment of a candidate possessing any of the following qualifications By direct appointment of a candidate possessing any of the following qualifications A pass in Sections I and II (Intermediate) of the Association of Certified and Corporate Accountants. Intermediate Certificate of the Institute of Chartered Secretaries andAdministrators. Ordinary National Diploma in Accountancy orBusiness Administration obtained from a recognized Institution. R.S.A. Stage III (Advanced) In Accounts and other related subjects. plus at least two years’ post-qualification cognate experience."
-
-                
-
+                "By promotion of a confirmed and suitable Assistant Executive Officer who has spent at least two years on the grade.",
+                "By advancement of an Assistant Executive Officer who has attended and  successfully completed the Treasury Stage II Course.",
+                "By direct appointment of a candidate possessing any of the following qualifications; A pass in Sections I and II (Intermediate) of the Association of Certified and Corporate Accountants. or Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or Ordinary National Diploma in Accountancy or Business Administration obtained from a recognized Institution. or R.S.A. Stage III (Advanced) In Accounts and other related subjects. plus at least two years’ post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Higher Executive Officer"
             }
@@ -7643,9 +7616,9 @@
               
               "EntryRequirements": [
                 "By promotionof a confirmed and suitable Executive Officer who has spent at least three years on the grade.",
-                "By direct appointment of a candidate possessing any of the following qua1ifications: Associate Member of the Chartered Institute of Secretaries and Administrators in Accountancy. Higher National Diploma in Accountancy or Business Administration obtained from a recognized Institution.",
-                "By direct appointment of a candidate possessing any of the following qualifications A pass in Sections I and II (Intermediate) of the Association of Certified and Corporate Accountants. Intermediate Certificate of the Institute of Chartered Secretaries andAdministrators. Ordinary National Diploma in Accountancy orBusiness Administration obtained from a recognized Institution. R.S.A. Stage III (Advanced) In Accounts and other related subjects. plus at least five years’ post-qualification cognate experience.",
-                "By advancement of an Executive Officer who has successfully completed the Treasury Stage III Course."              
+                "By direct appointment of a candidate possessing any of the following qua1ifications: Associate Member of the Chartered Institute of Secretaries and Administrators in Accountancy. or Higher National Diploma in Accountancy or Business Administration obtained from a recognized Institution.",
+                "By direct appointment of a candidate possessing any of the following qualifications A pass in Sections I and II (Intermediate) of the Association of Certified and Corporate Accountants. or Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or Ordinary National Diploma in Accountancy or Business Administration obtained from a recognized Institution. or R.S.A. Stage III (Advanced) In Accounts and other related subjects. plus at least five years’ post-qualification cognate experience.",
+                "By advancement of an Executive Officer who has attended and successfully completed the Treasury Stage III Course."              
               ],
               "AdvancementPath": "Promotion to Senior Executive Officer"
             }
@@ -7654,11 +7627,8 @@
             "Senior Executive Officer Grade Level 09": {
               
               "EntryRequirements": [
-                "Bypromotionofa confirmed and suitable Higher Executive Officer who hasspent at least three years on the grade.",
-                "By advancement of an Executive Officer who has successfully completed the Treasury Stage III Course plus at least eight years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qua1ifications: Associate Member of the Chartered Institute of Secretaries and Administrators in Accountancy. Higher National Diploma in Accountancy or Business Administration obtained from a recognized Institution plus at least three years post-qualification cognate experience."
-
-                
-
+                "By promotion of a confirmed and suitable Higher Executive Officer who has spent at least three years on the grade.",
+                "By direct appointment of a candidate possessing any of the following qualifications A pass in Sections I and II (Intermediate) of the Association of Certified and Corporate Accountants. or Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or Ordinary National Diploma in Accountancy or Business Administration obtained from a recognized Institution. or R.S.A. Stage III (Advanced) In Accounts and other related subjects. plus at least eight years’ post-qualification cognate experience. or By direct appointment of a candidate possessing any of the following qua1ifications: Associate Member of the Chartered Institute of Secretaries and Administrators in Accountancy. or Higher National Diploma in Accountancy or Business Administration obtained from a recognized Institution. plus at least three years post-qualification cognate experience."
               ],
               "AdvancementPath": "Promotion to Principal Executive Officer Grade II"
             }
@@ -7667,16 +7637,14 @@
             "Principal Executive Officer Grade II Grade Level 10": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Senior Executive Officer who attended and passed the Middle Financial Management Course.",                                "By direct appointment of a candidate possessing any of the following qualifications:- Ordinary National Diploma in Accountancy or Business Administration with accountancy as one of the subjects obtained from a recognized Institution. A pass in the intermediate Examination of any of the recognised Professional Accountancy bodies.  R.S.A Stage I (Advanced) in Accounts and Bookkeeping. plus at least eight years’ post- qualification cognate experience or By direct appointment of a candidate possessing any of the following qualifications: Higher National Diploma in Accountancy or Business Administration with accounting subjects obtained from a recognized institution. Associate Membership of the Chartered Institute of Secretaries and Administrators in Accountancy. above plus at least three years post-qualification cognate experience",
-                "By advancement of an Executive Officer who has successfully completed the Treasury Stage III Course plus at least eleven years’ post-qualification cognate experience or By direct appointment of a candidate possessing any of the following qua1ifications: Associate Member of the Chartered Institute of Secretaries and Administrators in Accountancy. Higher National Diploma in Accountancy or Business Administration obtained from a recognized Institution plus at least six years post-qualification cognate experience."
-
-              
+                "By promotion of a confirmed and suitable Senior Executive Officer who attended and passed the Middle Financial Management Course.",                                
+                "By direct appointment of a candidate possessing any of the following qualifications A pass in Sections I and II (Intermediate) of the Association of Certified and Corporate Accountants. or Intermediate Certificate of the Institute of Chartered Secretaries and Administrators. or Ordinary National Diploma in Accountancy or Business Administration obtained from a recognized Institution. or R.S.A. Stage III (Advanced) In Accounts and other related subjects. plus at least eleven years’ post-qualification cognate experience. or By direct appointment of a candidate possessing any of the following qua1ifications: Associate Member of the Chartered Institute of Secretaries and Administrators in Accountancy. or Higher National Diploma in Accountancy or Business Administration obtained from a recognized Institution. plus at least six years post-qualification cognate experience."  
               ],
-              "AdvancementPath": "Promotion to Principal Executive Officer Grade 1"
+              "AdvancementPath": "Promotion to Principal Executive Officer Grade I"
             }
           },
           {
-            "Principal Executive Officer Grade 1 Grade Level 12": {
+            "Principal Executive Officer Grade I Grade Level 12": {
               
               "EntryRequirements": [
                 " By promotion of a confirmed and suitable Principal Executive Officer Grade II who has attended and passed the Middle Financial Management Course."
@@ -7711,7 +7679,7 @@
             "Accountant Grade II Grade Level 08": {
               
               "EntryRequirements": [
-                "By direct appointment of acandidate possessing a degree in Accountancyfrom a recognized University."
+                "By direct appointment of a candidate possessing a degree in Accountancy from a recognized University."
               ],
               "AdvancementPath": "Promotion to Accountant Grade I"
             }
@@ -7721,11 +7689,10 @@
             "Accountant Grade I Grade Level 09": {
             
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Accountant Grade II who has spentat least three years on-the grade.",
-                "By direct appointment of acandidate possessing a degree in Accountancyfrom a recognized University plus at least three years’ post-qualification cognate experience.",
+                "By promotion of a confirmed and suitable Accountant Grade II who has spent at least three years on-the grade.",
+                "By direct appointment of a candidate possessing a degree in Accountancy from a recognized University plus at least three years’ post-qualification cognate experience.",
                 "By direct appointment of a candidate possessing a minimum of first degree or Higher National Diploma plus the professional Diploma of the Association of National Accountants of Nigeria (ANAN)."
-
-
+              
               ],
               "AdvancementPath": "Promotion to Senior Accountant "
             }
@@ -7734,9 +7701,9 @@
             "Senior Accountant Grade Level 10": {
              
               "EntryRequirements": [
-                "By promotion of a suitable Deputy Director who has spent at least four years, the grade.",
-                "By direct appointment of acandidate possessing a degree in Accountancyfrom a recognized University plus at least six years’ post-qualification cognate experience or By direct appointment of a candidate possessing a minimum of first degree or Higher National Diploma plus the professional Diploma of the Association of National Accountants of Nigeria (ANAN). plus at least three years’ post-qualification cognate experience",
-                "By direct appointment of’ a candidate possessing the professional qualification ofany of the following Accounting bodies: Institute of Chartered Accountants of Nigeria (ICAN). Association of Certified and Corporate Accountants (ACCA). Institute of Cost and Management Accountants (ICMA). Chartered Institute of Public Finance and Accountancy (CIPFA). Institute of Certified Public Accountants (ICPA)."
+                "By promotion of a confirmed and suitable Accountant Grade I who has spent at least three years on-the grade.",
+                "By direct appointment of a candidate possessing a degree in Accountancy from a recognized University plus at least six years’ post-qualification cognate experience or By direct appointment of a candidate possessing a minimum of first degree or Higher National Diploma plus the professional Diploma of the Association of National Accountants of Nigeria (ANAN). plus at least three years’ post-qualification cognate experience",
+                "By direct appointment of’ a candidate possessing the professional qualification ofany of the following Accounting bodies: Institute of Chartered Accountants of Nigeria (ICAN). or Association of Certified and Corporate Accountants (ACCA). or Institute of Cost and Management Accountants (ICMA). or Chartered Institute of Public Finance and Accountancy (CIPFA). or Institute of Certified Public Accountants (ICPA)."
               ],
               "AdvancementPath": "Promotion to Principal Accountant"
             }
@@ -7756,9 +7723,7 @@
             "Assistant Chief Accountant Grade Level 13": {
               
               "EntryRequirements": [
-                "By promotion of a confirmed and suitable Principal Accountant who has spentleast three years on the grade and registered with any of the recognized professional accountancy bodies."
-
-                
+                "By promotion of a confirmed and suitable Principal Accountant who has spent least three years on the grade and registered with any of the recognized professional accountancy bodies."        
               ],
               "AdvancementPath": "Promotion to Chief Accountant "
             }
@@ -7783,16 +7748,16 @@
           },
 
           {
-            "Deputy Director/Director (Office of the Acct. General of the States) Grade Level 16": {
+            "Deputy Director/Director (Office of the Accountants-General of the States) Grade Level 16": {
             
               "EntryRequirements": [
                 "By promotion of a confirmed and suitable Assistant Director who is professionally qualified and has spent at least four years on the grade and attended and passed an Advanced Financial Management Course."
               ],
-              "AdvancementPath": "Promotion to Director (Office-of the Accountant General ofthe Federation)"
+              "AdvancementPath": "Promotion to Director (Office of the Accountant General of the Federation)"
             }
           },
           {
-            "Director (Office-of the Accountant General ofthe Federation) Grade Level 17": {
+            "Director (Office of the Accountant General of the Federation) Grade Level 17": {
             
               "EntryRequirements": [
               "By promotion of a confirmed and suitable Assistant Director who is professionally qualified and has spent at least four years on the grade and attended and passed an Advanced Financial Management Course."
